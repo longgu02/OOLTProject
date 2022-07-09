@@ -1,0 +1,3390 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix ns3:  <http://dbpedia.org/resource/List_of_railway_stations_in_Japan:> .
+@prefix ns4:  <http://dbpedia.org/resource/List_of_settlements_in_the_Federation_of_Bosnia_and_Herzegovina/> .
+@prefix ns5:  <http://dbpedia.org/resource/List_of_FELDA/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:List_of_Ministers_for_Greenland
+        rdfs:comment  "Ministers for Greenland"@en ;
+        rdfs:label    "List of Ministers for Greenland"@en .
+
+dbr:1861_in_archaeology
+        rdfs:comment  "1861 in archaeology"@en ;
+        rdfs:label    "1861 in archaeology"@en .
+
+dbr:List_of_Federal_Roads_in_Malaysia
+        rdfs:comment  "List of Federal Roads in Malaysia"@en ;
+        rdfs:label    "List of Federal Roads in Malaysia"@en .
+
+dbr:Italian_names_in_the_solar_system
+        rdfs:comment  "Italian names in the solar system"@en ;
+        rdfs:label    "Italian names in the solar system"@en .
+
+dbr:1996_Cerezo_Osaka_season
+        rdfs:comment  "1996 Cerezo Osaka season"@en ;
+        rdfs:label    "1996 Cerezo Osaka season"@en .
+
+dbr:2000_Vegalta_Sendai_season
+        rdfs:comment  "2000 Vegalta Sendai season"@en ;
+        rdfs:label    "2000 Vegalta Sendai season"@en .
+
+dbr:2003_Yokohama_FC_season
+        rdfs:comment  "2003 Yokohama FC season"@en ;
+        rdfs:label    "2003 Yokohama FC season"@en .
+
+dbr:2010_Mito_HollyHock_season
+        rdfs:comment  "2010 Mito HollyHock season"@en ;
+        rdfs:label    "2010 Mito HollyHock season"@en .
+
+dbr:2002_Yokohama_FC_season
+        rdfs:comment  "2002 Yokohama FC season"@en ;
+        rdfs:label    "2002 Yokohama FC season"@en .
+
+dbr:2000_in_birding_and_ornithology
+        rdfs:comment  "To be completed"@en ;
+        rdfs:label    "2000 in birding and ornithology"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1985
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1985"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1985"@en .
+
+dbr:Anthem_Records_discography
+        rdfs:comment  "Anthem Records discography"@en ;
+        rdfs:label    "Anthem Records discography"@en .
+
+dbr:1999_Sagan_Tosu_season
+        rdfs:comment  "1999 Sagan Tosu season"@en ;
+        rdfs:label    "1999 Sagan Tosu season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_K-L
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: K-L"@en .
+
+dbr:1993_Sanfrecce_Hiroshima_season
+        rdfs:comment  "1993 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "1993 Sanfrecce Hiroshima season"@en .
+
+dbr:2003_Vissel_Kobe_season
+        rdfs:comment  "2003 Vissel Kobe season"@en ;
+        rdfs:label    "2003 Vissel Kobe season"@en .
+
+dbr:1927_in_philosophy
+        rdfs:comment  "1927 in philosophy"@en ;
+        rdfs:label    "1927 in philosophy"@en .
+
+dbr:Mechanically_stimulated_gas_emission
+        rdfs:comment  "Mechanically Stimulated Gas Emission"@en ;
+        rdfs:label    "Mechanically stimulated gas emission"@en .
+
+dbr:2002_Vissel_Kobe_season
+        rdfs:comment  "2002 Vissel Kobe season"@en ;
+        rdfs:label    "2002 Vissel Kobe season"@en .
+
+dbr:2007_Oita_Trinita_season
+        rdfs:comment  "2007 Oita Trinita season"@en ;
+        rdfs:label    "2007 Oita Trinita season"@en .
+
+dbr:Bulgarian_names_in_space
+        rdfs:comment  "Bulgarian names in cosmos"@en ;
+        rdfs:label    "Bulgarian names in space"@en .
+
+dbr:Finnish_Infantry_Division_Generic_Organisation
+        rdfs:comment  "Finnish Infantry Division Generic Organisation"@en ;
+        rdfs:label    "Finnish Infantry Division Generic Organisation"@en .
+
+dbr:1921_in_philosophy
+        rdfs:comment  "1921 in philosophy"@en ;
+        rdfs:label    "1921 in philosophy"@en .
+
+dbr:2001_Sagan_Tosu_season
+        rdfs:comment  "2001 Sagan Tosu season"@en ;
+        rdfs:label    "2001 Sagan Tosu season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_J
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: J"@en .
+
+dbr:2005_Vegalta_Sendai_season
+        rdfs:comment  "2005 Vegalta Sendai season"@en ;
+        rdfs:label    "2005 Vegalta Sendai season"@en .
+
+dbr:Miss_Kentucky_United_States
+        rdfs:comment  "[[]]"@en ;
+        rdfs:label    "Miss Kentucky United States"@en .
+
+dbr:2010_Oita_Trinita_season
+        rdfs:comment  "2010 Oita Trinita season"@en ;
+        rdfs:label    "2010 Oita Trinita season"@en .
+
+dbr:2010_Kashiwa_Reysol_season
+        rdfs:comment  "2010 Kashiwa Reysol season"@en ;
+        rdfs:label    "2010 Kashiwa Reysol season"@en .
+
+dbr:List_of_institutions_of_higher_education_in_West_Bengal
+        rdfs:comment  "Collage"@en ;
+        rdfs:label    "List of institutions of higher education in West Bengal"@en .
+
+dbr:2006_Sanfrecce_Hiroshima_season
+        rdfs:comment  "2006 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "2006 Sanfrecce Hiroshima season"@en .
+
+dbr:2004_Shonan_Bellmare_season
+        rdfs:comment  "2004 Shonan Bellmare season"@en ;
+        rdfs:label    "2004 Shonan Bellmare season"@en .
+
+dbr:1994_Yokohama_Flügels_season
+        rdfs:comment  "1994 Yokohama Flügels season"@en ;
+        rdfs:label    "1994 Yokohama Flügels season"@en .
+
+dbr:2021_in_philosophy
+        rdfs:comment  "2021 in philosophy"@en ;
+        rdfs:label    "2021 in philosophy"@en .
+
+dbr:List_of_Flamengo_Categories_of_Base_transfers_2011
+        rdfs:comment  "List of Flamengo Categories of Base transfers 2011"@en ;
+        rdfs:label    "List of Flamengo Categories of Base transfers 2011"@en .
+
+dbr:2010_Ventforet_Kofu_season
+        rdfs:comment  "2010 Ventforet Kofu season"@en ;
+        rdfs:label    "2010 Ventforet Kofu season"@en .
+
+dbr:1841_in_archaeology
+        rdfs:comment  "1841 in archaeology"@en ;
+        rdfs:label    "1841 in archaeology"@en .
+
+dbr:2008_Kyoto_Sanga_FC_season
+        rdfs:comment  "2008 Kyoto Sanga F.C. season"@en ;
+        rdfs:label    "2008 Kyoto Sanga FC season"@en .
+
+<http://dbpedia.org/resource/List_of_programs_broadcast_by_VOX_(Norwegian_TV_channel)>
+        rdfs:comment  "List of programs broadcast by Vox"@en ;
+        rdfs:label    "List of programs broadcast by VOX (Norwegian TV channel)"@en .
+
+dbr:List_of_stratigraphic_units_with_sauropodomorph_tracks
+        rdfs:comment  "List of dinosaur-bearing rock formations"@en ;
+        rdfs:label    "List of stratigraphic units with sauropodomorph tracks"@en .
+
+dbr:1964_in_philosophy
+        rdfs:comment  "1964 in philosophy"@en ;
+        rdfs:label    "1964 in philosophy"@en .
+
+dbr:2002_Cerezo_Osaka_season
+        rdfs:comment  "2002 Cerezo Osaka season"@en ;
+        rdfs:label    "2002 Cerezo Osaka season"@en .
+
+dbr:2008_Júbilo_Iwata_season
+        rdfs:comment  "2008 Júbilo Iwata season"@en ;
+        rdfs:label    "2008 Júbilo Iwata season"@en .
+
+dbr:1999_Cerezo_Osaka_season
+        rdfs:comment  "1999 Cerezo Osaka season"@en ;
+        rdfs:label    "1999 Cerezo Osaka season"@en .
+
+dbr:2010_in_esports  rdfs:comment  "2010 in esports"@en ;
+        rdfs:label    "2010 in esports"@en .
+
+dbr:1860_in_archaeology
+        rdfs:comment  "1860 in archaeology"@en ;
+        rdfs:label    "1860 in archaeology"@en .
+
+dbr:2007_Kashima_Antlers_season
+        rdfs:comment  "2007 Kashima Antlers season"@en ;
+        rdfs:label    "2007 Kashima Antlers season"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1998
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1998"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1998"@en .
+
+dbr:List_of_Speedway_World_Cup_meetings_by_city
+        rdfs:comment  "List of Speedway World Cup meetings by city"@en ;
+        rdfs:label    "List of Speedway World Cup meetings by city"@en .
+
+dbr:Neurosurgery_in_Sri_Lanka
+        rdfs:comment  "Neurosurgery in Sri Lanka"@en ;
+        rdfs:label    "Neurosurgery in Sri Lanka"@en .
+
+dbr:2005_Urawa_Red_Diamonds_season
+        rdfs:comment  "2005 Urawa Red Diamonds season"@en ;
+        rdfs:label    "2005 Urawa Red Diamonds season"@en .
+
+dbr:2002_Sagan_Tosu_season
+        rdfs:comment  "2002 Sagan Tosu season"@en ;
+        rdfs:label    "2002 Sagan Tosu season"@en .
+
+dbr:1917_in_philosophy
+        rdfs:comment  "1917 in philosophy"@en ;
+        rdfs:label    "1917 in philosophy"@en .
+
+dbr:2010_Yokohama_FC_season
+        rdfs:comment  "2010 Yokohama FC season"@en ;
+        rdfs:label    "2010 Yokohama FC season"@en .
+
+dbr:1999_Urawa_Red_Diamonds_season
+        rdfs:comment  "1999 Urawa Red Diamonds season"@en ;
+        rdfs:label    "1999 Urawa Red Diamonds season"@en .
+
+dbr:1911_in_philosophy
+        rdfs:comment  "1911 in philosophy"@en ;
+        rdfs:label    "1911 in philosophy"@en .
+
+dbr:List_of_presidents_of_the_First_Chamber_of_the_Estates_of_Württemberg
+        rdfs:comment  "List of presidents of the First Chamber of the Estates of Württemberg"@en ;
+        rdfs:label    "List of presidents of the First Chamber of the Estates of Württemberg"@en .
+
+dbr:1850_in_archaeology
+        rdfs:comment  "1850 in archaeology"@en ;
+        rdfs:label    "1850 in archaeology"@en .
+
+dbr:2010_Vissel_Kobe_season
+        rdfs:comment  "2010 Vissel Kobe season"@en ;
+        rdfs:label    "2010 Vissel Kobe season"@en .
+
+dbr:2010_Thespa_Kusatsu_season
+        rdfs:comment  "2010 Thespa Kusatsu season"@en ;
+        rdfs:label    "2010 Thespa Kusatsu season"@en .
+
+dbr:1859_in_archaeology
+        rdfs:comment  "1859 in archaeology"@en ;
+        rdfs:label    "1859 in archaeology"@en .
+
+dbr:2004_Albirex_Niigata_season
+        rdfs:comment  "2004 Albirex Niigata season"@en ;
+        rdfs:label    "2004 Albirex Niigata season"@en .
+
+dbr:List_of_association_football_clubs_in_Northern_Ireland
+        rdfs:comment  "NIFL Championship"@en ;
+        rdfs:label    "List of association football clubs in Northern Ireland"@en .
+
+dbr:2017_in_philosophy
+        rdfs:comment  "2017 in philosophy"@en ;
+        rdfs:label    "2017 in philosophy"@en .
+
+dbr:List_of_educational_institutions_in_Palakkad_district
+        rdfs:comment  "."@en ;
+        rdfs:label    "List of educational institutions in Palakkad district"@en .
+
+dbr:1995_Kashima_Antlers_season
+        rdfs:comment  "1995 Kashima Antlers season"@en ;
+        rdfs:label    "1995 Kashima Antlers season"@en .
+
+<http://dbpedia.org/resource/List_of_Providence_County,_Rhode_Island_schools>
+        rdfs:comment  "Providence County, Rhode Island schools"@en ;
+        rdfs:label    "List of Providence County, Rhode Island schools"@en .
+
+dbr:2005_Maui_Invitational_Tournament
+        rdfs:comment  "* – Denotes overtime period"@en ;
+        rdfs:label    "2005 Maui Invitational Tournament"@en .
+
+dbr:2009_Yokohama_F._Marinos_season
+        rdfs:comment  "2009 Yokohama F. Marinos season"@en ;
+        rdfs:label    "2009 Yokohama F. Marinos season"@en .
+
+dbr:2001_Ventforet_Kofu_season
+        rdfs:comment  "2001 Ventforet Kofu season"@en ;
+        rdfs:label    "2001 Ventforet Kofu season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_E
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: E"@en .
+
+dbr:1990_UEFA_European_Under-18_Championship_squads
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "1990 UEFA European Under-18 Championship squads"@en .
+
+dbr:2011_in_philosophy
+        rdfs:comment  "2011 in philosophy"@en ;
+        rdfs:label    "2011 in philosophy"@en .
+
+ns4:T   rdfs:comment  "Tasovčići"@en ;
+        rdfs:label    "List of settlements in the Federation of Bosnia and Herzegovina/T"@en .
+
+dbr:1996_Júbilo_Iwata_season
+        rdfs:comment  "1996 Júbilo Iwata season"@en ;
+        rdfs:label    "1996 Júbilo Iwata season"@en .
+
+dbr:2004_Mito_HollyHock_season
+        rdfs:comment  "2004 Mito HollyHock season"@en ;
+        rdfs:label    "2004 Mito HollyHock season"@en .
+
+dbr:2005_Cerezo_Osaka_season
+        rdfs:comment  "2005 Cerezo Osaka season"@en ;
+        rdfs:label    "2005 Cerezo Osaka season"@en .
+
+dbr:1840_in_archaeology
+        rdfs:comment  "1840 in archaeology"@en ;
+        rdfs:label    "1840 in archaeology"@en .
+
+dbr:1849_in_archaeology
+        rdfs:comment  "1849 in archaeology"@en ;
+        rdfs:label    "1849 in archaeology"@en .
+
+dbr:1954_in_philosophy
+        rdfs:comment  "1954 in philosophy"@en ;
+        rdfs:label    "1954 in philosophy"@en .
+
+dbr:1998_in_philosophy
+        rdfs:comment  "1998 in philosophy"@en ;
+        rdfs:label    "1998 in philosophy"@en .
+
+dbr:Horticulture_Netting_or_Vegetable_Support_Net
+        rdfs:comment  "Horticulture Netting or Vegetable Support Net"@en ;
+        rdfs:label    "Horticulture Netting or Vegetable Support Net"@en .
+
+dbr:2010_Kataller_Toyama_season
+        rdfs:comment  "2010 Kataller Toyama season"@en ;
+        rdfs:label    "2010 Kataller Toyama season"@en .
+
+dbr:2003_Sagan_Tosu_season
+        rdfs:comment  "2003 Sagan Tosu season"@en ;
+        rdfs:label    "2003 Sagan Tosu season"@en .
+
+<http://dbpedia.org/resource/1999–2000_FIBA_Korać_Cup>
+        rdfs:comment  "Sources:"@en ;
+        rdfs:label    "1999–2000 FIBA Korać Cup"@en .
+
+dbr:2010_Yokohama_F._Marinos_season
+        rdfs:comment  "2010 Yokohama F. Marinos season"@en ;
+        rdfs:label    "2010 Yokohama F. Marinos season"@en .
+
+dbr:1992_in_philosophy
+        rdfs:comment  "1992 in philosophy"@en ;
+        rdfs:label    "1992 in philosophy"@en .
+
+<http://dbpedia.org/resource/2010_UCI_Mountain_Bike_&_Trials_World_Championships_–_Men's_downhill>
+        rdfs:comment  "UCI Mountain Bike & Trials World Championships"@en ;
+        rdfs:label    "2010 UCI Mountain Bike & Trials World Championships – Men's downhill"@en .
+
+dbr:2000_Gamba_Osaka_season
+        rdfs:comment  "2000 Gamba Osaka season"@en ;
+        rdfs:label    "2000 Gamba Osaka season"@en .
+
+dbr:2004_Kashiwa_Reysol_season
+        rdfs:comment  "2004 Kashiwa Reysol season"@en ;
+        rdfs:label    "2004 Kashiwa Reysol season"@en .
+
+dbr:1995_Yokohama_Flügels_season
+        rdfs:comment  "1995 Yokohama Flügels season"@en ;
+        rdfs:label    "1995 Yokohama Flügels season"@en .
+
+dbr:List_of_schools_of_the_Ottawa-Carleton_District_School_Board
+        rdfs:comment  "Schools of the Ottawa-Carleton District School Board"@en ;
+        rdfs:label    "List of schools of the Ottawa-Carleton District School Board"@en .
+
+dbr:2000_Avispa_Fukuoka_season
+        rdfs:comment  "2000 Avispa Fukuoka season"@en ;
+        rdfs:label    "2000 Avispa Fukuoka season"@en .
+
+dbr:2009_Mito_HollyHock_season
+        rdfs:comment  "2009 Mito HollyHock season"@en ;
+        rdfs:label    "2009 Mito HollyHock season"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1993
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1993"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1993"@en .
+
+dbr:1830_in_archaeology
+        rdfs:comment  "1830 in archaeology"@en ;
+        rdfs:label    "1830 in archaeology"@en .
+
+dbr:1839_in_archaeology
+        rdfs:comment  "1839 in archaeology"@en ;
+        rdfs:label    "1839 in archaeology"@en .
+
+dbr:1997_Sanfrecce_Hiroshima_season
+        rdfs:comment  "1997 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "1997 Sanfrecce Hiroshima season"@en .
+
+dbr:1854_in_philosophy
+        rdfs:comment  "1854 in philosophy"@en ;
+        rdfs:label    "1854 in philosophy"@en .
+
+dbr:1995_Verdy_Kawasaki_season
+        rdfs:comment  "1995 Verdy Kawasaki season"@en ;
+        rdfs:label    "1995 Verdy Kawasaki season"@en .
+
+dbr:1907_in_philosophy
+        rdfs:comment  "1907 in philosophy"@en ;
+        rdfs:label    "1907 in philosophy"@en .
+
+dbr:2004_Ventforet_Kofu_season
+        rdfs:comment  "2004 Ventforet Kofu season"@en ;
+        rdfs:label    "2004 Ventforet Kofu season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_O-P
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: O-P"@en .
+
+dbr:1898_in_philosophy
+        rdfs:comment  "1898 in philosophy"@en ;
+        rdfs:label    "1898 in philosophy"@en .
+
+dbr:2000_Kawasaki_Frontale_season
+        rdfs:comment  "2000 Kawasaki Frontale season"@en ;
+        rdfs:label    "2000 Kawasaki Frontale season"@en .
+
+dbr:2006_Omiya_Ardija_season
+        rdfs:comment  "2006 Omiya Ardija season"@en ;
+        rdfs:label    "2006 Omiya Ardija season"@en .
+
+dbr:1901_in_philosophy
+        rdfs:comment  "1901 in philosophy"@en ;
+        rdfs:label    "1901 in philosophy"@en .
+
+dbr:Emilia-Romagna_luthiers
+        rdfs:comment  "....."@en ;
+        rdfs:label    "Emilia-Romagna luthiers"@en .
+
+<http://dbpedia.org/resource/Nandhini_(anti-liquor-activist)>
+        rdfs:comment  "is"@en ;
+        rdfs:label    "Nandhini (anti-liquor-activist)"@en .
+
+dbr:1991_in_philosophy
+        rdfs:comment  "1991 in philosophy"@en ;
+        rdfs:label    "1991 in philosophy"@en .
+
+dbr:Timeline_of_solar_astronomy
+        rdfs:comment  "Timeline of solar astronomy"@en ;
+        rdfs:label    "Timeline of solar astronomy"@en .
+
+dbr:2007_in_philosophy
+        rdfs:comment  "2007 in philosophy"@en ;
+        rdfs:label    "2007 in philosophy"@en .
+
+dbr:2001_JEF_United_Ichihara_season
+        rdfs:comment  "2001 JEF United Ichihara season"@en ;
+        rdfs:label    "2001 JEF United Ichihara season"@en .
+
+<http://dbpedia.org/resource/2006_in_women's_road_cycling>
+        rdfs:comment  "Source"@en ;
+        rdfs:label    "2006 in women's road cycling"@en .
+
+dbr:2005_Avispa_Fukuoka_season
+        rdfs:comment  "2005 Avispa Fukuoka season"@en ;
+        rdfs:label    "2005 Avispa Fukuoka season"@en .
+
+dbr:2003_Consadole_Sapporo_season
+        rdfs:comment  "2003 Consadole Sapporo season"@en ;
+        rdfs:label    "2003 Consadole Sapporo season"@en .
+
+dbr:List_of_steam-powered_ships_of_the_line
+        rdfs:comment  "List of steam powered ships of the line"@en ;
+        rdfs:label    "List of steam-powered ships of the line"@en .
+
+dbr:International_rankings_of_Guyana
+        rdfs:comment  "International rankings of Guyana"@en ;
+        rdfs:label    "International rankings of Guyana"@en .
+
+dbr:2001_in_philosophy
+        rdfs:comment  "2001 in philosophy"@en ;
+        rdfs:label    "2001 in philosophy"@en .
+
+dbr:2006_Urawa_Red_Diamonds_season
+        rdfs:comment  "2006 Urawa Red Diamonds season"@en ;
+        rdfs:label    "2006 Urawa Red Diamonds season"@en .
+
+dbr:1829_in_archaeology
+        rdfs:comment  "1829 in archaeology"@en ;
+        rdfs:label    "1829 in archaeology"@en .
+
+dbr:2009_Ventforet_Kofu_season
+        rdfs:comment  "2009 Ventforet Kofu season"@en ;
+        rdfs:label    "2009 Ventforet Kofu season"@en .
+
+dbr:Yves_Castaldi  rdfs:comment  "Yves Castaldi"@en ;
+        rdfs:label    "Yves Castaldi"@en .
+
+dbr:1798_in_philosophy
+        rdfs:comment  "1798 in philosophy"@en ;
+        rdfs:label    "1798 in philosophy"@en .
+
+dbr:2004_Sagan_Tosu_season
+        rdfs:comment  "2004 Sagan Tosu season"@en ;
+        rdfs:label    "2004 Sagan Tosu season"@en .
+
+dbr:2013_FIFA_U-17_World_Cup_squads
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "2013 FIFA U-17 World Cup squads"@en .
+
+dbr:Priya_Kanungo  rdfs:comment  "Priya Kanungo"@en ;
+        rdfs:label    "Priya Kanungo"@en .
+
+dbr:1801_in_philosophy
+        rdfs:comment  "1801 in philosophy"@en ;
+        rdfs:label    "1801 in philosophy"@en .
+
+dbr:2007_Kashiwa_Reysol_season
+        rdfs:comment  "2007 Kashiwa Reysol season"@en ;
+        rdfs:label    "2007 Kashiwa Reysol season"@en .
+
+dbr:Northern_Indiana_Conference_Basketball_Champions
+        rdfs:comment  "Northern Indiana Conference"@en ;
+        rdfs:label    "Northern Indiana Conference Basketball Champions"@en .
+
+dbr:List_of_Georgia_Union_Civil_War_units
+        rdfs:comment  "List of Georgia Union Civil War units"@en ;
+        rdfs:label    "List of Georgia Union Civil War units"@en .
+
+ns4:O   rdfs:comment  ","@en ;
+        rdfs:label    "List of settlements in the Federation of Bosnia and Herzegovina/O"@en .
+
+dbr:1848_in_archaeology
+        rdfs:comment  "1848 in archaeology"@en ;
+        rdfs:label    "1848 in archaeology"@en .
+
+dbr:1944_in_philosophy
+        rdfs:comment  "1944 in philosophy"@en ;
+        rdfs:label    "1944 in philosophy"@en .
+
+dbr:Anil_Zankar  rdfs:comment  "Anil Zankar"@en ;
+        rdfs:label    "Anil Zankar"@en .
+
+dbr:2001_Kawasaki_Frontale_season
+        rdfs:comment  "2001 Kawasaki Frontale season"@en ;
+        rdfs:label    "2001 Kawasaki Frontale season"@en .
+
+dbr:2002_in_birding_and_ornithology
+        rdfs:comment  "To be completed"@en ;
+        rdfs:label    "2002 in birding and ornithology"@en .
+
+dbr:1988_in_philosophy
+        rdfs:comment  "1988 in philosophy"@en ;
+        rdfs:label    "1988 in philosophy"@en .
+
+dbr:Telecommunications_in_Grenada
+        rdfs:comment  "Communications in Grenada"@en ;
+        rdfs:label    "Telecommunications in Grenada"@en .
+
+dbr:2002_Oita_Trinita_season
+        rdfs:comment  "2002 Oita Trinita season"@en ;
+        rdfs:label    "2002 Oita Trinita season"@en .
+
+dbr:Segodnya_Multimedia_Publishing_Group
+        rdfs:comment  "Segodnya Multimedia Publishing Group"@en ;
+        rdfs:label    "Segodnya Multimedia Publishing Group"@en .
+
+dbr:List_of_schools_in_the_Roman_Catholic_Diocese_of_Paterson
+        rdfs:comment  "List of schools in the Roman Catholic Diocese of Paterson"@en ;
+        rdfs:label    "List of schools in the Roman Catholic Diocese of Paterson"@en .
+
+dbr:1999_Oita_Trinita_season
+        rdfs:comment  "1999 Oita Trinita season"@en ;
+        rdfs:label    "1999 Oita Trinita season"@en .
+
+dbr:1982_in_philosophy
+        rdfs:comment  "1982 in philosophy"@en ;
+        rdfs:label    "1982 in philosophy"@en .
+
+dbr:1867_in_archaeology
+        rdfs:comment  "1867 in archaeology"@en ;
+        rdfs:label    "1867 in archaeology"@en .
+
+dbr:2004_Consadole_Sapporo_season
+        rdfs:comment  "2004 Consadole Sapporo season"@en ;
+        rdfs:label    "2004 Consadole Sapporo season"@en .
+
+<http://dbpedia.org/resource/2010_in_women's_road_cycling>
+        rdfs:comment  "Source"@en ;
+        rdfs:label    "2010 in women's road cycling"@en .
+
+dbr:2009_Omiya_Ardija_season
+        rdfs:comment  "2009 Omiya Ardija season"@en ;
+        rdfs:label    "2009 Omiya Ardija season"@en .
+
+dbr:1838_in_archaeology
+        rdfs:comment  "1838 in archaeology"@en ;
+        rdfs:label    "1838 in archaeology"@en .
+
+dbr:1844_in_philosophy
+        rdfs:comment  "1844 in philosophy"@en ;
+        rdfs:label    "1844 in philosophy"@en .
+
+dbr:List_of_quaternary_mammalian_fauna_of_China
+        rdfs:comment  "List of quaternary mammalian fauna of China"@en ;
+        rdfs:label    "List of quaternary mammalian fauna of China"@en .
+
+dbr:2009_Shonan_Bellmare_season
+        rdfs:comment  "2009 Shonan Bellmare season"@en ;
+        rdfs:label    "2009 Shonan Bellmare season"@en .
+
+dbr:2007_Yokohama_FC_season
+        rdfs:comment  "2007 Yokohama FC season"@en ;
+        rdfs:label    "2007 Yokohama FC season"@en .
+
+dbr:2002_Yokohama_F._Marinos_season
+        rdfs:comment  "2002 Yokohama F. Marinos season"@en ;
+        rdfs:label    "2002 Yokohama F. Marinos season"@en .
+
+dbr:2006_Yokohama_FC_season
+        rdfs:comment  "2006 Yokohama FC season"@en ;
+        rdfs:label    "2006 Yokohama FC season"@en .
+
+dbr:1857_in_archaeology
+        rdfs:comment  "1857 in archaeology"@en ;
+        rdfs:label    "1857 in archaeology"@en .
+
+dbr:2009_Thespa_Kusatsu_season
+        rdfs:comment  "2009 Thespa Kusatsu season"@en ;
+        rdfs:label    "2009 Thespa Kusatsu season"@en .
+
+dbr:2007_Vissel_Kobe_season
+        rdfs:comment  "2007 Vissel Kobe season"@en ;
+        rdfs:label    "2007 Vissel Kobe season"@en .
+
+dbo:Publisher  rdfs:comment  "Publishing company"@en ;
+        rdfs:label    "publisher"@en .
+
+dbr:2005_Sagan_Tosu_season
+        rdfs:comment  "2005 Sagan Tosu season"@en ;
+        rdfs:label    "2005 Sagan Tosu season"@en .
+
+dbr:List_of_Pakistan_Navy_admirals
+        rdfs:comment  "List of Pakistan Navy admirals"@en ;
+        rdfs:label    "List of Pakistan Navy admirals"@en .
+
+dbr:2006_Vissel_Kobe_season
+        rdfs:comment  "2006 Vissel Kobe season"@en ;
+        rdfs:label    "2006 Vissel Kobe season"@en .
+
+dbr:1994_JEF_United_Ichihara_season
+        rdfs:comment  "1994 JEF United Ichihara season"@en ;
+        rdfs:label    "1994 JEF United Ichihara season"@en .
+
+dbr:1996_Yokohama_Flügels_season
+        rdfs:comment  "1996 Yokohama Flügels season"@en ;
+        rdfs:label    "1996 Yokohama Flügels season"@en .
+
+dbr:2005_Consadole_Sapporo_season
+        rdfs:comment  "2005 Consadole Sapporo season"@en ;
+        rdfs:label    "2005 Consadole Sapporo season"@en .
+
+dbr:2010_Tokyo_Verdy_season
+        rdfs:comment  "2010 Tokyo Verdy season"@en ;
+        rdfs:label    "2010 Tokyo Verdy season"@en .
+
+dbr:1828_in_archaeology
+        rdfs:comment  "1828 in archaeology"@en ;
+        rdfs:label    "1828 in archaeology"@en .
+
+dbr:Lists_of_mobile_computers
+        rdfs:comment  "Lists of mobile computers"@en ;
+        rdfs:label    "Lists of mobile computers"@en .
+
+ns5:FELCRA_Federal_Roads_in_Malaysia
+        rdfs:comment  "List of FELDA/FELCRA Federal Roads in Malaysia"@en ;
+        rdfs:label    "List of FELDA/FELCRA Federal Roads in Malaysia"@en .
+
+dbr:List_of_Australian_organisations_with_royal_patronage
+        rdfs:comment  "List of Australian organisations with royal patronage"@en ;
+        rdfs:label    "List of Australian organisations with royal patronage"@en .
+
+dbr:1847_in_archaeology
+        rdfs:comment  "1847 in archaeology"@en ;
+        rdfs:label    "1847 in archaeology"@en .
+
+dbr:1934_in_philosophy
+        rdfs:comment  "1934 in philosophy"@en ;
+        rdfs:label    "1934 in philosophy"@en .
+
+dbr:2005_Oita_Trinita_season
+        rdfs:comment  "2005 Oita Trinita season"@en ;
+        rdfs:label    "2005 Oita Trinita season"@en .
+
+dbr:2003_Kawasaki_Frontale_season
+        rdfs:comment  "2003 Kawasaki Frontale season"@en ;
+        rdfs:label    "2003 Kawasaki Frontale season"@en .
+
+dbr:1995_in_birding_and_ornithology
+        rdfs:comment  "To be completed"@en ;
+        rdfs:label    "1995 in birding and ornithology"@en .
+
+dbr:1978_in_philosophy
+        rdfs:comment  "1978 in philosophy"@en ;
+        rdfs:label    "1978 in philosophy"@en .
+
+dbr:2001_Kashima_Antlers_season
+        rdfs:comment  "2001 Kashima Antlers season"@en ;
+        rdfs:label    "2001 Kashima Antlers season"@en .
+
+dbr:List_of_gates_in_India
+        rdfs:comment  "List of gates in India"@en ;
+        rdfs:label    "List of gates in India"@en .
+
+<http://dbpedia.org/resource/2007_in_women's_road_cycling>
+        rdfs:comment  "Source"@en ;
+        rdfs:label    "2007 in women's road cycling"@en .
+
+dbr:1996_Kashiwa_Reysol_season
+        rdfs:comment  "1996 Kashiwa Reysol season"@en ;
+        rdfs:label    "1996 Kashiwa Reysol season"@en .
+
+dbr:1866_in_archaeology
+        rdfs:comment  "1866 in archaeology"@en ;
+        rdfs:label    "1866 in archaeology"@en .
+
+dbr:2001_Nagoya_Grampus_Eight_season
+        rdfs:comment  "2001 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "2001 Nagoya Grampus Eight season"@en .
+
+dbr:1972_in_philosophy
+        rdfs:comment  "1972 in philosophy"@en ;
+        rdfs:label    "1972 in philosophy"@en .
+
+dbr:Terje_Rypdal_discography
+        rdfs:comment  "Terje Rypdal Discography"@en ;
+        rdfs:label    "Terje Rypdal discography"@en .
+
+dbr:2006_Consadole_Sapporo_season
+        rdfs:comment  "2006 Consadole Sapporo season"@en ;
+        rdfs:label    "2006 Consadole Sapporo season"@en .
+
+dbr:2007_Urawa_Red_Diamonds_season
+        rdfs:comment  "2007 Urawa Red Diamonds season"@en ;
+        rdfs:label    "2007 Urawa Red Diamonds season"@en .
+
+dbr:1999_Avispa_Fukuoka_season
+        rdfs:comment  "1999 Avispa Fukuoka season"@en ;
+        rdfs:label    "1999 Avispa Fukuoka season"@en .
+
+dbr:1994_Nagoya_Grampus_Eight_season
+        rdfs:comment  "1994 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "1994 Nagoya Grampus Eight season"@en .
+
+dbr:2006_Sagan_Tosu_season
+        rdfs:comment  "2006 Sagan Tosu season"@en ;
+        rdfs:label    "2006 Sagan Tosu season"@en .
+
+dbr:Nemanjić_family_tree
+        rdfs:comment  "Nemanjić family tree"@en ;
+        rdfs:label    "Nemanjić family tree"@en .
+
+dbr:2003_Sanfrecce_Hiroshima_season
+        rdfs:comment  "2003 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "2003 Sanfrecce Hiroshima season"@en .
+
+dbr:2001_Vegalta_Sendai_season
+        rdfs:comment  "2001 Vegalta Sendai season"@en ;
+        rdfs:label    "2001 Vegalta Sendai season"@en .
+
+dbr:2004_Kawasaki_Frontale_season
+        rdfs:comment  "2004 Kawasaki Frontale season"@en ;
+        rdfs:label    "2004 Kawasaki Frontale season"@en .
+
+dbr:1856_in_archaeology
+        rdfs:comment  "1856 in archaeology"@en ;
+        rdfs:label    "1856 in archaeology"@en .
+
+dbr:2000_Cerezo_Osaka_season
+        rdfs:comment  "2000 Cerezo Osaka season"@en ;
+        rdfs:label    "2000 Cerezo Osaka season"@en .
+
+dbr:2006_Júbilo_Iwata_season
+        rdfs:comment  "2006 Júbilo Iwata season"@en ;
+        rdfs:label    "2006 Júbilo Iwata season"@en .
+
+dbr:1997_Cerezo_Osaka_season
+        rdfs:comment  "1997 Cerezo Osaka season"@en ;
+        rdfs:label    "1997 Cerezo Osaka season"@en .
+
+dbr:1992_Gamba_Osaka_season
+        rdfs:comment  "1992 Gamba Osaka season"@en ;
+        rdfs:label    "1992 Gamba Osaka season"@en .
+
+dbr:1999_Montedio_Yamagata_season
+        rdfs:comment  "1999 Montedio Yamagata season"@en ;
+        rdfs:label    "1999 Montedio Yamagata season"@en .
+
+dbr:2007_Consadole_Sapporo_season
+        rdfs:comment  "2007 Consadole Sapporo season"@en ;
+        rdfs:label    "2007 Consadole Sapporo season"@en .
+
+dbr:First_day_of_school
+        rdfs:comment  "."@en ;
+        rdfs:label    "First day of school"@en .
+
+dbr:2007_FC_Tokyo_season
+        rdfs:comment  "2007 FC Tokyo season"@en ;
+        rdfs:label    "2007 FC Tokyo season"@en .
+
+dbo:resolution  rdfs:comment  "Native Resolution"@en ;
+        rdfs:label    "resolution"@en .
+
+dbr:Tennis_at_the_2015_European_Youth_Summer_Olympic_Festival
+        rdfs:comment  "Tennis at the 2015 European Youth Summer Olympic Festival"@en ;
+        rdfs:label    "Tennis at the 2015 European Youth Summer Olympic Festival"@en .
+
+<http://dbpedia.org/resource/2011_in_women's_road_cycling>
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "2011 in women's road cycling"@en .
+
+dbr:2004_Nagoya_Grampus_Eight_season
+        rdfs:comment  "2004 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "2004 Nagoya Grampus Eight season"@en .
+
+dbr:1924_in_philosophy
+        rdfs:comment  "1924 in philosophy"@en ;
+        rdfs:label    "1924 in philosophy"@en .
+
+dbr:1846_in_archaeology
+        rdfs:comment  "1846 in archaeology"@en ;
+        rdfs:label    "1846 in archaeology"@en .
+
+dbr:2006_Vegalta_Sendai_season
+        rdfs:comment  "2006 Vegalta Sendai season"@en ;
+        rdfs:label    "2006 Vegalta Sendai season"@en .
+
+<http://dbpedia.org/resource/List_of_masters_of_Gonville_and_Caius_College,_Cambridge>
+        rdfs:comment  "See also ."@en ;
+        rdfs:label    "List of masters of Gonville and Caius College, Cambridge"@en .
+
+dbr:1968_in_philosophy
+        rdfs:comment  "1968 in philosophy"@en ;
+        rdfs:label    "1968 in philosophy"@en .
+
+dbr:2005_Kawasaki_Frontale_season
+        rdfs:comment  "2005 Kawasaki Frontale season"@en ;
+        rdfs:label    "2005 Kawasaki Frontale season"@en .
+
+dbr:1997_Nagoya_Grampus_Eight_season
+        rdfs:comment  "1997 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "1997 Nagoya Grampus Eight season"@en .
+
+dbr:1962_in_philosophy
+        rdfs:comment  "1962 in philosophy"@en ;
+        rdfs:label    "1962 in philosophy"@en .
+
+dbr:1997_Yokohama_Flügels_season
+        rdfs:comment  "1997 Yokohama Flügels season"@en ;
+        rdfs:label    "1997 Yokohama Flügels season"@en .
+
+dbr:2006_FC_Tokyo_season
+        rdfs:comment  "2006 FC Tokyo season"@en ;
+        rdfs:label    "2006 FC Tokyo season"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1982
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1982"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1982"@en .
+
+dbr:2008_Consadole_Sapporo_season
+        rdfs:comment  "2008 Consadole Sapporo season"@en ;
+        rdfs:label    "2008 Consadole Sapporo season"@en .
+
+dbr:1990_UEFA_European_Under-16_Championship_squads
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "1990 UEFA European Under-16 Championship squads"@en .
+
+dbr:2009_Kyoto_Sanga_FC_season
+        rdfs:comment  "2009 Kyoto Sanga F.C. season"@en ;
+        rdfs:label    "2009 Kyoto Sanga FC season"@en .
+
+dbr:Irulam  rdfs:comment  "Irulam"@en ;
+        rdfs:label    "Irulam"@en .
+
+dbr:2004_Gamba_Osaka_season
+        rdfs:comment  "2004 Gamba Osaka season"@en ;
+        rdfs:label    "2004 Gamba Osaka season"@en .
+
+dbr:2009_Júbilo_Iwata_season
+        rdfs:comment  "2009 Júbilo Iwata season"@en ;
+        rdfs:label    "2009 Júbilo Iwata season"@en .
+
+dbr:2003_Gamba_Osaka_season
+        rdfs:comment  "2003 Gamba Osaka season"@en ;
+        rdfs:label    "2003 Gamba Osaka season"@en .
+
+dbr:2007_Shonan_Bellmare_season
+        rdfs:comment  "2007 Shonan Bellmare season"@en ;
+        rdfs:label    "2007 Shonan Bellmare season"@en .
+
+dbr:1994_Bellmare_Hiratsuka_season
+        rdfs:comment  "1994 Bellmare Hiratsuka season"@en ;
+        rdfs:label    "1994 Bellmare Hiratsuka season"@en .
+
+dbr:2006_Yokohama_F._Marinos_season
+        rdfs:comment  "2006 Yokohama F. Marinos season"@en ;
+        rdfs:label    "2006 Yokohama F. Marinos season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_G
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: G"@en .
+
+dbr:2005_FC_Tokyo_season
+        rdfs:comment  "2005 FC Tokyo season"@en ;
+        rdfs:label    "2005 FC Tokyo season"@en .
+
+<http://dbpedia.org/resource/2008_in_women's_road_cycling>
+        rdfs:comment  "Source"@en ;
+        rdfs:label    "2008 in women's road cycling"@en .
+
+<http://dbpedia.org/resource/1977_National_Football_League_(South_Africa)>
+        rdfs:comment  "1977 National Football League (South Africa)"@en ;
+        rdfs:label    "1977 National Football League (South Africa)"@en .
+
+ns4:V   rdfs:comment  "Vašarovići"@en ;
+        rdfs:label    "List of settlements in the Federation of Bosnia and Herzegovina/V"@en .
+
+dbr:2008_Urawa_Red_Diamonds_season
+        rdfs:comment  "2008 Urawa Red Diamonds season"@en ;
+        rdfs:label    "2008 Urawa Red Diamonds season"@en .
+
+dbr:1998_JEF_United_Ichihara_season
+        rdfs:comment  "1998 JEF United Ichihara season"@en ;
+        rdfs:label    "1998 JEF United Ichihara season"@en .
+
+dbr:2008_Tokyo_Verdy_season
+        rdfs:comment  "2008 Tokyo Verdy season"@en ;
+        rdfs:label    "2008 Tokyo Verdy season"@en .
+
+dbr:1997_FIFA_U-17_World_Championship_squads
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "1997 FIFA U-17 World Championship squads"@en .
+
+dbr:2009_CONCACAF_U-17_Championship_squads
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "2009 CONCACAF U-17 Championship squads"@en .
+
+dbr:2009_Consadole_Sapporo_season
+        rdfs:comment  "2009 Consadole Sapporo season"@en ;
+        rdfs:label    "2009 Consadole Sapporo season"@en .
+
+dbr:2000_Mito_HollyHock_season
+        rdfs:comment  "2000 Mito HollyHock season"@en ;
+        rdfs:label    "2000 Mito HollyHock season"@en .
+
+dbr:2015_in_philosophy
+        rdfs:comment  "2015 in philosophy"@en ;
+        rdfs:label    "2015 in philosophy"@en .
+
+dbr:2008_Roasso_Kumamoto_season
+        rdfs:comment  "2008 Roasso Kumamoto season"@en ;
+        rdfs:label    "2008 Roasso Kumamoto season"@en .
+
+dbr:Australian_rules_football_attendance_records
+        rdfs:comment  "Australian rules football attendance records"@en ;
+        rdfs:label    "Australian rules football attendance records"@en .
+
+dbr:1914_in_philosophy
+        rdfs:comment  "1914 in philosophy"@en ;
+        rdfs:label    "1914 in philosophy"@en .
+
+dbr:List_of_Imperial_German_Uhlan_regiments
+        rdfs:comment  "List of Imperial German Uhlan Regiments"@en ;
+        rdfs:label    "List of Imperial German Uhlan regiments"@en .
+
+dbr:2004_FC_Tokyo_season
+        rdfs:comment  "2004 FC Tokyo season"@en ;
+        rdfs:label    "2004 FC Tokyo season"@en .
+
+dbr:Public_holidays_in_Ecuador
+        rdfs:comment  "Public holidays in"@en ;
+        rdfs:label    "Public holidays in Ecuador"@en .
+
+dbr:1958_in_philosophy
+        rdfs:comment  "1958 in philosophy"@en ;
+        rdfs:label    "1958 in philosophy"@en .
+
+dbr:2004_Omiya_Ardija_season
+        rdfs:comment  "2004 Omiya Ardija season"@en ;
+        rdfs:label    "2004 Omiya Ardija season"@en .
+
+dbr:1999_in_birding_and_ornithology
+        rdfs:comment  "To be completed"@en ;
+        rdfs:label    "1999 in birding and ornithology"@en .
+
+dbr:1998_Vissel_Kobe_season
+        rdfs:comment  "1998 Vissel Kobe season"@en ;
+        rdfs:label    "1998 Vissel Kobe season"@en .
+
+dbr:2002_Ventforet_Kofu_season
+        rdfs:comment  "2002 Ventforet Kofu season"@en ;
+        rdfs:label    "2002 Ventforet Kofu season"@en .
+
+dbr:1997_Vissel_Kobe_season
+        rdfs:comment  "1997 Vissel Kobe season"@en ;
+        rdfs:label    "1997 Vissel Kobe season"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1995
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1995"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1995"@en .
+
+dbr:2001_in_birding_and_ornithology
+        rdfs:comment  "To be completed"@en ;
+        rdfs:label    "2001 in birding and ornithology"@en .
+
+dbr:1952_in_philosophy
+        rdfs:comment  "1952 in philosophy"@en ;
+        rdfs:label    "1952 in philosophy"@en .
+
+dbr:List_of_Montenegrin_sportspeople
+        rdfs:comment  "List of Montenegrin sportspeople"@en ;
+        rdfs:label    "List of Montenegrin sportspeople"@en .
+
+dbr:2000_Kashiwa_Reysol_season
+        rdfs:comment  "2000 Kashiwa Reysol season"@en ;
+        rdfs:label    "2000 Kashiwa Reysol season"@en .
+
+dbr:1994_Sanfrecce_Hiroshima_season
+        rdfs:comment  "1994 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "1994 Sanfrecce Hiroshima season"@en .
+
+dbr:2005_Mito_HollyHock_season
+        rdfs:comment  "2005 Mito HollyHock season"@en ;
+        rdfs:label    "2005 Mito HollyHock season"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1963
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1963"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1963"@en .
+
+dbr:List_of_short_film_series
+        rdfs:comment  "List of short film series"@en ;
+        rdfs:label    "List of short film series"@en .
+
+dbr:2003_Shonan_Bellmare_season
+        rdfs:comment  "2003 Shonan Bellmare season"@en ;
+        rdfs:label    "2003 Shonan Bellmare season"@en .
+
+<http://dbpedia.org/resource/List_of_Cleveland_Indians_(NFL_1931)_players>
+        rdfs:comment  "Chuck Braidwood"@en ;
+        rdfs:label    "List of Cleveland Indians (NFL 1931) players"@en .
+
+dbr:2007_Albirex_Niigata_season
+        rdfs:comment  "2007 Albirex Niigata season"@en ;
+        rdfs:label    "2007 Albirex Niigata season"@en .
+
+dbr:2003_FC_Tokyo_season
+        rdfs:comment  "2003 FC Tokyo season"@en ;
+        rdfs:label    "2003 FC Tokyo season"@en .
+
+dbr:1998_Kashima_Antlers_season
+        rdfs:comment  "1998 Kashima Antlers season"@en ;
+        rdfs:label    "1998 Kashima Antlers season"@en .
+
+dbr:Janaka_Thissakuttiarachchi
+        rdfs:comment  "Janaka"@en ;
+        rdfs:label    "Janaka Thissakuttiarachchi"@en .
+
+dbr:2007_Sanfrecce_Hiroshima_season
+        rdfs:comment  "2007 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "2007 Sanfrecce Hiroshima season"@en .
+
+dbr:1854_in_archaeology
+        rdfs:comment  "1854 in archaeology"@en ;
+        rdfs:label    "1854 in archaeology"@en .
+
+dbr:1905_in_philosophy
+        rdfs:comment  "1905 in philosophy"@en ;
+        rdfs:label    "1905 in philosophy"@en .
+
+dbr:2005_Kashiwa_Reysol_season
+        rdfs:comment  "2005 Kashiwa Reysol season"@en ;
+        rdfs:label    "2005 Kashiwa Reysol season"@en .
+
+dbr:1995_in_philosophy
+        rdfs:comment  "1995 in philosophy"@en ;
+        rdfs:label    "1995 in philosophy"@en .
+
+dbr:2001_Avispa_Fukuoka_season
+        rdfs:comment  "2001 Avispa Fukuoka season"@en ;
+        rdfs:label    "2001 Avispa Fukuoka season"@en .
+
+dbr:1998_Yokohama_Flügels_season
+        rdfs:comment  "1998 Yokohama Flügels season"@en ;
+        rdfs:label    "1998 Yokohama Flügels season"@en .
+
+dbr:2010_Gamba_Osaka_season
+        rdfs:comment  "2010 Gamba Osaka season"@en ;
+        rdfs:label    "2010 Gamba Osaka season"@en .
+
+dbr:2000_Oita_Trinita_season
+        rdfs:comment  "2000 Oita Trinita season"@en ;
+        rdfs:label    "2000 Oita Trinita season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_B
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: B"@en .
+
+dbr:Interstate_470_Bridge
+        rdfs:comment  "The Vietnam Veterans Memorial Bridge is a four-lane tied arch bridge in the United States. It carries Interstate 470 over the Ohio River between Bellaire, Ohio and Wheeling, West Virginia."@en ;
+        rdfs:label    "Interstate 470 Bridge"@en .
+
+dbr:2006_Kashima_Antlers_season
+        rdfs:comment  "2006 Kashima Antlers season"@en ;
+        rdfs:label    "2006 Kashima Antlers season"@en .
+
+dbr:1996_Verdy_Kawasaki_season
+        rdfs:comment  "1996 Verdy Kawasaki season"@en ;
+        rdfs:label    "1996 Verdy Kawasaki season"@en .
+
+dbr:2005_Ventforet_Kofu_season
+        rdfs:comment  "2005 Ventforet Kofu season"@en ;
+        rdfs:label    "2005 Ventforet Kofu season"@en .
+
+dbr:2002_FC_Tokyo_season
+        rdfs:comment  "2002 F.C. Tokyo season"@en ;
+        rdfs:label    "2002 FC Tokyo season"@en .
+
+dbr:2005_in_philosophy
+        rdfs:comment  "2005 in philosophy"@en ;
+        rdfs:label    "2005 in philosophy"@en .
+
+dbr:1992_Yokohama_Flügels_season
+        rdfs:comment  "1992 Yokohama Flügels season"@en ;
+        rdfs:label    "1992 Yokohama Flügels season"@en .
+
+dbr:2000_Kyoto_Purple_Sanga_season
+        rdfs:comment  "2000 Kyoto Purple Sanga season"@en ;
+        rdfs:label    "2000 Kyoto Purple Sanga season"@en .
+
+dbr:2007_Omiya_Ardija_season
+        rdfs:comment  "2007 Omiya Ardija season"@en ;
+        rdfs:label    "2007 Omiya Ardija season"@en .
+
+dbr:1904_in_philosophy
+        rdfs:comment  "1904 in philosophy"@en ;
+        rdfs:label    "1904 in philosophy"@en .
+
+dbr:1995_Bellmare_Hiratsuka_season
+        rdfs:comment  "1995 Bellmare Hiratsuka season"@en ;
+        rdfs:label    "1995 Bellmare Hiratsuka season"@en .
+
+dbr:1948_in_philosophy
+        rdfs:comment  "1948 in philosophy"@en ;
+        rdfs:label    "1948 in philosophy"@en .
+
+dbr:2006_Avispa_Fukuoka_season
+        rdfs:comment  "2006 Avispa Fukuoka season"@en ;
+        rdfs:label    "2006 Avispa Fukuoka season"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1976
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1976"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1976"@en .
+
+dbr:List_of_railway_stations_in_Japan:_S
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: S"@en .
+
+dbr:ISRA_International_Journal_of_Islamic_Finance
+        rdfs:comment  "ISRA International Journal of Islamic Finance"@en ;
+        rdfs:label    "ISRA International Journal of Islamic Finance"@en .
+
+dbr:List_of_deans_of_Columbia_Law_School
+        rdfs:comment  "Deans of Columbia Law School"@en ;
+        rdfs:label    "List of deans of Columbia Law School"@en .
+
+dbr:1942_in_philosophy
+        rdfs:comment  "1942 in philosophy"@en ;
+        rdfs:label    "1942 in philosophy"@en .
+
+dbr:1863_in_archaeology
+        rdfs:comment  "1863 in archaeology"@en ;
+        rdfs:label    "1863 in archaeology"@en .
+
+dbr:2009_Urawa_Red_Diamonds_season
+        rdfs:comment  "2009 Urawa Red Diamonds season"@en ;
+        rdfs:label    "2009 Urawa Red Diamonds season"@en .
+
+dbr:2001_FC_Tokyo_season
+        rdfs:comment  "2001 FC Tokyo season"@en ;
+        rdfs:label    "2001 FC Tokyo season"@en .
+
+dbr:List_of_special_schools_in_Hong_Kong
+        rdfs:comment  "List of special schools in Hong Kong"@en ;
+        rdfs:label    "List of special schools in Hong Kong"@en .
+
+dbr:1994_Kashima_Antlers_season
+        rdfs:comment  "1994 Kashima Antlers season"@en ;
+        rdfs:label    "1994 Kashima Antlers season"@en .
+
+dbr:1658_in_philosophy
+        rdfs:comment  "1658 in philosophy"@en ;
+        rdfs:label    "1658 in philosophy"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1990
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1990"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1990"@en .
+
+dbr:Second_Raje_ministry
+        rdfs:comment  "List of ministers in Government of Rajasthan"@en ;
+        rdfs:label    "Second Raje ministry"@en .
+
+dbr:2008_Tokushima_Vortis_season
+        rdfs:comment  "2008 Tokushima Vortis season"@en ;
+        rdfs:label    "2008 Tokushima Vortis season"@en .
+
+dbr:2008_Kashiwa_Reysol_season
+        rdfs:comment  "2008 Kashiwa Reysol season"@en ;
+        rdfs:label    "2008 Kashiwa Reysol season"@en .
+
+dbr:List_of_2012_murders_in_the_United_States
+        rdfs:comment  "List of 2012 murders in the United States"@en ;
+        rdfs:label    "List of 2012 murders in the United States"@en .
+
+dbr:List_of_Israeli_classical_composers
+        rdfs:comment  "List of Israeli classical composers"@en ;
+        rdfs:label    "List of Israeli classical composers"@en .
+
+dbr:International_rankings_of_Eritrea
+        rdfs:comment  "International rankings of Eritrea"@en ;
+        rdfs:label    "International rankings of Eritrea"@en .
+
+dbr:List_of_speakers_of_Slovak_parliaments
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "List of speakers of Slovak parliaments"@en .
+
+<http://dbpedia.org/resource/2019–20_in_English_women's_football>
+        rdfs:comment  "Notes"@en ;
+        rdfs:label    "2019–20 in English women's football"@en .
+
+dbr:1848_in_philosophy
+        rdfs:comment  "1848 in philosophy"@en ;
+        rdfs:label    "1848 in philosophy"@en .
+
+dbr:EUniverCities  rdfs:comment  "EUniverCities"@en ;
+        rdfs:label    "EUniverCities"@en .
+
+dbr:Morten_Qvenild_discography
+        rdfs:comment  "Morten Qvenild Discography"@en ;
+        rdfs:label    "Morten Qvenild discography"@en .
+
+dbr:2005_Thespa_Kusatsu_season
+        rdfs:comment  "2005 Thespa Kusatsu season"@en ;
+        rdfs:label    "2005 Thespa Kusatsu season"@en .
+
+dbr:2003_Oita_Trinita_season
+        rdfs:comment  "2003 Oita Trinita season"@en ;
+        rdfs:label    "2003 Oita Trinita season"@en .
+
+dbr:1985_in_philosophy
+        rdfs:comment  "1985 in philosophy"@en ;
+        rdfs:label    "1985 in philosophy"@en .
+
+<http://dbpedia.org/resource/2011_UCI_Mountain_Bike_&_Trials_World_Championships_–_Men's_cross-country>
+        rdfs:comment  "UCI Mountain Bike & Trials World Championships"@en ;
+        rdfs:label    "2011 UCI Mountain Bike & Trials World Championships – Men's cross-country"@en .
+
+<http://dbpedia.org/resource/List_of_school_districts_in_San_Diego_County,_California>
+        rdfs:comment  "List of school districts in San Diego County, California"@en ;
+        rdfs:label    "List of school districts in San Diego County, California"@en .
+
+dbr:1748_in_philosophy
+        rdfs:comment  "1748 in philosophy"@en ;
+        rdfs:label    "1748 in philosophy"@en .
+
+dbr:1996_Gamba_Osaka_season
+        rdfs:comment  "1996 Gamba Osaka season"@en ;
+        rdfs:label    "1996 Gamba Osaka season"@en .
+
+dbr:1995_Gamba_Osaka_season
+        rdfs:comment  "1995 Gamba Osaka season"@en ;
+        rdfs:label    "1995 Gamba Osaka season"@en .
+
+dbr:List_of_Haitian_royal_consorts
+        rdfs:comment  "]"@en ;
+        rdfs:label    "List of Haitian royal consorts"@en .
+
+dbr:EuroBasket_Women_1999_squads
+        rdfs:comment  "Coach:"@en ;
+        rdfs:label    "EuroBasket Women 1999 squads"@en .
+
+dbr:1938_in_philosophy
+        rdfs:comment  "1938 in philosophy"@en ;
+        rdfs:label    "1938 in philosophy"@en .
+
+dbr:Manfred_Mann_discography
+        rdfs:comment  "Manfred Mann discography"@en ;
+        rdfs:label    "Manfred Mann discography"@en .
+
+dbr:List_of_islands_of_Slovenia
+        rdfs:comment  "List of islands of Slovenia"@en ;
+        rdfs:label    "List of islands of Slovenia"@en .
+
+dbr:Rann_of_Kutch_Wildlife_Sanctuary
+        rdfs:comment  "Rann of Kutch Wildlife Sanctuary"@en ;
+        rdfs:label    "Rann of Kutch Wildlife Sanctuary"@en .
+
+dbr:1932_in_philosophy
+        rdfs:comment  "1932 in philosophy"@en ;
+        rdfs:label    "1932 in philosophy"@en .
+
+dbr:2004_Júbilo_Iwata_season
+        rdfs:comment  "2004 Júbilo Iwata season"@en ;
+        rdfs:label    "2004 Júbilo Iwata season"@en .
+
+dbr:1995_Cerezo_Osaka_season
+        rdfs:comment  "1995 Cerezo Osaka season"@en ;
+        rdfs:label    "1995 Cerezo Osaka season"@en .
+
+dbr:List_of_reptiles_of_Costa_Rica
+        rdfs:comment  "List of reptiles in Costa Rica"@en ;
+        rdfs:label    "List of reptiles of Costa Rica"@en .
+
+dbr:List_of_Indiana_Pacers_broadcasters
+        rdfs:comment  "1960s"@en ;
+        rdfs:label    "List of Indiana Pacers broadcasters"@en .
+
+dbr:1998_Sanfrecce_Hiroshima_season
+        rdfs:comment  "1998 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "1998 Sanfrecce Hiroshima season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_N
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: N"@en .
+
+dbr:Timeline_of_Maharashtra_history
+        rdfs:comment  "v"@en ;
+        rdfs:label    "Timeline of Maharashtra history"@en .
+
+dbr:List_of_films_set_in_ancient_Egypt
+        rdfs:comment  "Films set in ancient Egypt"@en ;
+        rdfs:label    "List of films set in ancient Egypt"@en .
+
+dbr:2000_Sanfrecce_Hiroshima_season
+        rdfs:comment  "2000 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "2000 Sanfrecce Hiroshima season"@en .
+
+dbr:2001_Kyoto_Purple_Sanga_season
+        rdfs:comment  "2001 Kyoto Purple Sanga season"@en ;
+        rdfs:label    "2001 Kyoto Purple Sanga season"@en .
+
+dbr:2008_in_esports  rdfs:comment  "2008 in esports"@en ;
+        rdfs:label    "2008 in esports"@en .
+
+dbr:2009_in_esports  rdfs:comment  "2009 in esports"@en ;
+        rdfs:label    "2009 in esports"@en .
+
+dbr:1999_Ventforet_Kofu_season
+        rdfs:comment  "1999 Ventforet Kofu season"@en ;
+        rdfs:label    "1999 Ventforet Kofu season"@en .
+
+dbr:1838_in_philosophy
+        rdfs:comment  "1838 in philosophy"@en ;
+        rdfs:label    "1838 in philosophy"@en .
+
+dbr:1996_Bellmare_Hiratsuka_season
+        rdfs:comment  "1996 Bellmare Hiratsuka season"@en ;
+        rdfs:label    "1996 Bellmare Hiratsuka season"@en .
+
+dbr:Cher_Special_Gigs
+        rdfs:comment  "."@en ;
+        rdfs:label    "Cher Special Gigs"@en .
+
+dbr:1990_elections_in_India
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "1990 elections in India"@en .
+
+dbr:1997_Kashiwa_Reysol_season
+        rdfs:comment  "1997 Kashiwa Reysol season"@en ;
+        rdfs:label    "1997 Kashiwa Reysol season"@en .
+
+dbr:2002_JEF_United_Ichihara_season
+        rdfs:comment  "2002 JEF United Ichihara season"@en ;
+        rdfs:label    "2002 JEF United Ichihara season"@en .
+
+<http://dbpedia.org/resource/List_of_rulers_of_the_Ngoni_Dynasty_of_Jere_(Qeko)>
+        rdfs:comment  ""@en ;
+        rdfs:label    "List of rulers of the Ngoni Dynasty of Jere (Qeko)"@en .
+
+dbr:1975_in_philosophy
+        rdfs:comment  "1975 in philosophy"@en ;
+        rdfs:label    "1975 in philosophy"@en .
+
+dbr:2008_Gamba_Osaka_season
+        rdfs:comment  "2008 Gamba Osaka season"@en ;
+        rdfs:label    "2008 Gamba Osaka season"@en .
+
+<http://dbpedia.org/resource/List_of_California_ballot_propositions:_2000–2009>
+        rdfs:comment  "List of California ballot propositions: 2000–2009"@en ;
+        rdfs:label    "List of California ballot propositions: 2000–2009"@en .
+
+dbr:2007_Gamba_Osaka_season
+        rdfs:comment  "2007 Gamba Osaka season"@en ;
+        rdfs:label    "2007 Gamba Osaka season"@en .
+
+dbr:2009_Tokushima_Vortis_season
+        rdfs:comment  "2009 Tokushima Vortis season"@en ;
+        rdfs:label    "2009 Tokushima Vortis season"@en .
+
+dbr:2004_Kashima_Antlers_season
+        rdfs:comment  "2004 Kashima Antlers season"@en ;
+        rdfs:label    "2004 Kashima Antlers season"@en .
+
+dbr:2000_Sagan_Tosu_season
+        rdfs:comment  "2000 Sagan Tosu season"@en ;
+        rdfs:label    "2000 Sagan Tosu season"@en .
+
+dbr:List_of_current_Indian_ruling_and_opposition_parties
+        rdfs:comment  "]]"@en ;
+        rdfs:label    "List of current Indian ruling and opposition parties"@en .
+
+dbr:List_of_congenital_disorders
+        rdfs:comment  "List of congenital disorders"@en ;
+        rdfs:label    "List of congenital disorders"@en .
+
+dbr:2002_Vegalta_Sendai_season
+        rdfs:comment  "2002 Vegalta Sendai season"@en ;
+        rdfs:label    "2002 Vegalta Sendai season"@en .
+
+dbr:1998_Consadole_Sapporo_season
+        rdfs:comment  "1998 Consadole Sapporo season"@en ;
+        rdfs:label    "1998 Consadole Sapporo season"@en .
+
+dbr:2008_Shonan_Bellmare_season
+        rdfs:comment  "2008 Shonan Bellmare season"@en ;
+        rdfs:label    "2008 Shonan Bellmare season"@en .
+
+dbr:Timeline_of_paleontology
+        rdfs:comment  "Timeline of paleontology"@en ;
+        rdfs:label    "Timeline of paleontology"@en .
+
+dbr:1928_in_philosophy
+        rdfs:comment  "1928 in philosophy"@en ;
+        rdfs:label    "1928 in philosophy"@en .
+
+dbr:2007_Júbilo_Iwata_season
+        rdfs:comment  "2007 Júbilo Iwata season"@en ;
+        rdfs:label    "2007 Júbilo Iwata season"@en .
+
+dbr:1776_in_philosophy
+        rdfs:comment  "1776 in philosophy"@en ;
+        rdfs:label    "1776 in philosophy"@en .
+
+dbr:List_of_Jain_inscriptions
+        rdfs:comment  "List of Jain inscriptions"@en ;
+        rdfs:label    "List of Jain inscriptions"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1984
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1984"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1984"@en .
+
+dbr:1926_in_China  rdfs:comment  "Warlord Era"@en ;
+        rdfs:label    "1926 in China"@en .
+
+dbr:1922_in_philosophy
+        rdfs:comment  "1922 in philosophy"@en ;
+        rdfs:label    "1922 in philosophy"@en .
+
+dbr:2010_Júbilo_Iwata_season
+        rdfs:comment  "2010 Júbilo Iwata season"@en ;
+        rdfs:label    "2010 Júbilo Iwata season"@en .
+
+dbr:1966_in_philosophy
+        rdfs:comment  "1966 in philosophy"@en ;
+        rdfs:label    "1966 in philosophy"@en .
+
+<http://dbpedia.org/resource/Arizona_Department_of_Veterans'_Services>
+        rdfs:comment  "Arizona Department of Veterans' Services"@en ;
+        rdfs:label    "Arizona Department of Veterans' Services"@en .
+
+dbr:2003_elections_in_India
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "2003 elections in India"@en .
+
+<http://dbpedia.org/resource/Handball_at_the_2011_Pan_American_Games_–_Men's_team_rosters>
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "Handball at the 2011 Pan American Games – Men's team rosters"@en .
+
+dbr:2007_Vegalta_Sendai_season
+        rdfs:comment  "2007 Vegalta Sendai season"@en ;
+        rdfs:label    "2007 Vegalta Sendai season"@en .
+
+dbr:2009_Roasso_Kumamoto_season
+        rdfs:comment  "2009 Roasso Kumamoto season"@en ;
+        rdfs:label    "2009 Roasso Kumamoto season"@en .
+
+dbr:2001_Yokohama_FC_season
+        rdfs:comment  "2001 Yokohama FC season"@en ;
+        rdfs:label    "2001 Yokohama FC season"@en .
+
+dbr:2003_Yokohama_F._Marinos_season
+        rdfs:comment  "2003 Yokohama F. Marinos season"@en ;
+        rdfs:label    "2003 Yokohama F. Marinos season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_I
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: I"@en .
+
+dbr:1999_Consadole_Sapporo_season
+        rdfs:comment  "1999 Consadole Sapporo season"@en ;
+        rdfs:label    "1999 Consadole Sapporo season"@en .
+
+dbr:2001_Vissel_Kobe_season
+        rdfs:comment  "2001 Vissel Kobe season"@en ;
+        rdfs:label    "2001 Vissel Kobe season"@en .
+
+dbr:2010_Giravanz_Kitakyushu_season
+        rdfs:comment  "2010 Giravanz Kitakyushu season"@en ;
+        rdfs:label    "2010 Giravanz Kitakyushu season"@en .
+
+dbr:2000_Vissel_Kobe_season
+        rdfs:comment  "2000 Vissel Kobe season"@en ;
+        rdfs:label    "2000 Vissel Kobe season"@en .
+
+dbr:1995_JEF_United_Ichihara_season
+        rdfs:comment  "1995 JEF United Ichihara season"@en ;
+        rdfs:label    "1995 JEF United Ichihara season"@en .
+
+dbr:List_of_Flamengo_Categories_of_Base_transfers_2010
+        rdfs:comment  "List of Flamengo Categories of Base transfers 2010"@en ;
+        rdfs:label    "List of Flamengo Categories of Base transfers 2010"@en .
+
+dbr:List_of_Estonian_exile_and_émigré_organizations
+        rdfs:comment  "List of Estonian exile and émigré organizations"@en ;
+        rdfs:label    "List of Estonian exile and émigré organizations"@en .
+
+dbr:2000_Kashima_Antlers_season
+        rdfs:comment  "2000 Kashima Antlers season"@en ;
+        rdfs:label    "2000 Kashima Antlers season"@en .
+
+dbr:2002_Omiya_Ardija_season
+        rdfs:comment  "2002 Omiya Ardija season"@en ;
+        rdfs:label    "2002 Omiya Ardija season"@en .
+
+dbr:1965_in_philosophy
+        rdfs:comment  "1965 in philosophy"@en ;
+        rdfs:label    "1965 in philosophy"@en .
+
+dbr:1999_Omiya_Ardija_season
+        rdfs:comment  "1999 Omiya Ardija season"@en ;
+        rdfs:label    "1999 Omiya Ardija season"@en .
+
+dbr:2010_Sanfrecce_Hiroshima_season
+        rdfs:comment  "2010 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "2010 Sanfrecce Hiroshima season"@en .
+
+dbr:2002_Kyoto_Purple_Sanga_season
+        rdfs:comment  "2002 Kyoto Purple Sanga season"@en ;
+        rdfs:label    "2002 Kyoto Purple Sanga season"@en .
+
+dbr:Computerized_Criminal_History
+        rdfs:comment  "Computerized Criminal History"@en ;
+        rdfs:label    "Computerized Criminal History"@en .
+
+dbr:List_of_railway_stations_in_Japan:_Z
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: Z"@en .
+
+dbr:2008_Albirex_Niigata_season
+        rdfs:comment  "2008 Albirex Niigata season"@en ;
+        rdfs:label    "2008 Albirex Niigata season"@en .
+
+dbr:Mapaseka_Koetle-Nyokong
+        rdfs:comment  ")."@en ;
+        rdfs:label    "Mapaseka Koetle-Nyokong"@en .
+
+<http://dbpedia.org/resource/List_of_historical_markers_in_Kewaunee_County,_Wisconsin>
+        rdfs:comment  "List of historical markers in Kewaunee County, Wisconsin"@en ;
+        rdfs:label    "List of historical markers in Kewaunee County, Wisconsin"@en .
+
+dbr:1995_Tendring_District_Council_election
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "1995 Tendring District Council election"@en .
+
+dbr:2019_in_philosophy
+        rdfs:comment  "2019 in philosophy"@en ;
+        rdfs:label    "2019 in philosophy"@en .
+
+dbr:1996_in_birding_and_ornithology
+        rdfs:comment  "To be completed"@en ;
+        rdfs:label    "1996 in birding and ornithology"@en .
+
+dbr:1997_Bellmare_Hiratsuka_season
+        rdfs:comment  "1997 Bellmare Hiratsuka season"@en ;
+        rdfs:label    "1997 Bellmare Hiratsuka season"@en .
+
+dbr:List_of_mobile_telephone_prefixes_by_country
+        rdfs:comment  "List of mobile telephone prefixes by country"@en ;
+        rdfs:label    "List of mobile telephone prefixes by country"@en .
+
+dbr:1999_Kashima_Antlers_season
+        rdfs:comment  "1999 Kashima Antlers season"@en ;
+        rdfs:label    "1999 Kashima Antlers season"@en .
+
+dbr:1996_Kyoto_Purple_Sanga_season
+        rdfs:comment  "1996 Kyoto Purple Sanga season"@en ;
+        rdfs:label    "1996 Kyoto Purple Sanga season"@en .
+
+dbr:2010_Fagiano_Okayama_season
+        rdfs:comment  "2010 Fagiano Okayama season"@en ;
+        rdfs:label    "2010 Fagiano Okayama season"@en .
+
+dbr:1918_in_philosophy
+        rdfs:comment  "1918 in philosophy"@en ;
+        rdfs:label    "1918 in philosophy"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1965
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1965"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1965"@en .
+
+<http://dbpedia.org/resource/Fenerbahçe_(women's_basketball)_past_rosters>
+        rdfs:comment  "Roster"@en ;
+        rdfs:label    "Fenerbahçe (women's basketball) past rosters"@en .
+
+dbr:List_of_Frankford_Yellow_Jackets_players
+        rdfs:comment  "Marger Apsit"@en ;
+        rdfs:label    "List of Frankford Yellow Jackets players"@en .
+
+dbr:2003_Tokyo_Verdy_1969_season
+        rdfs:comment  "2003 Tokyo Verdy 1969 season"@en ;
+        rdfs:label    "2003 Tokyo Verdy 1969 season"@en .
+
+dbr:2001_Mito_HollyHock_season
+        rdfs:comment  "2001 Mito HollyHock season"@en ;
+        rdfs:label    "2001 Mito HollyHock season"@en .
+
+dbr:1996_Yokohama_Marinos_season
+        rdfs:comment  "1996 Yokohama Marinos season"@en ;
+        rdfs:label    "1996 Yokohama Marinos season"@en .
+
+dbo:woRMS  rdfs:comment  "World Register of Marine Species"@en ;
+        rdfs:label    "WoRMS"@en .
+
+dbr:1956_in_philosophy
+        rdfs:comment  "1956 in philosophy"@en ;
+        rdfs:label    "1956 in philosophy"@en .
+
+dbr:2018_in_philosophy
+        rdfs:comment  "2018 in philosophy"@en ;
+        rdfs:label    "2018 in philosophy"@en .
+
+dbr:2004_Sanfrecce_Hiroshima_season
+        rdfs:comment  "2004 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "2004 Sanfrecce Hiroshima season"@en .
+
+dbr:2012_in_philosophy
+        rdfs:comment  "2012 in philosophy"@en ;
+        rdfs:label    "2012 in philosophy"@en .
+
+dbr:List_of_land_vehicles_types_by_number_of_wheels
+        rdfs:comment  "List of land vehicles types by number of wheels"@en ;
+        rdfs:label    "List of land vehicles types by number of wheels"@en .
+
+dbr:2005_Omiya_Ardija_season
+        rdfs:comment  "2005 Omiya Ardija season"@en ;
+        rdfs:label    "2005 Omiya Ardija season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_D
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: D"@en .
+
+dbr:2001_Kashiwa_Reysol_season
+        rdfs:comment  "2001 Kashiwa Reysol season"@en ;
+        rdfs:label    "2001 Kashiwa Reysol season"@en .
+
+dbr:2006_Mito_HollyHock_season
+        rdfs:comment  "2006 Mito HollyHock season"@en ;
+        rdfs:label    "2006 Mito HollyHock season"@en .
+
+dbr:1955_in_philosophy
+        rdfs:comment  "1955 in philosophy"@en ;
+        rdfs:label    "1955 in philosophy"@en .
+
+dbr:1999_in_philosophy
+        rdfs:comment  "1999 in philosophy"@en ;
+        rdfs:label    "1999 in philosophy"@en .
+
+dbr:1992_Verdy_Kawasaki_season
+        rdfs:comment  "1992 Verdy Kawasaki season"@en ;
+        rdfs:label    "1992 Verdy Kawasaki season"@en .
+
+dbr:Robbery_laws_in_the_United_States
+        rdfs:comment  "Robbery laws in the United States"@en ;
+        rdfs:label    "Robbery laws in the United States"@en .
+
+dbr:Basketball_at_the_2015_European_Youth_Summer_Olympic_Festival
+        rdfs:comment  "Basketball at the 2015 European Youth Summer Olympic Festival"@en ;
+        rdfs:label    "Basketball at the 2015 European Youth Summer Olympic Festival"@en .
+
+dbr:1993_in_philosophy
+        rdfs:comment  "1993 in philosophy"@en ;
+        rdfs:label    "1993 in philosophy"@en .
+
+dbr:List_of_Yazidi_organizations
+        rdfs:comment  "Yazidi organizations"@en ;
+        rdfs:label    "List of Yazidi organizations"@en .
+
+dbr:1999_Kawasaki_Frontale_season
+        rdfs:comment  "1999 Kawasaki Frontale season"@en ;
+        rdfs:label    "1999 Kawasaki Frontale season"@en .
+
+dbr:2009_in_philosophy
+        rdfs:comment  "2009 in philosophy"@en ;
+        rdfs:label    "2009 in philosophy"@en .
+
+dbr:List_of_railway_stations_in_Japan:_U
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: U"@en .
+
+dbr:2006_Kashiwa_Reysol_season
+        rdfs:comment  "2006 Kashiwa Reysol season"@en ;
+        rdfs:label    "2006 Kashiwa Reysol season"@en .
+
+dbo:coverArtist  rdfs:comment  "Cover artist"@en ;
+        rdfs:label    "cover artist"@en .
+
+dbr:1980_European_Rugby_League_Championship
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "1980 European Rugby League Championship"@en .
+
+dbr:2002_Avispa_Fukuoka_season
+        rdfs:comment  "2002 Avispa Fukuoka season"@en ;
+        rdfs:label    "2002 Avispa Fukuoka season"@en .
+
+dbr:1855_in_philosophy
+        rdfs:comment  "1855 in philosophy"@en ;
+        rdfs:label    "1855 in philosophy"@en .
+
+dbr:1908_in_philosophy
+        rdfs:comment  "1908 in philosophy"@en ;
+        rdfs:label    "1908 in philosophy"@en .
+
+<http://dbpedia.org/resource/Maccabi_Neve_Sha'anan_Eldad_F.C.>
+        rdfs:comment  "Maccabi Neve Sha'anan Eldad F.C."@en ;
+        rdfs:label    "Maccabi Neve Sha'anan Eldad F.C."@en .
+
+dbr:2010_Kashima_Antlers_season
+        rdfs:comment  "2010 Kashima Antlers season"@en ;
+        rdfs:label    "2010 Kashima Antlers season"@en .
+
+dbr:2006_Shonan_Bellmare_season
+        rdfs:comment  "2006 Shonan Bellmare season"@en ;
+        rdfs:label    "2006 Shonan Bellmare season"@en .
+
+dbr:1899_in_philosophy
+        rdfs:comment  "1899 in philosophy"@en ;
+        rdfs:label    "1899 in philosophy"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1992
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1992"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1992"@en .
+
+dbr:Mogobane  rdfs:comment  "Mogobane"@en ;
+        rdfs:label    "Mogobane"@en .
+
+dbr:1902_in_philosophy
+        rdfs:comment  "1902 in philosophy"@en ;
+        rdfs:label    "1902 in philosophy"@en .
+
+dbr:2001_Oita_Trinita_season
+        rdfs:comment  "2001 Oita Trinita season"@en ;
+        rdfs:label    "2001 Oita Trinita season"@en .
+
+dbr:1997_Verdy_Kawasaki_season
+        rdfs:comment  "1997 Verdy Kawasaki season"@en ;
+        rdfs:label    "1997 Verdy Kawasaki season"@en .
+
+dbr:1999_Gamba_Osaka_season
+        rdfs:comment  "1999 Gamba Osaka season"@en ;
+        rdfs:label    "1999 Gamba Osaka season"@en .
+
+dbr:2006_Ventforet_Kofu_season
+        rdfs:comment  "2006 Ventforet Kofu season"@en ;
+        rdfs:label    "2006 Ventforet Kofu season"@en .
+
+dbr:2002_Consadole_Sapporo_season
+        rdfs:comment  "2002 Consadole Sapporo season"@en ;
+        rdfs:label    "2002 Consadole Sapporo season"@en .
+
+dbr:1946_in_philosophy
+        rdfs:comment  "1946 in philosophy"@en ;
+        rdfs:label    "1946 in philosophy"@en .
+
+dbr:2003_Kyoto_Purple_Sanga_season
+        rdfs:comment  "2003 Kyoto Purple Sanga season"@en ;
+        rdfs:label    "2003 Kyoto Purple Sanga season"@en .
+
+dbr:2008_in_philosophy
+        rdfs:comment  "2008 in philosophy"@en ;
+        rdfs:label    "2008 in philosophy"@en .
+
+<http://dbpedia.org/resource/2011_UCI_Mountain_Bike_&_Trials_World_Championships_–_Women's_cross-country>
+        rdfs:comment  "UCI Mountain Bike & Trials World Championships"@en ;
+        rdfs:label    "2011 UCI Mountain Bike & Trials World Championships – Women's cross-country"@en .
+
+dbr:2008_Omiya_Ardija_season
+        rdfs:comment  "2008 Omiya Ardija season"@en ;
+        rdfs:label    "2008 Omiya Ardija season"@en .
+
+dbo:kegg  rdfs:comment  "Bioinformatics resource for deciphering the genome."@en ;
+        rdfs:label    "KEGG"@en .
+
+dbr:1998_Bellmare_Hiratsuka_season
+        rdfs:comment  "1998 Bellmare Hiratsuka season"@en ;
+        rdfs:label    "1998 Bellmare Hiratsuka season"@en .
+
+dbr:1997_Kyoto_Purple_Sanga_season
+        rdfs:comment  "1997 Kyoto Purple Sanga season"@en ;
+        rdfs:label    "1997 Kyoto Purple Sanga season"@en .
+
+dbr:2002_in_philosophy
+        rdfs:comment  "2002 in philosophy"@en ;
+        rdfs:label    "2002 in philosophy"@en .
+
+dbr:2007_Yokohama_F._Marinos_season
+        rdfs:comment  "2007 Yokohama F. Marinos season"@en ;
+        rdfs:label    "2007 Yokohama F. Marinos season"@en .
+
+dbr:2007_Avispa_Fukuoka_season
+        rdfs:comment  "2007 Avispa Fukuoka season"@en ;
+        rdfs:label    "2007 Avispa Fukuoka season"@en .
+
+dbr:2009_Kashima_Antlers_season
+        rdfs:comment  "2009 Kashima Antlers season"@en ;
+        rdfs:label    "2009 Kashima Antlers season"@en .
+
+dbr:2009_African_U-17_Championship_squads
+        rdfs:comment  "Coach:"@en ;
+        rdfs:label    "2009 African U-17 Championship squads"@en .
+
+dbr:2009_Kataller_Toyama_season
+        rdfs:comment  "2009 Kataller Toyama season"@en ;
+        rdfs:label    "2009 Kataller Toyama season"@en .
+
+dbr:List_of_cities_in_Yangtze_Delta
+        rdfs:comment  "Note:"@en ;
+        rdfs:label    "List of cities in Yangtze Delta"@en .
+
+dbr:1999_JEF_United_Ichihara_season
+        rdfs:comment  "1999 JEF United Ichihara season"@en ;
+        rdfs:label    "1999 JEF United Ichihara season"@en .
+
+dbr:2010_Consadole_Sapporo_season
+        rdfs:comment  "2010 Consadole Sapporo season"@en ;
+        rdfs:label    "2010 Consadole Sapporo season"@en .
+
+dbr:1945_in_philosophy
+        rdfs:comment  "1945 in philosophy"@en ;
+        rdfs:label    "1945 in philosophy"@en .
+
+dbr:2004_Tokyo_Verdy_1969_season
+        rdfs:comment  "2004 Tokyo Verdy 1969 season"@en ;
+        rdfs:label    "2004 Tokyo Verdy 1969 season"@en .
+
+dbr:2009_Kashiwa_Reysol_season
+        rdfs:comment  "2009 Kashiwa Reysol season"@en ;
+        rdfs:label    "2009 Kashiwa Reysol season"@en .
+
+dbr:1997_Yokohama_Marinos_season
+        rdfs:comment  "1997 Yokohama Marinos season"@en ;
+        rdfs:label    "1997 Yokohama Marinos season"@en .
+
+dbr:1989_in_philosophy
+        rdfs:comment  "1989 in philosophy"@en ;
+        rdfs:label    "1989 in philosophy"@en .
+
+dbr:Form-Z  rdfs:comment  "."@en ;
+        rdfs:label    "Form-Z"@en .
+
+dbr:2002_Júbilo_Iwata_season
+        rdfs:comment  "2002 Júbilo Iwata season"@en ;
+        rdfs:label    "2002 Júbilo Iwata season"@en .
+
+dbr:1999_Júbilo_Iwata_season
+        rdfs:comment  "1999 Júbilo Iwata season"@en ;
+        rdfs:label    "1999 Júbilo Iwata season"@en .
+
+dbr:Policy_transfer  rdfs:comment  "Policy transfer"@en ;
+        rdfs:label    "Policy transfer"@en .
+
+dbr:1983_in_philosophy
+        rdfs:comment  "1983 in philosophy"@en ;
+        rdfs:label    "1983 in philosophy"@en .
+
+dbr:Telecommunications_in_the_Cayman_Islands
+        rdfs:comment  "Communications in the Cayman Islands"@en ;
+        rdfs:label    "Telecommunications in the Cayman Islands"@en .
+
+dbr:2002_Shonan_Bellmare_season
+        rdfs:comment  "2002 Shonan Bellmare season"@en ;
+        rdfs:label    "2002 Shonan Bellmare season"@en .
+
+dbr:2005_Tokushima_Vortis_season
+        rdfs:comment  "2005 Tokushima Vortis season"@en ;
+        rdfs:label    "2005 Tokushima Vortis season"@en .
+
+dbr:2006_Thespa_Kusatsu_season
+        rdfs:comment  "2006 Thespa Kusatsu season"@en ;
+        rdfs:label    "2006 Thespa Kusatsu season"@en .
+
+dbr:2006_Albirex_Niigata_season
+        rdfs:comment  "2006 Albirex Niigata season"@en ;
+        rdfs:label    "2006 Albirex Niigata season"@en .
+
+dbr:List_of_World_War_II_firearms_of_Germany
+        rdfs:comment  "."@en ;
+        rdfs:label    "List of World War II firearms of Germany"@en .
+
+dbr:1845_in_philosophy
+        rdfs:comment  "1845 in philosophy"@en ;
+        rdfs:label    "1845 in philosophy"@en .
+
+dbr:1997_Kashima_Antlers_season
+        rdfs:comment  "1997 Kashima Antlers season"@en ;
+        rdfs:label    "1997 Kashima Antlers season"@en .
+
+dbr:List_of_Olympic_medalists_in_boxing
+        rdfs:comment  "Coming soon"@en ;
+        rdfs:label    "List of Olympic medalists in boxing"@en .
+
+dbr:Standard_database_management_analysis
+        rdfs:comment  "Standard database management analysis"@en ;
+        rdfs:label    "Standard database management analysis"@en .
+
+dbr:Public_holidays_in_Norway
+        rdfs:comment  "Holidays in Norway"@en ;
+        rdfs:label    "Public holidays in Norway"@en .
+
+dbr:2010_JEF_United_Chiba_season
+        rdfs:comment  "2010 JEF United Ichihara Chiba season"@en ;
+        rdfs:label    "2010 JEF United Chiba season"@en .
+
+dbr:1995_Sanfrecce_Hiroshima_season
+        rdfs:comment  "1995 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "1995 Sanfrecce Hiroshima season"@en .
+
+dbr:1995_Kashiwa_Reysol_season
+        rdfs:comment  "1995 Kashiwa Reysol season"@en ;
+        rdfs:label    "1995 Kashiwa Reysol season"@en .
+
+dbr:1936_in_philosophy
+        rdfs:comment  "1936 in philosophy"@en ;
+        rdfs:label    "1936 in philosophy"@en .
+
+dbr:Diplomatic_timeline_for_1815
+        rdfs:comment  "Diplomatic timeline for 1815"@en ;
+        rdfs:label    "Diplomatic timeline for 1815"@en .
+
+dbr:2005_Kashima_Antlers_season
+        rdfs:comment  "2005 Kashima Antlers season"@en ;
+        rdfs:label    "2005 Kashima Antlers season"@en .
+
+<http://dbpedia.org/resource/American_football_at_the_2017_World_Games_–_Men's_team_rosters>
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "American football at the 2017 World Games – Men's team rosters"@en .
+
+dbr:Weaponry_of_the_Austro-Hungarian_Empire
+        rdfs:comment  "Battleships"@en ;
+        rdfs:label    "Weaponry of the Austro-Hungarian Empire"@en .
+
+dbr:2008_Sanfrecce_Hiroshima_season
+        rdfs:comment  "2008 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "2008 Sanfrecce Hiroshima season"@en .
+
+dbr:Kaduvettividuthy  rdfs:comment  "Kaduvettividuthi"@en ;
+        rdfs:label    "Kaduvettividuthy"@en .
+
+dbr:List_of_Polish_noble_families_with_the_title_of_Count
+        rdfs:comment  "Wasilewski"@en ;
+        rdfs:label    "List of Polish noble families with the title of Count"@en .
+
+dbr:2005_Yokohama_FC_season
+        rdfs:comment  "2005 Yokohama FC season"@en ;
+        rdfs:label    "2005 Yokohama FC season"@en .
+
+dbr:2005_Júbilo_Iwata_season
+        rdfs:comment  "2005 Júbilo Iwata season"@en ;
+        rdfs:label    "2005 Júbilo Iwata season"@en .
+
+dbr:1935_in_philosophy
+        rdfs:comment  "1935 in philosophy"@en ;
+        rdfs:label    "1935 in philosophy"@en .
+
+<http://dbpedia.org/resource/List_of_mayors_of_New_Bedford,_Massachusetts>
+        rdfs:comment  "Mayors of New Bedford, Massachusetts"@en ;
+        rdfs:label    "List of mayors of New Bedford, Massachusetts"@en .
+
+dbr:2004_Yokohama_FC_season
+        rdfs:comment  "2004 Yokohama FC season"@en ;
+        rdfs:label    "2004 Yokohama FC season"@en .
+
+dbr:1992_Urawa_Red_Diamonds_season
+        rdfs:comment  "1992 Urawa Red Diamonds season"@en ;
+        rdfs:label    "1992 Urawa Red Diamonds season"@en .
+
+dbr:1996_Avispa_Fukuoka_season
+        rdfs:comment  "1996 Avispa Fukuoka season"@en ;
+        rdfs:label    "1996 Avispa Fukuoka season"@en .
+
+dbr:1979_in_philosophy
+        rdfs:comment  "1979 in philosophy"@en ;
+        rdfs:label    "1979 in philosophy"@en .
+
+dbr:Timeline_of_the_War_of_1812
+        rdfs:comment  "Timeline of the War of 1812"@en ;
+        rdfs:label    "Timeline of the War of 1812"@en .
+
+dbr:2002_Albirex_Niigata_season
+        rdfs:comment  "2002 Albirex Niigata season"@en ;
+        rdfs:label    "2002 Albirex Niigata season"@en .
+
+dbr:2005_Vissel_Kobe_season
+        rdfs:comment  "2005 Vissel Kobe season"@en ;
+        rdfs:label    "2005 Vissel Kobe season"@en .
+
+dbr:2004_Kyoto_Purple_Sanga_season
+        rdfs:comment  "2004 Kyoto Purple Sanga season"@en ;
+        rdfs:label    "2004 Kyoto Purple Sanga season"@en .
+
+dbr:2004_Vissel_Kobe_season
+        rdfs:comment  "2004 Vissel Kobe season"@en ;
+        rdfs:label    "2004 Vissel Kobe season"@en .
+
+dbr:1993_Kashima_Antlers_season
+        rdfs:comment  "1993 Kashima Antlers season"@en ;
+        rdfs:label    "1993 Kashima Antlers season"@en .
+
+dbr:1973_in_philosophy
+        rdfs:comment  "1973 in philosophy"@en ;
+        rdfs:label    "1973 in philosophy"@en .
+
+dbr:2007_JEF_United_Chiba_season
+        rdfs:comment  "2007 JEF United Ichihara Chiba season"@en ;
+        rdfs:label    "2007 JEF United Chiba season"@en .
+
+dbr:1999_Bellmare_Hiratsuka_season
+        rdfs:comment  "1999 Bellmare Hiratsuka season"@en ;
+        rdfs:label    "1999 Bellmare Hiratsuka season"@en .
+
+dbr:1998_Kyoto_Purple_Sanga_season
+        rdfs:comment  "1998 Kyoto Purple Sanga season"@en ;
+        rdfs:label    "1998 Kyoto Purple Sanga season"@en .
+
+dbr:Telecommunications_in_the_Turks_and_Caicos_Islands
+        rdfs:comment  "Communications in the Turks and Caicos Islands"@en ;
+        rdfs:label    "Telecommunications in the Turks and Caicos Islands"@en .
+
+dbr:1998_Kashiwa_Reysol_season
+        rdfs:comment  "1998 Kashiwa Reysol season"@en ;
+        rdfs:label    "1998 Kashiwa Reysol season"@en .
+
+dbr:List_of_villages_in_Beni_Suef_Governorate
+        rdfs:comment  "List of villages in Beni Suef Governorate"@en ;
+        rdfs:label    "List of villages in Beni Suef Governorate"@en .
+
+dbr:2008_Montedio_Yamagata_season
+        rdfs:comment  "2008 Montedio Yamagata season"@en ;
+        rdfs:label    "2008 Montedio Yamagata season"@en .
+
+dbr:List_of_Federal_Roads_in_Sarawak
+        rdfs:comment  "List of Federal Roads in Sarawak"@en ;
+        rdfs:label    "List of Federal Roads in Sarawak"@en .
+
+dbr:2005_Tokyo_Verdy_1969_season
+        rdfs:comment  "2005 Tokyo Verdy 1969 season"@en ;
+        rdfs:label    "2005 Tokyo Verdy 1969 season"@en .
+
+dbr:1998_Yokohama_Marinos_season
+        rdfs:comment  "1998 Yokohama Marinos season"@en ;
+        rdfs:label    "1998 Yokohama Marinos season"@en .
+
+dbr:2000_Omiya_Ardija_season
+        rdfs:comment  "2000 Omiya Ardija season"@en ;
+        rdfs:label    "2000 Omiya Ardija season"@en .
+
+dbr:List_of_medalists_at_the_European_Shooting_Championships
+        rdfs:comment  "List of medalists at the European Shooting Championships"@en ;
+        rdfs:label    "List of medalists at the European Shooting Championships"@en .
+
+dbr:1926_in_philosophy
+        rdfs:comment  "1926 in philosophy"@en ;
+        rdfs:label    "1926 in philosophy"@en .
+
+dbr:United_Kingdom_traffic_laws
+        rdfs:comment  "Causing bodily harm by wanton or furious driving"@en ;
+        rdfs:label    "United Kingdom traffic laws"@en .
+
+dbr:2000_Yokohama_F._Marinos_season
+        rdfs:comment  "2000 Yokohama F. Marinos season"@en ;
+        rdfs:label    "2000 Yokohama F. Marinos season"@en .
+
+dbr:2003_Vegalta_Sendai_season
+        rdfs:comment  "2003 Vegalta Sendai season"@en ;
+        rdfs:label    "2003 Vegalta Sendai season"@en .
+
+dbr:1920_in_philosophy
+        rdfs:comment  "1920 in philosophy"@en ;
+        rdfs:label    "1920 in philosophy"@en .
+
+dbr:1992_Yokohama_Marinos_season
+        rdfs:comment  "1992 Yokohama Marinos season"@en ;
+        rdfs:label    "1992 Yokohama Marinos season"@en .
+
+<http://dbpedia.org/resource/Custer_High_School_(Milwaukee)>
+        rdfs:comment  "General George Armstrong Custer"@en ;
+        rdfs:label    "Custer High School (Milwaukee)"@en .
+
+dbr:2006_Tokushima_Vortis_season
+        rdfs:comment  "2006 Tokushima Vortis season"@en ;
+        rdfs:label    "2006 Tokushima Vortis season"@en .
+
+dbr:1992_JEF_United_Ichihara_season
+        rdfs:comment  "1992 JEF United Ichihara season"@en ;
+        rdfs:label    "1992 JEF United Ichihara season"@en .
+
+dbr:2009_Montedio_Yamagata_season
+        rdfs:comment  "2009 Montedio Yamagata season"@en ;
+        rdfs:label    "2009 Montedio Yamagata season"@en .
+
+dbr:2020_in_philosophy
+        rdfs:comment  "2020 in philosophy"@en ;
+        rdfs:label    "2020 in philosophy"@en .
+
+dbr:1925_in_philosophy
+        rdfs:comment  "1925 in philosophy"@en ;
+        rdfs:label    "1925 in philosophy"@en .
+
+dbr:Military_history_of_Syria
+        rdfs:comment  "Military history of Syria"@en ;
+        rdfs:label    "Military history of Syria"@en .
+
+dbr:List_of_Yiddish_newspapers_and_periodicals
+        rdfs:comment  "List of Yiddish newspapers and periodicals"@en ;
+        rdfs:label    "List of Yiddish newspapers and periodicals"@en .
+
+dbr:1969_in_philosophy
+        rdfs:comment  "1969 in philosophy"@en ;
+        rdfs:label    "1969 in philosophy"@en .
+
+dbr:Armorial_of_districts_in_North_Rhine-Westphalia
+        rdfs:comment  "List of coats of arms of the districts in North Rhine-Westphalia, Germany"@en ;
+        rdfs:label    "Armorial of districts in North Rhine-Westphalia"@en .
+
+dbr:2008_Vegalta_Sendai_season
+        rdfs:comment  "2008 Vegalta Sendai season"@en ;
+        rdfs:label    "2008 Vegalta Sendai season"@en .
+
+dbr:Telecommunications_in_Saint_Lucia
+        rdfs:comment  "Communications in Saint Lucia"@en ;
+        rdfs:label    "Telecommunications in Saint Lucia"@en .
+
+dbr:Chinese_names_in_space
+        rdfs:comment  "Chinese names in space"@en ;
+        rdfs:label    "Chinese names in space"@en .
+
+<http://dbpedia.org/resource/2010_UCI_Mountain_Bike_&_Trials_World_Championships_–_Men's_cross-country>
+        rdfs:comment  "UCI Mountain Bike & Trials World Championships"@en ;
+        rdfs:label    "2010 UCI Mountain Bike & Trials World Championships – Men's cross-country"@en .
+
+dbr:1963_in_philosophy
+        rdfs:comment  "1963 in philosophy"@en ;
+        rdfs:label    "1963 in philosophy"@en .
+
+dbr:2017_Magway_F.C._season
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "2017 Magway F.C. season"@en .
+
+dbr:2016_Magway_F.C._season
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "2016 Magway F.C. season"@en .
+
+dbr:2008_Oita_Trinita_season
+        rdfs:comment  "2008 Oita Trinita season"@en ;
+        rdfs:label    "2008 Oita Trinita season"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1967
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1967"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1967"@en .
+
+dbr:2000_Shonan_Bellmare_season
+        rdfs:comment  "2000 Shonan Bellmare season"@en ;
+        rdfs:label    "2000 Shonan Bellmare season"@en .
+
+dbr:2003_Omiya_Ardija_season
+        rdfs:comment  "2003 Omiya Ardija season"@en ;
+        rdfs:label    "2003 Omiya Ardija season"@en .
+
+dbr:List_of_presidents_of_the_American_Psychiatric_Association
+        rdfs:comment  "Presidents of the American Psychiatric Association"@en ;
+        rdfs:label    "List of presidents of the American Psychiatric Association"@en .
+
+dbr:1993_Urawa_Red_Diamonds_season
+        rdfs:comment  "1993 Urawa Red Diamonds season"@en ;
+        rdfs:label    "1993 Urawa Red Diamonds season"@en .
+
+dbr:1999_Sanfrecce_Hiroshima_season
+        rdfs:comment  "1999 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "1999 Sanfrecce Hiroshima season"@en .
+
+dbr:2005_Kyoto_Purple_Sanga_season
+        rdfs:comment  "2005 Kyoto Purple Sanga season"@en ;
+        rdfs:label    "2005 Kyoto Purple Sanga season"@en .
+
+dbr:1916_in_philosophy
+        rdfs:comment  "1916 in philosophy"@en ;
+        rdfs:label    "1916 in philosophy"@en .
+
+dbr:2001_Sanfrecce_Hiroshima_season
+        rdfs:comment  "2001 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "2001 Sanfrecce Hiroshima season"@en .
+
+dbr:1999_Kyoto_Purple_Sanga_season
+        rdfs:comment  "1999 Kyoto Purple Sanga season"@en ;
+        rdfs:label    "1999 Kyoto Purple Sanga season"@en .
+
+dbr:2008_JEF_United_Chiba_season
+        rdfs:comment  "2008 JEF United Ichihara Chiba season"@en ;
+        rdfs:label    "2008 JEF United Chiba season"@en .
+
+dbr:1910_in_philosophy
+        rdfs:comment  "1910 in philosophy"@en ;
+        rdfs:label    "1910 in philosophy"@en .
+
+dbr:List_of_railway_stations_in_Japan:_F
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: F"@en .
+
+dbr:2003_Kashima_Antlers_season
+        rdfs:comment  "2003 Kashima Antlers season"@en ;
+        rdfs:label    "2003 Kashima Antlers season"@en .
+
+dbr:2003_JEF_United_Ichihara_season
+        rdfs:comment  "2003 JEF United Ichihara season"@en ;
+        rdfs:label    "2003 JEF United Ichihara season"@en .
+
+<http://dbpedia.org/resource/List_of_Cleveland_Indians_(NFL_1923)_players>
+        rdfs:comment  "Heartley Anderson"@en ;
+        rdfs:label    "List of Cleveland Indians (NFL 1923) players"@en .
+
+dbr:1994_Júbilo_Iwata_season
+        rdfs:comment  "1994 Júbilo Iwata season"@en ;
+        rdfs:label    "1994 Júbilo Iwata season"@en .
+
+ns4:U   rdfs:comment  "Udurlije"@en ;
+        rdfs:label    "List of settlements in the Federation of Bosnia and Herzegovina/U"@en .
+
+dbr:2016_in_philosophy
+        rdfs:comment  "2016 in philosophy"@en ;
+        rdfs:label    "2016 in philosophy"@en .
+
+dbr:2003_Cerezo_Osaka_season
+        rdfs:comment  "2003 Cerezo Osaka season"@en ;
+        rdfs:label    "2003 Cerezo Osaka season"@en .
+
+dbr:1995_FIFA_U-17_World_Championship_squads
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "1995 FIFA U-17 World Championship squads"@en .
+
+dbr:Timeline_of_the_insurgency_in_Punjab
+        rdfs:comment  "List of terrorist incidents in Punjab (India)"@en ;
+        rdfs:label    "Timeline of the insurgency in Punjab"@en .
+
+dbr:International_rankings_of_South_Africa
+        rdfs:comment  "International rankings of South Africa"@en ;
+        rdfs:label    "International rankings of South Africa"@en .
+
+dbr:2002_Gamba_Osaka_season
+        rdfs:comment  "2002 Gamba Osaka season"@en ;
+        rdfs:label    "2002 Gamba Osaka season"@en .
+
+dbr:WNBA_expansion_draft_history
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "WNBA expansion draft history"@en .
+
+dbr:2010_in_philosophy
+        rdfs:comment  "2010 in philosophy"@en ;
+        rdfs:label    "2010 in philosophy"@en .
+
+dbr:2006_Tokyo_Verdy_1969_season
+        rdfs:comment  "2006 Tokyo Verdy 1969 season"@en ;
+        rdfs:label    "2006 Tokyo Verdy 1969 season"@en .
+
+dbr:2001_Gamba_Osaka_season
+        rdfs:comment  "2001 Gamba Osaka season"@en ;
+        rdfs:label    "2001 Gamba Osaka season"@en .
+
+dbr:1959_in_philosophy
+        rdfs:comment  "1959 in philosophy"@en ;
+        rdfs:label    "1959 in philosophy"@en .
+
+dbr:1995_Nagoya_Grampus_Eight_season
+        rdfs:comment  "1995 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "1995 Nagoya Grampus Eight season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_W
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: W"@en .
+
+dbr:1953_in_philosophy
+        rdfs:comment  "1953 in philosophy"@en ;
+        rdfs:label    "1953 in philosophy"@en .
+
+dbr:1993_Yokohama_Marinos_season
+        rdfs:comment  "1993 Yokohama Marinos season"@en ;
+        rdfs:label    "1993 Yokohama Marinos season"@en .
+
+dbr:2000_Albirex_Niigata_season
+        rdfs:comment  "2000 Albirex Niigata season"@en ;
+        rdfs:label    "2000 Albirex Niigata season"@en .
+
+dbr:2007_Tokushima_Vortis_season
+        rdfs:comment  "2007 Tokushima Vortis season"@en ;
+        rdfs:label    "2007 Tokushima Vortis season"@en .
+
+dbr:1999_FC_Tokyo_season
+        rdfs:comment  "1999 FC Tokyo season"@en ;
+        rdfs:label    "1999 FC Tokyo season"@en .
+
+dbr:1997_in_philosophy
+        rdfs:comment  "1997 in philosophy"@en ;
+        rdfs:label    "1997 in philosophy"@en .
+
+dbr:Timeline_of_agriculture_and_food_technology
+        rdfs:comment  "."@en ;
+        rdfs:label    "Timeline of agriculture and food technology"@en .
+
+dbr:2002_Kashiwa_Reysol_season
+        rdfs:comment  "2002 Kashiwa Reysol season"@en ;
+        rdfs:label    "2002 Kashiwa Reysol season"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1994
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1994"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1994"@en .
+
+dbr:1998_elections_in_India
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "1998 elections in India"@en .
+
+dbr:2007_Mito_HollyHock_season
+        rdfs:comment  "2007 Mito HollyHock season"@en ;
+        rdfs:label    "2007 Mito HollyHock season"@en .
+
+<http://dbpedia.org/resource/2018–19_Colgate_Raiders_women's_ice_hockey_season>
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "2018–19 Colgate Raiders women's ice hockey season"@en .
+
+dbr:1859_in_philosophy
+        rdfs:comment  "1859 in philosophy"@en ;
+        rdfs:label    "1859 in philosophy"@en .
+
+dbr:1993_Verdy_Kawasaki_season
+        rdfs:comment  "1993 Verdy Kawasaki season"@en ;
+        rdfs:label    "1993 Verdy Kawasaki season"@en .
+
+dbr:1999_Albirex_Niigata_season
+        rdfs:comment  "1999 Albirex Niigata season"@en ;
+        rdfs:label    "1999 Albirex Niigata season"@en .
+
+dbr:1906_in_philosophy
+        rdfs:comment  "1906 in philosophy"@en ;
+        rdfs:label    "1906 in philosophy"@en .
+
+dbr:2000_Nagoya_Grampus_Eight_season
+        rdfs:comment  "2000 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "2000 Nagoya Grampus Eight season"@en .
+
+dbr:2004_Yokohama_F._Marinos_season
+        rdfs:comment  "2004 Yokohama F. Marinos season"@en ;
+        rdfs:label    "2004 Yokohama F. Marinos season"@en .
+
+dbr:List_of_New_Jersey_Civil_War_units
+        rdfs:comment  "Lists of American Civil War Regiments by State"@en ;
+        rdfs:label    "List of New Jersey Civil War units"@en .
+
+dbr:1996_in_philosophy
+        rdfs:comment  "1996 in philosophy"@en ;
+        rdfs:label    "1996 in philosophy"@en .
+
+dbr:2000_Júbilo_Iwata_season
+        rdfs:comment  "2000 Júbilo Iwata season"@en ;
+        rdfs:label    "2000 Júbilo Iwata season"@en .
+
+dbr:1974_elections_in_India
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "1974 elections in India"@en .
+
+dbr:1997_Júbilo_Iwata_season
+        rdfs:comment  "1997 Júbilo Iwata season"@en ;
+        rdfs:label    "1997 Júbilo Iwata season"@en .
+
+dbr:1900_in_philosophy
+        rdfs:comment  "1900 in philosophy"@en ;
+        rdfs:label    "1900 in philosophy"@en .
+
+dbr:2006_Cerezo_Osaka_season
+        rdfs:comment  "2006 Cerezo Osaka season"@en ;
+        rdfs:label    "2006 Cerezo Osaka season"@en .
+
+dbr:1990_in_philosophy
+        rdfs:comment  "1990 in philosophy"@en ;
+        rdfs:label    "1990 in philosophy"@en .
+
+dbr:2003_Avispa_Fukuoka_season
+        rdfs:comment  "2003 Avispa Fukuoka season"@en ;
+        rdfs:label    "2003 Avispa Fukuoka season"@en .
+
+dbr:1993_Nagoya_Grampus_Eight_season
+        rdfs:comment  "1993 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "1993 Nagoya Grampus Eight season"@en .
+
+dbr:1996_JEF_United_Ichihara_season
+        rdfs:comment  "1996 JEF United Ichihara season"@en ;
+        rdfs:label    "1996 JEF United Ichihara season"@en .
+
+dbr:2000_Urawa_Red_Diamonds_season
+        rdfs:comment  "2000 Urawa Red Diamonds season"@en ;
+        rdfs:label    "2000 Urawa Red Diamonds season"@en .
+
+dbr:2006_in_philosophy
+        rdfs:comment  "2006 in philosophy"@en ;
+        rdfs:label    "2006 in philosophy"@en .
+
+dbr:1998_Verdy_Kawasaki_season
+        rdfs:comment  "1998 Verdy Kawasaki season"@en ;
+        rdfs:label    "1998 Verdy Kawasaki season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_A
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: A"@en .
+
+dbr:1998_Nagoya_Grampus_Eight_season
+        rdfs:comment  "1998 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "1998 Nagoya Grampus Eight season"@en .
+
+dbr:2007_Ventforet_Kofu_season
+        rdfs:comment  "2007 Ventforet Kofu season"@en ;
+        rdfs:label    "2007 Ventforet Kofu season"@en .
+
+dbr:List_of_airports_in_the_Texas_Panhandle
+        rdfs:comment  "List of airports in the Texas Panhandle"@en ;
+        rdfs:label    "List of airports in the Texas Panhandle"@en .
+
+dbr:1994_Urawa_Red_Diamonds_season
+        rdfs:comment  "1994 Urawa Red Diamonds season"@en ;
+        rdfs:label    "1994 Urawa Red Diamonds season"@en .
+
+dbr:2000_in_philosophy
+        rdfs:comment  "2000 in philosophy"@en ;
+        rdfs:label    "2000 in philosophy"@en .
+
+dbr:Mycobacterium_murale
+        rdfs:comment  "Mycobacterium murale"@en ;
+        rdfs:label    "Mycobacterium murale"@en .
+
+dbr:2006_Kyoto_Purple_Sanga_season
+        rdfs:comment  "2006 Kyoto Purple Sanga season"@en ;
+        rdfs:label    "2006 Kyoto Purple Sanga season"@en .
+
+dbr:1949_in_philosophy
+        rdfs:comment  "1949 in philosophy"@en ;
+        rdfs:label    "1949 in philosophy"@en .
+
+dbr:1800_in_philosophy
+        rdfs:comment  "1800 in philosophy"@en ;
+        rdfs:label    "1800 in philosophy"@en .
+
+dbr:Timeline_of_geology
+        rdfs:comment  "Timeline of geology"@en ;
+        rdfs:label    "Timeline of geology"@en .
+
+dbr:1997_in_birding_and_ornithology
+        rdfs:comment  "To be completed"@en ;
+        rdfs:label    "1997 in birding and ornithology"@en .
+
+dbr:2008_Avispa_Fukuoka_season
+        rdfs:comment  "2008 Avispa Fukuoka season"@en ;
+        rdfs:label    "2008 Avispa Fukuoka season"@en .
+
+dbr:1890_in_philosophy
+        rdfs:comment  "1890 in philosophy"@en ;
+        rdfs:label    "1890 in philosophy"@en .
+
+dbr:2009_JEF_United_Chiba_season
+        rdfs:comment  "2009 JEF United Ichihara Chiba season"@en ;
+        rdfs:label    "2009 JEF United Chiba season"@en .
+
+dbr:1943_in_philosophy
+        rdfs:comment  "1943 in philosophy"@en ;
+        rdfs:label    "1943 in philosophy"@en .
+
+dbr:2009_Yokohama_FC_season
+        rdfs:comment  "2009 Yokohama FC season"@en ;
+        rdfs:label    "2009 Yokohama FC season"@en .
+
+dbr:2008_Yokohama_FC_season
+        rdfs:comment  "2008 Yokohama FC season"@en ;
+        rdfs:label    "2008 Yokohama FC season"@en .
+
+dbr:1987_in_philosophy
+        rdfs:comment  "1987 in philosophy"@en ;
+        rdfs:label    "1987 in philosophy"@en .
+
+dbr:1992_Sanfrecce_Hiroshima_season
+        rdfs:comment  "1992 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "1992 Sanfrecce Hiroshima season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_R
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: R"@en .
+
+dbr:2009_Vissel_Kobe_season
+        rdfs:comment  "2009 Vissel Kobe season"@en ;
+        rdfs:label    "2009 Vissel Kobe season"@en .
+
+dbr:2003_Nagoya_Grampus_Eight_season
+        rdfs:comment  "2003 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "2003 Nagoya Grampus Eight season"@en .
+
+dbr:1981_in_philosophy
+        rdfs:comment  "1981 in philosophy"@en ;
+        rdfs:label    "1981 in philosophy"@en .
+
+dbr:2008_Vissel_Kobe_season
+        rdfs:comment  "2008 Vissel Kobe season"@en ;
+        rdfs:label    "2008 Vissel Kobe season"@en .
+
+dbr:2008_Caribbean_Cup_squads
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "2008 Caribbean Cup squads"@en .
+
+dbr:Lists_of_war_monuments_and_memorials
+        rdfs:comment  "Lists of war monuments and memorials"@en ;
+        rdfs:label    "Lists of war monuments and memorials"@en .
+
+dbr:2007_Tokyo_Verdy_1969_season
+        rdfs:comment  "2007 Tokyo Verdy 1969 season"@en ;
+        rdfs:label    "2007 Tokyo Verdy 1969 season"@en .
+
+dbr:2010_Vegalta_Sendai_season
+        rdfs:comment  "2010 Vegalta Sendai season"@en ;
+        rdfs:label    "2010 Vegalta Sendai season"@en .
+
+dbr:1700_in_philosophy
+        rdfs:comment  "1700 in philosophy"@en ;
+        rdfs:label    "1700 in philosophy"@en .
+
+dbr:1996_Nagoya_Grampus_Eight_season
+        rdfs:comment  "1996 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "1996 Nagoya Grampus Eight season"@en .
+
+dbr:2003_Júbilo_Iwata_season
+        rdfs:comment  "2003 Júbilo Iwata season"@en ;
+        rdfs:label    "2003 Júbilo Iwata season"@en .
+
+dbr:2009_Cerezo_Osaka_season
+        rdfs:comment  "2009 Cerezo Osaka season"@en ;
+        rdfs:label    "2009 Cerezo Osaka season"@en .
+
+dbr:2005_Sanfrecce_Hiroshima_season
+        rdfs:comment  "2005 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "2005 Sanfrecce Hiroshima season"@en .
+
+dbr:2001_Tokyo_Verdy_1969_season
+        rdfs:comment  "2001 Tokyo Verdy 1969 season"@en ;
+        rdfs:label    "2001 Tokyo Verdy 1969 season"@en .
+
+dbr:1986_in_philosophy
+        rdfs:comment  "1986 in philosophy"@en ;
+        rdfs:label    "1986 in philosophy"@en .
+
+dbr:1994_Yokohama_Marinos_season
+        rdfs:comment  "1994 Yokohama Marinos season"@en ;
+        rdfs:label    "1994 Yokohama Marinos season"@en .
+
+dbr:1991_UEFA_European_Under-16_Championship_squads
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "1991 UEFA European Under-16 Championship squads"@en .
+
+dbr:2007_Thespa_Kusatsu_season
+        rdfs:comment  "2007 Thespa Kusatsu season"@en ;
+        rdfs:label    "2007 Thespa Kusatsu season"@en .
+
+dbr:1980_in_philosophy
+        rdfs:comment  "1980 in philosophy"@en ;
+        rdfs:label    "1980 in philosophy"@en .
+
+dbr:List_of_wars_involving_Serbia_in_the_Middle_Ages
+        rdfs:comment  "List of wars involving Serbia in the Middle Ages"@en ;
+        rdfs:label    "List of wars involving Serbia in the Middle Ages"@en .
+
+dbr:1980_elections_in_India
+        rdfs:comment  "Sources:"@en ;
+        rdfs:label    "1980 elections in India"@en .
+
+dbr:List_of_Malaysian_patriotic_songs
+        rdfs:comment  "List of Malaysian patriotic songs"@en ;
+        rdfs:label    "List of Malaysian patriotic songs"@en .
+
+dbr:1743_in_philosophy
+        rdfs:comment  "1743 in philosophy"@en ;
+        rdfs:label    "1743 in philosophy"@en .
+
+dbr:2009_Tochigi_SC_season
+        rdfs:comment  "2009 Tochigi S.C. season"@en ;
+        rdfs:label    "2009 Tochigi SC season"@en .
+
+dbr:2005_Shonan_Bellmare_season
+        rdfs:comment  "2005 Shonan Bellmare season"@en ;
+        rdfs:label    "2005 Shonan Bellmare season"@en .
+
+dbr:1939_in_philosophy
+        rdfs:comment  "1939 in philosophy"@en ;
+        rdfs:label    "1939 in philosophy"@en .
+
+dbr:List_of_expressways_in_Inner_Mongolia
+        rdfs:comment  "List of expressways in Inner Mongolia"@en ;
+        rdfs:label    "List of expressways in Inner Mongolia"@en .
+
+dbr:2006_Nagoya_Grampus_Eight_season
+        rdfs:comment  "2006 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "2006 Nagoya Grampus Eight season"@en .
+
+dbr:List_of_ways_people_honor_the_dead
+        rdfs:comment  "List of ways people honor the dead"@en ;
+        rdfs:label    "List of ways people honor the dead"@en .
+
+dbr:1781_in_philosophy
+        rdfs:comment  "1781 in philosophy"@en ;
+        rdfs:label    "1781 in philosophy"@en .
+
+dbr:1933_in_philosophy
+        rdfs:comment  "1933 in philosophy"@en ;
+        rdfs:label    "1933 in philosophy"@en .
+
+dbr:1977_in_philosophy
+        rdfs:comment  "1977 in philosophy"@en ;
+        rdfs:label    "1977 in philosophy"@en .
+
+dbr:1999_Nagoya_Grampus_Eight_season
+        rdfs:comment  "1999 Nagoya Grampus Eight season"@en ;
+        rdfs:label    "1999 Nagoya Grampus Eight season"@en .
+
+dbr:2001_Urawa_Red_Diamonds_season
+        rdfs:comment  "2001 Urawa Red Diamonds season"@en ;
+        rdfs:label    "2001 Urawa Red Diamonds season"@en .
+
+dbo:lccnId  rdfs:comment  "Library of Congress Control Number"@en ;
+        rdfs:label    "LCCN Id"@en .
+
+dbr:1994_Gamba_Osaka_season
+        rdfs:comment  "1994 Gamba Osaka season"@en ;
+        rdfs:label    "1994 Gamba Osaka season"@en .
+
+dbr:1971_in_philosophy
+        rdfs:comment  "1971 in philosophy"@en ;
+        rdfs:label    "1971 in philosophy"@en .
+
+dbr:1995_Urawa_Red_Diamonds_season
+        rdfs:comment  "1995 Urawa Red Diamonds season"@en ;
+        rdfs:label    "1995 Urawa Red Diamonds season"@en .
+
+dbr:1997_Avispa_Fukuoka_season
+        rdfs:comment  "1997 Avispa Fukuoka season"@en ;
+        rdfs:label    "1997 Avispa Fukuoka season"@en .
+
+dbr:1993_Gamba_Osaka_season
+        rdfs:comment  "1993 Gamba Osaka season"@en ;
+        rdfs:label    "1993 Gamba Osaka season"@en .
+
+dbr:2008_Kashima_Antlers_season
+        rdfs:comment  "2008 Kashima Antlers season"@en ;
+        rdfs:label    "2008 Kashima Antlers season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_M
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: M"@en .
+
+<http://dbpedia.org/resource/Presidium_of_the_Reichstag_(German_Empire)>
+        rdfs:comment  "Presidium of the Reichstag (German Empire)"@en ;
+        rdfs:label    "Presidium of the Reichstag (German Empire)"@en .
+
+dbr:Origins_of_names_of_cities_and_towns_in_Hong_Kong
+        rdfs:comment  "Origins of names of cities and towns in Hong Kong"@en ;
+        rdfs:label    "Origins of names of cities and towns in Hong Kong"@en .
+
+dbr:Shramik_Vikas_Sangathan
+        rdfs:comment  "."@en ;
+        rdfs:label    "Shramik Vikas Sangathan"@en .
+
+dbr:1976_in_philosophy
+        rdfs:comment  "1976 in philosophy"@en ;
+        rdfs:label    "1976 in philosophy"@en .
+
+dbr:1999_Kashiwa_Reysol_season
+        rdfs:comment  "1999 Kashiwa Reysol season"@en ;
+        rdfs:label    "1999 Kashiwa Reysol season"@en .
+
+dbr:2008_Yokohama_F._Marinos_season
+        rdfs:comment  "2008 Yokohama F. Marinos season"@en ;
+        rdfs:label    "2008 Yokohama F. Marinos season"@en .
+
+dbr:2000_UEFA_European_Under-18_Championship_squads
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "2000 UEFA European Under-18 Championship squads"@en .
+
+dbr:1970_in_philosophy
+        rdfs:comment  "1970 in philosophy"@en ;
+        rdfs:label    "1970 in philosophy"@en .
+
+dbr:2001_Shonan_Bellmare_season
+        rdfs:comment  "2001 Shonan Bellmare season"@en ;
+        rdfs:label    "2001 Shonan Bellmare season"@en .
+
+<http://dbpedia.org/resource/Order_of_battle_Tianjin–Pukou_Railway_Operation>
+        rdfs:comment  "Order of battle Tianjin–Pukou Railway Operation"@en ;
+        rdfs:label    "Order of battle Tianjin–Pukou Railway Operation"@en .
+
+dbr:2006_Oita_Trinita_season
+        rdfs:comment  "2006 Oita Trinita season"@en ;
+        rdfs:label    "2006 Oita Trinita season"@en .
+
+dbr:2005_Albirex_Niigata_season
+        rdfs:comment  "2005 Albirex Niigata season"@en ;
+        rdfs:label    "2005 Albirex Niigata season"@en .
+
+dbr:List_of_tariffs_in_Canada
+        rdfs:comment  "List of tariffs in Canada"@en ;
+        rdfs:label    "List of tariffs in Canada"@en .
+
+dbr:1996_Kashima_Antlers_season
+        rdfs:comment  "1996 Kashima Antlers season"@en ;
+        rdfs:label    "1996 Kashima Antlers season"@en .
+
+dbr:2007_Sagan_Tosu_season
+        rdfs:comment  "2007 Sagan Tosu season"@en ;
+        rdfs:label    "2007 Sagan Tosu season"@en .
+
+dbr:2001_Omiya_Ardija_season
+        rdfs:comment  "2001 Omiya Ardija season"@en ;
+        rdfs:label    "2001 Omiya Ardija season"@en .
+
+dbr:1929_in_philosophy
+        rdfs:comment  "1929 in philosophy"@en ;
+        rdfs:label    "1929 in philosophy"@en .
+
+dbr:2004_Vegalta_Sendai_season
+        rdfs:comment  "2004 Vegalta Sendai season"@en ;
+        rdfs:label    "2004 Vegalta Sendai season"@en .
+
+dbr:2002_Tokyo_Verdy_1969_season
+        rdfs:comment  "2002 Tokyo Verdy 1969 season"@en ;
+        rdfs:label    "2002 Tokyo Verdy 1969 season"@en .
+
+dbr:1995_Yokohama_Marinos_season
+        rdfs:comment  "1995 Yokohama Marinos season"@en ;
+        rdfs:label    "1995 Yokohama Marinos season"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1969
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1969"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1969"@en .
+
+dbr:1923_in_philosophy
+        rdfs:comment  "1923 in philosophy"@en ;
+        rdfs:label    "1923 in philosophy"@en .
+
+dbr:2006_Gamba_Osaka_season
+        rdfs:comment  "2006 Gamba Osaka season"@en ;
+        rdfs:label    "2006 Gamba Osaka season"@en .
+
+dbr:List_of_Wickes-class_destroyers
+        rdfs:comment  "Wickes-class destroyers"@en ;
+        rdfs:label    "List of Wickes-class destroyers"@en .
+
+dbr:2000_Montedio_Yamagata_season
+        rdfs:comment  "2000 Montedio Yamagata season"@en ;
+        rdfs:label    "2000 Montedio Yamagata season"@en .
+
+dbr:2000_Verdy_Kawasaki_season
+        rdfs:comment  "2000 Verdy Kawasaki season"@en ;
+        rdfs:label    "2000 Verdy Kawasaki season"@en .
+
+dbr:2005_Gamba_Osaka_season
+        rdfs:comment  "2005 Gamba Osaka season"@en ;
+        rdfs:label    "2005 Gamba Osaka season"@en .
+
+dbr:1967_in_philosophy
+        rdfs:comment  "1967 in philosophy"@en ;
+        rdfs:label    "1967 in philosophy"@en .
+
+dbr:1961_in_philosophy
+        rdfs:comment  "1961 in philosophy"@en ;
+        rdfs:label    "1961 in philosophy"@en .
+
+dbr:2007_Kyoto_Sanga_FC_season
+        rdfs:comment  "2007 Kyoto Sanga F.C. season"@en ;
+        rdfs:label    "2007 Kyoto Sanga FC season"@en .
+
+dbr:2006_Kawasaki_Frontale_season
+        rdfs:comment  "2006 Kawasaki Frontale season"@en ;
+        rdfs:label    "2006 Kawasaki Frontale season"@en .
+
+dbr:2001_Cerezo_Osaka_season
+        rdfs:comment  "2001 Cerezo Osaka season"@en ;
+        rdfs:label    "2001 Cerezo Osaka season"@en .
+
+dbr:2010_FC_Gifu_season
+        rdfs:comment  "2010 F.C. Gifu season"@en ;
+        rdfs:label    "2010 FC Gifu season"@en .
+
+dbr:1998_Cerezo_Osaka_season
+        rdfs:comment  "1998 Cerezo Osaka season"@en ;
+        rdfs:label    "1998 Cerezo Osaka season"@en .
+
+dbr:2009_Vegalta_Sendai_season
+        rdfs:comment  "2009 Vegalta Sendai season"@en ;
+        rdfs:label    "2009 Vegalta Sendai season"@en .
+
+dbr:Timeline_of_the_Iraq_War_troop_surge_of_2007
+        rdfs:comment  "Timeline of the Iraq War troop surge of 2007"@en ;
+        rdfs:label    "Timeline of the Iraq War troop surge of 2007"@en .
+
+dbr:2009_Ehime_FC_season
+        rdfs:comment  "2009 Ehime F.C. season"@en ;
+        rdfs:label    "2009 Ehime FC season"@en .
+
+dbr:2009_Tokyo_Verdy_season
+        rdfs:comment  "2009 Tokyo Verdy season"@en ;
+        rdfs:label    "2009 Tokyo Verdy season"@en .
+
+dbr:2010_Avispa_Fukuoka_season
+        rdfs:comment  "2010 Avispa Fukuoka season"@en ;
+        rdfs:label    "2010 Avispa Fukuoka season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_H
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: H"@en .
+
+dbr:2000_JEF_United_Ichihara_season
+        rdfs:comment  "2000 JEF United Ichihara season"@en ;
+        rdfs:label    "2000 JEF United Ichihara season"@en .
+
+dbr:Arts_by_region  rdfs:comment  "Arts by region"@en ;
+        rdfs:label    "Arts by region"@en .
+
+dbr:Blatte  rdfs:comment  "Blatte"@en ;
+        rdfs:label    "Blatte"@en .
+
+dbr:2009_Sanfrecce_Hiroshima_season
+        rdfs:comment  "2009 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "2009 Sanfrecce Hiroshima season"@en .
+
+dbr:2008_Sagan_Tosu_season
+        rdfs:comment  "2008 Sagan Tosu season"@en ;
+        rdfs:label    "2008 Sagan Tosu season"@en .
+
+dbr:2009_Oita_Trinita_season
+        rdfs:comment  "2009 Oita Trinita season"@en ;
+        rdfs:label    "2009 Oita Trinita season"@en .
+
+dbr:2001_Montedio_Yamagata_season
+        rdfs:comment  "2001 Montedio Yamagata season"@en ;
+        rdfs:label    "2001 Montedio Yamagata season"@en .
+
+dbr:1992_Kashima_Antlers_season
+        rdfs:comment  "1992 Kashima Antlers season"@en ;
+        rdfs:label    "1992 Kashima Antlers season"@en .
+
+dbr:1960_in_philosophy
+        rdfs:comment  "1960 in philosophy"@en ;
+        rdfs:label    "1960 in philosophy"@en .
+
+dbr:2010_Ehime_FC_season
+        rdfs:comment  "2010 Ehime F.C. season"@en ;
+        rdfs:label    "2010 Ehime FC season"@en .
+
+dbr:1999_Vissel_Kobe_season
+        rdfs:comment  "1999 Vissel Kobe season"@en ;
+        rdfs:label    "1999 Vissel Kobe season"@en .
+
+dbr:1996_Urawa_Red_Diamonds_season
+        rdfs:comment  "1996 Urawa Red Diamonds season"@en ;
+        rdfs:label    "1996 Urawa Red Diamonds season"@en .
+
+dbr:2009_FC_Gifu_season
+        rdfs:comment  "2009 F.C. Gifu season"@en ;
+        rdfs:label    "2009 FC Gifu season"@en .
+
+dbr:2008_Ehime_FC_season
+        rdfs:comment  "2008 Ehime F.C. season"@en ;
+        rdfs:label    "2008 Ehime FC season"@en .
+
+dbr:2007_Kawasaki_Frontale_season
+        rdfs:comment  "2007 Kawasaki Frontale season"@en ;
+        rdfs:label    "2007 Kawasaki Frontale season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_Y
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: Y"@en .
+
+dbr:2014_in_philosophy
+        rdfs:comment  "2014 in philosophy"@en ;
+        rdfs:label    "2014 in philosophy"@en .
+
+dbr:1919_in_philosophy
+        rdfs:comment  "1919 in philosophy"@en ;
+        rdfs:label    "1919 in philosophy"@en .
+
+dbr:Timeline_of_black_hole_physics
+        rdfs:comment  "Timeline of black hole physics"@en ;
+        rdfs:label    "Timeline of black hole physics"@en .
+
+<http://dbpedia.org/resource/2012_in_women's_road_cycling>
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "2012 in women's road cycling"@en .
+
+dbr:2010_Tochigi_SC_season
+        rdfs:comment  "2010 Tochigi S.C. season"@en ;
+        rdfs:label    "2010 Tochigi SC season"@en .
+
+dbr:1913_in_philosophy
+        rdfs:comment  "1913 in philosophy"@en ;
+        rdfs:label    "1913 in philosophy"@en .
+
+dbr:1433_in_philosophy
+        rdfs:comment  "1433 in philosophy"@en ;
+        rdfs:label    "1433 in philosophy"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1996
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1996"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1996"@en .
+
+dbr:2000_Ventforet_Kofu_season
+        rdfs:comment  "2000 Ventforet Kofu season"@en ;
+        rdfs:label    "2000 Ventforet Kofu season"@en .
+
+dbr:2002_Montedio_Yamagata_season
+        rdfs:comment  "2002 Montedio Yamagata season"@en ;
+        rdfs:label    "2002 Montedio Yamagata season"@en .
+
+dbr:1957_in_philosophy
+        rdfs:comment  "1957 in philosophy"@en ;
+        rdfs:label    "1957 in philosophy"@en .
+
+dbr:1995_Júbilo_Iwata_season
+        rdfs:comment  "1995 Júbilo Iwata season"@en ;
+        rdfs:label    "1995 Júbilo Iwata season"@en .
+
+dbr:List_of_Guggenheim_Fellowships_awarded_in_1964
+        rdfs:comment  "List of Guggenheim Fellowships awarded in 1964"@en ;
+        rdfs:label    "List of Guggenheim Fellowships awarded in 1964"@en .
+
+dbr:2004_Cerezo_Osaka_season
+        rdfs:comment  "2004 Cerezo Osaka season"@en ;
+        rdfs:label    "2004 Cerezo Osaka season"@en .
+
+dbr:2007_Ehime_FC_season
+        rdfs:comment  "2007 Ehime FC season"@en ;
+        rdfs:label    "2007 Ehime FC season"@en .
+
+dbr:2003_Mito_HollyHock_season
+        rdfs:comment  "2003 Mito HollyHock season"@en ;
+        rdfs:label    "2003 Mito HollyHock season"@en .
+
+dbr:1951_in_philosophy
+        rdfs:comment  "1951 in philosophy"@en ;
+        rdfs:label    "1951 in philosophy"@en .
+
+dbr:1623_in_philosophy
+        rdfs:comment  "1623 in philosophy"@en ;
+        rdfs:label    "1623 in philosophy"@en .
+
+dbr:1999_Yokohama_F._Marinos_season
+        rdfs:comment  "1999 Yokohama F. Marinos season"@en ;
+        rdfs:label    "1999 Yokohama F. Marinos season"@en .
+
+dbr:2013_in_philosophy
+        rdfs:comment  "2013 in philosophy"@en ;
+        rdfs:label    "2013 in philosophy"@en .
+
+dbr:2008_Kawasaki_Frontale_season
+        rdfs:comment  "2008 Kawasaki Frontale season"@en ;
+        rdfs:label    "2008 Kawasaki Frontale season"@en .
+
+dbr:2001_Yokohama_F._Marinos_season
+        rdfs:comment  "2001 Yokohama F. Marinos season"@en ;
+        rdfs:label    "2001 Yokohama F. Marinos season"@en .
+
+dbr:2009_Sagan_Tosu_season
+        rdfs:comment  "2009 Sagan Tosu season"@en ;
+        rdfs:label    "2009 Sagan Tosu season"@en .
+
+dbr:List_of_fossiliferous_stratigraphic_units_in_Kenya
+        rdfs:comment  "Lists of fossiliferous stratigraphic units in Africa"@en ;
+        rdfs:label    "List of fossiliferous stratigraphic units in Kenya"@en .
+
+<http://dbpedia.org/resource/List_of_historical_markers_in_Brown_County,_Wisconsin>
+        rdfs:comment  "List of historical markers in Brown County, Wisconsin"@en ;
+        rdfs:label    "List of historical markers in Brown County, Wisconsin"@en .
+
+dbr:1993_JEF_United_Ichihara_season
+        rdfs:comment  "1993 JEF United Ichihara season"@en ;
+        rdfs:label    "1993 JEF United Ichihara season"@en .
+
+dbr:2010_Montedio_Yamagata_season
+        rdfs:comment  "2010 Montedio Yamagata season"@en ;
+        rdfs:label    "2010 Montedio Yamagata season"@en .
+
+dbr:2003_Kashiwa_Reysol_season
+        rdfs:comment  "2003 Kashiwa Reysol season"@en ;
+        rdfs:label    "2003 Kashiwa Reysol season"@en .
+
+dbr:2006_Ehime_FC_season
+        rdfs:comment  "2006 Ehime FC season"@en ;
+        rdfs:label    "2006 Ehime FC season"@en .
+
+dbr:List_of_railway_stations_in_Japan:_C
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: C"@en .
+
+dbr:2008_Mito_HollyHock_season
+        rdfs:comment  "2008 Mito HollyHock season"@en ;
+        rdfs:label    "2008 Mito HollyHock season"@en .
+
+dbr:2003_Montedio_Yamagata_season
+        rdfs:comment  "2003 Montedio Yamagata season"@en ;
+        rdfs:label    "2003 Montedio Yamagata season"@en .
+
+dbr:1950_in_philosophy
+        rdfs:comment  "1950 in philosophy"@en ;
+        rdfs:label    "1950 in philosophy"@en .
+
+dbr:2009_Fagiano_Okayama_season
+        rdfs:comment  "2009 Fagiano Okayama season"@en ;
+        rdfs:label    "2009 Fagiano Okayama season"@en .
+
+dbr:1844_in_archaeology
+        rdfs:comment  "1844 in archaeology"@en ;
+        rdfs:label    "1844 in archaeology"@en .
+
+dbr:List_of_airports_in_the_Oklahoma_Panhandle
+        rdfs:comment  "List of airports in the Oklahoma Panhandle"@en ;
+        rdfs:label    "List of airports in the Oklahoma Panhandle"@en .
+
+dbr:List_of_Estonian_punk_bands
+        rdfs:comment  "List of Estonian punk bands"@en ;
+        rdfs:label    "List of Estonian punk bands"@en .
+
+dbr:1994_in_philosophy
+        rdfs:comment  "1994 in philosophy"@en ;
+        rdfs:label    "1994 in philosophy"@en .
+
+dbr:1994_Verdy_Kawasaki_season
+        rdfs:comment  "1994 Verdy Kawasaki season"@en ;
+        rdfs:label    "1994 Verdy Kawasaki season"@en .
+
+dbr:2008_FC_Gifu_season
+        rdfs:comment  "2008 F.C. Gifu season"@en ;
+        rdfs:label    "2008 FC Gifu season"@en .
+
+dbr:2003_Ventforet_Kofu_season
+        rdfs:comment  "2003 Ventforet Kofu season"@en ;
+        rdfs:label    "2003 Ventforet Kofu season"@en .
+
+<http://dbpedia.org/resource/2009_in_women's_road_cycling>
+        rdfs:comment  "Source"@en ;
+        rdfs:label    "2009 in women's road cycling"@en .
+
+dbr:List_of_Azerbaijani-language_poets
+        rdfs:comment  "Below"@en ;
+        rdfs:label    "List of Azerbaijani-language poets"@en .
+
+dbr:2010_Omiya_Ardija_season
+        rdfs:comment  "2010 Omiya Ardija season"@en ;
+        rdfs:label    "2010 Omiya Ardija season"@en .
+
+dbr:List_of_romantics
+        rdfs:comment  "List of romantics"@en ;
+        rdfs:label    "List of romantics"@en .
+
+dbr:2009_Kawasaki_Frontale_season
+        rdfs:comment  "2009 Kawasaki Frontale season"@en ;
+        rdfs:label    "2009 Kawasaki Frontale season"@en .
+
+dbr:2004_in_philosophy
+        rdfs:comment  "2004 in philosophy"@en ;
+        rdfs:label    "2004 in philosophy"@en .
+
+dbr:2001_Júbilo_Iwata_season
+        rdfs:comment  "2001 Júbilo Iwata season"@en ;
+        rdfs:label    "2001 Júbilo Iwata season"@en .
+
+dbr:Ahmad_Tousi  rdfs:comment  "Coupe de France"@en ;
+        rdfs:label    "Ahmad Tousi"@en .
+
+dbr:1984_elections_in_India
+        rdfs:comment  "Source:"@en ;
+        rdfs:label    "1984 elections in India"@en .
+
+dbr:1998_Júbilo_Iwata_season
+        rdfs:comment  "1998 Júbilo Iwata season"@en ;
+        rdfs:label    "1998 Júbilo Iwata season"@en .
+
+<http://dbpedia.org/resource/Richard_Myers_(songwriter)>
+        rdfs:comment  "Richard Myers"@en ;
+        rdfs:label    "Richard Myers (songwriter)"@en .
+
+dbr:2004_Avispa_Fukuoka_season
+        rdfs:comment  "2004 Avispa Fukuoka season"@en ;
+        rdfs:label    "2004 Avispa Fukuoka season"@en .
+
+dbr:1903_in_philosophy
+        rdfs:comment  "1903 in philosophy"@en ;
+        rdfs:label    "1903 in philosophy"@en .
+
+dbr:List_of_railway_stations_in_Japan:_T
+        rdfs:comment  "List of railway stations in Japan"@en ;
+        rdfs:label    "List of railway stations in Japan: T"@en .
+
+dbr:1751_in_philosophy
+        rdfs:comment  "1751 in philosophy"@en ;
+        rdfs:label    "1751 in philosophy"@en .
+
+dbr:2007_Cerezo_Osaka_season
+        rdfs:comment  "2007 Cerezo Osaka season"@en ;
+        rdfs:label    "2007 Cerezo Osaka season"@en .
+
+dbr:2003_Urawa_Red_Diamonds_season
+        rdfs:comment  "2003 Urawa Red Diamonds season"@en ;
+        rdfs:label    "2003 Urawa Red Diamonds season"@en .
+
+dbr:1947_in_philosophy
+        rdfs:comment  "1947 in philosophy"@en ;
+        rdfs:label    "1947 in philosophy"@en .
+
+dbr:1999_Verdy_Kawasaki_season
+        rdfs:comment  "1999 Verdy Kawasaki season"@en ;
+        rdfs:label    "1999 Verdy Kawasaki season"@en .
+
+dbr:2004_Montedio_Yamagata_season
+        rdfs:comment  "2004 Montedio Yamagata season"@en ;
+        rdfs:label    "2004 Montedio Yamagata season"@en .
+
+dbr:2008_Ventforet_Kofu_season
+        rdfs:comment  "2008 Ventforet Kofu season"@en ;
+        rdfs:label    "2008 Ventforet Kofu season"@en .
+
+dbr:List_of_ways_people_dishonor_the_dead
+        rdfs:comment  "List of ways people dishonor the dead"@en ;
+        rdfs:label    "List of ways people dishonor the dead"@en .
+
+dbr:2002_Kashima_Antlers_season
+        rdfs:comment  "2002 Kashima Antlers season"@en ;
+        rdfs:label    "2002 Kashima Antlers season"@en .
+
+dbr:1997_Urawa_Red_Diamonds_season
+        rdfs:comment  "1997 Urawa Red Diamonds season"@en ;
+        rdfs:label    "1997 Urawa Red Diamonds season"@en .
+
+dbr:Local_elections_in_Poland
+        rdfs:comment  "Local elections in Poland"@en ;
+        rdfs:label    "Local elections in Poland"@en .
+
+dbr:1941_in_philosophy
+        rdfs:comment  "1941 in philosophy"@en ;
+        rdfs:label    "1941 in philosophy"@en .
+
+dbr:2010_Cerezo_Osaka_season
+        rdfs:comment  "2010 Cerezo Osaka season"@en ;
+        rdfs:label    "2010 Cerezo Osaka season"@en .
+
+dbr:1853_in_archaeology
+        rdfs:comment  "1853 in archaeology"@en ;
+        rdfs:label    "1853 in archaeology"@en .
+
+dbr:2000_FC_Tokyo_season
+        rdfs:comment  "2000 F.C. Tokyo season"@en ;
+        rdfs:label    "2000 FC Tokyo season"@en .
+
+dbr:2003_in_philosophy
+        rdfs:comment  "2003 in philosophy"@en ;
+        rdfs:label    "2003 in philosophy"@en .
+
+dbr:1809_in_philosophy
+        rdfs:comment  "1809 in philosophy"@en ;
+        rdfs:label    "1809 in philosophy"@en .
+
+dbr:2002_Sanfrecce_Hiroshima_season
+        rdfs:comment  "2002 Sanfrecce Hiroshima season"@en ;
+        rdfs:label    "2002 Sanfrecce Hiroshima season"@en .
+
+dbr:List_of_rally_cars
+        rdfs:comment  "List of rally cars"@en ;
+        rdfs:label    "List of rally cars"@en .
+
+dbr:International_rankings_of_South_Sudan
+        rdfs:comment  "International rankings of South Sudan"@en ;
+        rdfs:label    "International rankings of South Sudan"@en .
+
+dbr:2009_Avispa_Fukuoka_season
+        rdfs:comment  "2009 Avispa Fukuoka season"@en ;
+        rdfs:label    "2009 Avispa Fukuoka season"@en .
+
+dbr:Goans_in_cricket  rdfs:comment  "Goa cricket team"@en ;
+        rdfs:label    "Goans in cricket"@en .
+
+<http://dbpedia.org/resource/2013_in_women's_road_cycling>
+        rdfs:comment  "Source"@en ;
+        rdfs:label    "2013 in women's road cycling"@en .
+
+dbr:1998_Gamba_Osaka_season
+        rdfs:comment  "1998 Gamba Osaka season"@en ;
+        rdfs:label    "1998 Gamba Osaka season"@en .
+
+dbr:1997_Gamba_Osaka_season
+        rdfs:comment  "1997 Gamba Osaka season"@en ;
+        rdfs:label    "1997 Gamba Osaka season"@en .
+
+dbr:1847_in_philosophy
+        rdfs:comment  "1847 in philosophy"@en ;
+        rdfs:label    "1847 in philosophy"@en .
+
+dbr:List_of_fictional_hackers
+        rdfs:comment  "List of hackers"@en ;
+        rdfs:label    "List of fictional hackers"@en .
+
+dbr:2004_JEF_United_Ichihara_season
+        rdfs:comment  "2004 JEF United Ichihara season"@en ;
+        rdfs:label    "2004 JEF United Ichihara season"@en .
+
+dbr:List_of_postal_codes_of_Paraguay
+        rdfs:comment  "Asunción"@en ;
+        rdfs:label    "List of postal codes of Paraguay"@en .
+
+dbr:1940_in_philosophy
+        rdfs:comment  "1940 in philosophy"@en ;
+        rdfs:label    "1940 in philosophy"@en .
+
+dbr:1843_in_archaeology
+        rdfs:comment  "1843 in archaeology"@en ;
+        rdfs:label    "1843 in archaeology"@en .
+
+dbr:2006_JEF_United_Chiba_season
+        rdfs:comment  "2006 JEF United Ichihara Chiba season"@en ;
+        rdfs:label    "2006 JEF United Chiba season"@en .
+
+dbr:List_of_FC_Kairat_seasons
+        rdfs:comment  "List of FC Kairat seasons"@en ;
+        rdfs:label    "List of FC Kairat seasons"@en .
+
+dbr:2005_Montedio_Yamagata_season
+        rdfs:comment  "2005 Montedio Yamagata season"@en ;
+        rdfs:label    "2005 Montedio Yamagata season"@en .
+
+dbr:1984_in_philosophy
+        rdfs:comment  "1984 in philosophy"@en ;
+        rdfs:label    "1984 in philosophy"@en .
+
+<http://dbpedia.org/resource/2009–10_Welsh_League_Cup>
+        rdfs:comment  "Source"@en ;
+        rdfs:label    "2009–10 Welsh League Cup"@en .
+
+dbr:2008_Thespa_Kusatsu_season
+        rdfs:comment  "2008 Thespa Kusatsu season"@en ;
+        rdfs:label    "2008 Thespa Kusatsu season"@en .
+
+dbr:1993_Yokohama_Flügels_season
+        rdfs:comment  "1993 Yokohama Flügels season"@en ;
+        rdfs:label    "1993 Yokohama Flügels season"@en .
+
+dbr:1833_in_archaeology
+        rdfs:comment  "1833 in archaeology"@en ;
+        rdfs:label    "1833 in archaeology"@en .
+
+dbr:1937_in_philosophy
+        rdfs:comment  "1937 in philosophy"@en ;
+        rdfs:label    "1937 in philosophy"@en .
+
+dbr:Polish_names_in_space
+        rdfs:comment  "Polish names in space"@en ;
+        rdfs:label    "Polish names in space"@en .
+
+dbr:2006_Montedio_Yamagata_season
+        rdfs:comment  "2006 Montedio Yamagata season"@en ;
+        rdfs:label    "2006 Montedio Yamagata season"@en .
+
+dbr:1931_in_philosophy
+        rdfs:comment  "1931 in philosophy"@en ;
+        rdfs:label    "1931 in philosophy"@en .
+
+dbr:1852_in_archaeology
+        rdfs:comment  "1852 in archaeology"@en ;
+        rdfs:label    "1852 in archaeology"@en .
+
+<http://dbpedia.org/resource/La_Femme_(magazine)>
+        rdfs:comment  "'"@en ;
+        rdfs:label    "La Femme (magazine)"@en .
+
+dbr:International_Deep_Drawing_Research_Group
+        rdfs:comment  "International Deep Drawing Research Group (IDDRG)"@en ;
+        rdfs:label    "International Deep Drawing Research Group"@en .
+
+dbr:2004_Oita_Trinita_season
+        rdfs:comment  "2004 Oita Trinita season"@en ;
+        rdfs:label    "2004 Oita Trinita season"@en .
+
+dbr:Bermuda_at_the_1930_British_Empire_Games
+        rdfs:comment  "Bermuda at the 1930 British Empire Games"@en ;
+        rdfs:label    "Bermuda at the 1930 British Empire Games"@en .
+
+dbr:2009_Gamba_Osaka_season
+        rdfs:comment  "2009 Gamba Osaka season"@en ;
+        rdfs:label    "2009 Gamba Osaka season"@en .
+
+<http://dbpedia.org/resource/2012_OFC_Men's_Olympic_Qualifying_Football_Tournament_squads>
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "2012 OFC Men's Olympic Qualifying Football Tournament squads"@en .
+
+dbr:2005_Yokohama_F._Marinos_season
+        rdfs:comment  "2005 Yokohama F. Marinos season"@en ;
+        rdfs:label    "2005 Yokohama F. Marinos season"@en .
+
+<http://dbpedia.org/resource/Field_hockey_at_the_1948_Summer_Olympics_–_Men's_team_squads>
+        rdfs:comment  "Head coach:"@en ;
+        rdfs:label    "Field hockey at the 1948 Summer Olympics – Men's team squads"@en .
+
+<http://dbpedia.org/resource/2004_in_women's_road_cycling>
+        rdfs:comment  "Source"@en ;
+        rdfs:label    "2004 in women's road cycling"@en .
+
+dbr:Akhada_Balapur  rdfs:comment  "Akhada Balapur"@en ;
+        rdfs:label    "Akhada Balapur"@en .
+
+dbr:2010_Sagan_Tosu_season
+        rdfs:comment  "2010 Sagan Tosu season"@en ;
+        rdfs:label    "2010 Sagan Tosu season"@en .
+
+dbr:List_of_Chicago_Tigers_players
+        rdfs:comment  "Dunc Annan"@en ;
+        rdfs:label    "List of Chicago Tigers players"@en .
+
+dbr:1997_JEF_United_Ichihara_season
+        rdfs:comment  "1997 JEF United Ichihara season"@en ;
+        rdfs:label    "1997 JEF United Ichihara season"@en .
+
+dbr:2004_Urawa_Red_Diamonds_season
+        rdfs:comment  "2004 Urawa Red Diamonds season"@en ;
+        rdfs:label    "2004 Urawa Red Diamonds season"@en .
+
+dbr:2010_Urawa_Red_Diamonds_season
+        rdfs:comment  "2010 Urawa Red Diamonds season"@en ;
+        rdfs:label    "2010 Urawa Red Diamonds season"@en .
+
+dbr:1930_in_philosophy
+        rdfs:comment  "1930 in philosophy"@en ;
+        rdfs:label    "1930 in philosophy"@en .
+
+dbr:Cycling_at_the_2015_European_Youth_Summer_Olympic_Festival
+        rdfs:comment  "Cycling at the 2015 European Youth Summer Olympic Festival"@en ;
+        rdfs:label    "Cycling at the 2015 European Youth Summer Olympic Festival"@en .
+
+dbr:2010_Roasso_Kumamoto_season
+        rdfs:comment  "2010 Roasso Kumamoto season"@en ;
+        rdfs:label    "2010 Roasso Kumamoto season"@en .
+
+dbr:1842_in_archaeology
+        rdfs:comment  "1842 in archaeology"@en ;
+        rdfs:label    "1842 in archaeology"@en .
+
+dbr:1998_Avispa_Fukuoka_season
+        rdfs:comment  "1998 Avispa Fukuoka season"@en ;
+        rdfs:label    "1998 Avispa Fukuoka season"@en .
+
+dbr:1998_Urawa_Red_Diamonds_season
+        rdfs:comment  "1998 Urawa Red Diamonds season"@en ;
+        rdfs:label    "1998 Urawa Red Diamonds season"@en .
+
+dbr:1974_in_philosophy
+        rdfs:comment  "1974 in philosophy"@en ;
+        rdfs:label    "1974 in philosophy"@en .
+
+dbr:2007_Montedio_Yamagata_season
+        rdfs:comment  "2007 Montedio Yamagata season"@en ;
+        rdfs:label    "2007 Montedio Yamagata season"@en .
