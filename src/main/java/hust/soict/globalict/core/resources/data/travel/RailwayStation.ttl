@@ -1,0 +1,339 @@
+@prefix dbc:    <http://dbpedia.org/resource/Category:> .
+@prefix dbo:    <http://dbpedia.org/ontology/> .
+@prefix dbp:    <http://dbpedia.org/property/> .
+@prefix dbr:    <http://dbpedia.org/resource/> .
+@prefix georss: <http://www.georss.org/georss/> .
+
+dbr:Bình_Thuận_station
+        dbo:abstract            "Bình Thuận station (Ga Bình Thuận) is one of the main railway stations on the North–South railway in Vietnam. It serves the city of Phan Thiết. Phan Thiết has its own railway station (Phan Thiet station), but it is not located on the main North–South Railway. The old name of this station is Mương Mán station. Some Reunification Express trains stop only at Mương Mán."@en , "平顺站（越南语：Ga Bình Thuận／Ga 平順*/?），舊稱茫蛮站（Ga Mương Mán），是越南南北鐵路的一個重要鐵路車站，主要服務潘切市。潘切市雖有其自己的鐵路車站潘切站，但卻不在南北鐵路的主線上。該站的車流量為10輛/日。"@zh ;
+        dbo:address             "Hàm Thuận Nam,Bình Thuận Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/North–South_railway_(Vietnam)> ;
+        dbo:wikiPageWikiLink    dbr:Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Phan_Thiết , dbr:Bình_Thuận_province , dbr:Train_station , dbr:Category:Railway_stations_in_Vietnam , dbr:Hàm_Thuận_Nam_district , dbr:Category:Buildings_and_structures_in_Bình_Thuận_province ;
+        dbp:name                "Ga Bình Thuận"@en , "Binh Thuan"@en ;
+        georss:point            "10.96861111111111 108.00305555555556" .
+
+dbr:Yên_Cư_station  dbo:abstract  "Yên Cư station is a railway station in Vietnam. It serves the town of Hạ Long, in Quảng Ninh Province. \n* v \n* t \n* e"@en ;
+        dbo:address             "Hạ Long,Quảng Ninh Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Kép–Hạ_Long_railway> ;
+        dbo:wikiPageWikiLink    dbr:Category:Buildings_and_structures_in_Quảng_Ninh_province , dbr:Train_station , <http://dbpedia.org/resource/Kép–Hạ_Long_railway> , dbr:Category:Railway_stations_in_Vietnam , dbr:Vietnam , dbr:Hạ_Long , dbr:Quảng_Ninh_province ;
+        dbp:name                "Ga Yên Cư"@en , "Yen Cu"@en ;
+        georss:point            "20.982777777777777 106.91444444444444" .
+
+dbr:Đồng_Đăng_station
+        dbo:abstract            "La stazione di Đồng Đăng (in vietnamita: Ga Đồng Đăng) è una stazione ferroviaria del Vietnam, situata nella omonima città della provincia di Lạng Sơn. È l'ultima stazione sulla linea Hanoi-Đồng Đăng prima del , sul confine con la Cina. La stazione più vicina in territorio cinese è Pingxiang, sulla . La stazione è equipaggiata con 10 binari a scartamento sia standard che metrico. Qui terminano i treni provenienti dalla stazione di Hanoi effettuati con materiale a scartamento metrico, mentre i treni diretti per Nanning e Pechino, provenienti dalla stazione di Gia Lâm e operati con materiale a scartamento standard effettuano fermata nella stazione prima di proseguire in territorio cinese. La stazione è stata ristrutturata nel 2019."@it , "Đồng Đăng station (Vietnamese: Ga Đồng Đăng) is a railway station in Vietnam. It serves the town of Đồng Đăng, in Lạng Sơn Province. It is the last station on the line before the Friendship Pass border crossing with Pingxiang, Guangxi in China. It is not possible for foreigners to board the international train at the station. The station is fitted with Dual gauge tracks."@en , "同登站（越南语：Ga Đồng Đăng／Ga同登*/?）是越南的一座边境火车站，河同铁路的终点，位于谅山省高祿縣同登市镇，与中国湘桂铁路凭祥站接轨。铺设有标准轨及米轨共行的混合轨。越南－中国T8701/2次国际联运旅客列车的换乘、行李、包裹换装和交接以及客车和行李车的交接均在该站进行。本站始建于法国殖民地时期，车站建筑风格明显带有欧洲巴洛克风格，主楼候车室大厅为罗马式的圆形拱顶。"@zh , "ドンダン駅（ドンダンえき、ベトナム語：Ga Đồng Đăng / Ga 同登?）はベトナムランソン省にあるベトナム鉄道の駅である。隣の隘口駅との間に中国国境を有し、南寧駅から乗り入れるT8701/8702次列車の停車駅にもなっている。 2019年2月26日午前8時15分(ベトナム時間)、2019年2月米朝首脳会談に出席する朝鮮民主主義人民共和国の金正恩・国務委員長が特別列車でドンダン駅に到着した。"@ja ;
+        dbo:address             "Đồng Đăng,Cao Lộc,Lạng Sơn"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Đồng_Đăng_railway> ;
+        dbo:wikiPageWikiLink    dbr:Dual_gauge , <http://dbpedia.org/resource/Hanoi–Đồng_Đăng_railway> , <http://dbpedia.org/resource/Beijing–Nanning–Hanoi_through_train> , dbr:Train_station , <http://dbpedia.org/resource/Hunan–Guangxi_railway> , dbr:Cao_Lộc , dbr:Friendship_Pass , dbr:Vietnam , dbr:China_Railway , <http://dbpedia.org/resource/File:Ga_Đồng_Đăng_-_Mapillary_(Op4TobJQK0Jnv79CFb_kmQ).jpg> , dbr:Category:1889_establishments_in_Asia , dbr:Vietnam_Railways , dbr:Lạng_Sơn_province , dbr:Category:Railway_stations_in_Vietnam , dbr:Đồng_Đăng , <http://dbpedia.org/resource/Pingxiang,_Guangxi> , dbr:Category:Buildings_and_structures_in_Lạng_Sơn_province , <http://dbpedia.org/resource/Category:China–Vietnam_border_crossings> ;
+        dbp:name                "Ga Đồng Đăng"@en , "Dong Dang"@en ;
+        georss:point            "21.94388888888889 106.69722222222222" .
+
+dbr:Tam_Kỳ_station  dbo:abstract  "Tam Kỳ station is one of the main railway stations on the North–South railway (Reunification Express) in Vietnam. It serves the city of Tam Kỳ. \n* v \n* t \n* e"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Buildings_and_structures_in_Quảng_Nam_province , dbr:Category:Tam_Ky , dbr:Category:Railway_stations_in_Vietnam , dbr:Tam_Kỳ , dbr:Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Train_station ;
+        dbp:name              "Tam Kỳ"@en ;
+        georss:point          "15.557222222222222 108.48388888888888" .
+
+dbr:Thanh_Hóa_station
+        dbo:abstract          "清化站（越南语：Ga Thanh Hóa／Ga清化*/?）是越南清化省清化市的一个铁路车站。有南北铁路经过。向北距离河内站176公里，向南距离顺化站512公里、距离西贡站1,550公里。"@zh , "Thanh Hóa station is one of the main railway stations on the North–South railway (Reunification Express) in Vietnam. It serves the city of Thanh Hóa. \n* v \n* t \n* e"@en ;
+        dbo:wikiPageWikiLink  <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Vietnam , dbr:Category:Buildings_and_structures_in_Thanh_Hóa_province , dbr:Train_station , dbr:Category:Thanh_Hóa , dbr:Thanh_Hóa , dbr:Category:Railway_stations_in_Vietnam ;
+        dbp:name              "Thanh Hóa"@en ;
+        georss:point          "19.8128 105.7678" .
+
+dbr:Diêu_Trì_station  dbo:abstract  "Diêu Trì station is one of the main railway stations on the North–South railway (Reunification Express) in Vietnam. It serves the town of Diêu Trì and connects by a branch line to Quy Nhon Railway Station and the city of Quy Nhon, ten kilometres to the east."@en , "La gare de Dieu Tri (vietnamien: Ga Dieu Tri) est une gare ferroviaire vietnamienne située dans la ville de ."@fr ;
+        dbo:wikiPageWikiLink  dbr:Diêu_Trì , dbr:Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Railway_stations_in_Vietnam , dbr:Quy_Nhon , dbr:Vietnam_Railways , dbr:Branch_line , dbr:Train_station , dbr:Category:Buildings_and_structures_in_Bình_Định_province , dbr:Quy_Nhơn_station ;
+        dbp:name              "Diêu Trì"@en ;
+        georss:point          "13.807222222222222 109.14361111111111" .
+
+dbr:Đà_Lạt_station  dbo:abstract  "La gare de Dalat (en vietnamien Ga Đà Lạt) est le terminus de la Ligne de Dalat à Thap Cham (aujourd'hui désaffectée). Elle se trouve à Đà Lạt dans le sud du Viêt Nam."@fr , "Dalat station (Vietnamese: Ga Đà Lạt) is a railway station on the Da Lat–Thap Cham Railway line in Vietnam, serving the town of Da Lat in Lâm Đồng Province. It was designed in 1932 by French architects Moncet and Reveron, and opened in 1938. Largely unused since abandonment of the railway during the later years of the Vietnam War, it was returned to a limited level of service in the 1990s with the reopening of a 7 km (4.3 mi) section of track leading to the nearby village of Trai Mat, operated as a tourist attraction. It is notable for its unique architectural style, which incorporates an overall Art Deco theme with elements of native Cao Nguyen communal houses from Vietnam's Central Highlands."@en , "大叻站（越南语：Ga Đà Lạt／Ga多樂*/?）是越南大塔铁路的一个火车站，服务于林同省大叻市。它是由法国建筑师Moncet和Reveron设计于1932年，并于1938年开业。此后仅数年就由于战争而长期遭废弃，直到1990年代才恢复了通往附近村庄Trai Mat的7公里长的旅游线路。大叻火车站拥有独特的建筑风格，整体而言为裝飾藝術风格，和法国的特鲁维勒-多维勒站风格相似，同时又结合了本土的越南中部高地的建筑元素。"@zh , "ダラット駅（ベトナム語：Ga Đà Lạt / Ga 多樂、英文表記: Dalat Station）は、ベトナムラムドン省ダラットに所在する鉄道駅。1932年､ベトナム鉄道の中心駅として開業し、1938年に駅舎が完成した。ベトナム戦争によって一時期放棄されていたが、1991年、までの路線とともに修復され、観光鉄道の駅として再開した。"@ja ;
+        dbo:address             "Ward 10,Da Lat,Lâm Đồng Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Da_Lat–Thap_Cham_railway> ;
+        dbo:wikiPageWikiLink    dbr:List_of_governors-general_of_French_Indochina , dbr:Art_Deco , dbr:File:Dalat_stn_coloured_windows.JPG , dbr:Category:Railway_stations_in_Vietnam , dbr:Vietnam , dbr:Category:French_Colonial_architecture_in_Vietnam , dbr:Trouville-Deauville_station , dbr:Category:Art_Deco_architecture , dbr:Category:Tourist_attractions_in_Lâm_Đồng_province , <http://dbpedia.org/resource/Da_Lat–Thap_Cham_railway> , dbr:File:Old_vietnamese_steam_locomotive.jpg , <http://dbpedia.org/resource/Lâm_Sơn,_Ninh_Thuận> , dbr:Porte-cochère , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Da_Lat , dbr:Vietnam_War , dbr:Train_station , dbr:Category:Buildings_and_structures_in_Lâm_Đồng_province , <http://dbpedia.org/resource/Central_Highlands_(Vietnam)> , dbr:Lâm_Đồng_province , dbr:Rail_transport_in_Vietnam , dbr:Viet_Cong , dbr:Fall_of_Saigon , dbr:France , dbr:Rack_railway , dbr:Paul_Doumer , dbr:Category:Da_Lat , dbr:Vietnam_Railways ;
+        dbp:name                "Ga Đà Lạt"@en ;
+        georss:point            "11.942 108.455" .
+
+dbr:Kép_station  dbo:abstract   "ケプ駅（ベトナム語：Ga Kép / Ga 𠄳?）はベトナムのバクザン省に位置するベトナム鉄道の駅である。標準軌（1,435mm）およびメーターゲージ（1,000mm）の両方の列車が乗り入れる。"@ja , "克夫站（越南语：Ga Kép／Ga𠄳）是越南河同铁路的一个接轨站。分岔出准轨克下铁路至下龙湾，以及准轨克太铁路至太原市。"@zh , "Kép station is a railway station in Vietnam. It serves the town of Kép, in Bắc Giang Province. There is also a branch line to Hạ Long."@en , "Station Kép is een spoorwegstation aan de , de spoorlijn van Hanoi naar Lạng Sơn in het noorden van Vietnam. Het ligt tevens aan de . Het spoorwegstation is gevestigd in xã Tân Thịnh, een xã ten noorden van Kép. Voor het spoorwegstation ligt een emplacement."@nl ;
+        dbo:address             "Kép,Lạng Giang,Bắc Giang Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Đồng_Đăng_railway> ;
+        dbo:wikiPageWikiLink    dbr:Hạ_Long , dbr:Bắc_Giang_province , dbr:Kép , dbr:Category:Railway_stations_in_Vietnam , <http://dbpedia.org/resource/Hanoi–Đồng_Đăng_railway> , dbr:Train_station , dbr:Lạng_Giang_district , dbr:Category:Buildings_and_structures_in_Bắc_Giang_province , dbr:Vietnam_Railways , dbr:Vietnam ;
+        dbp:name                "Kep"@en , "Ga Kép"@en ;
+        georss:point            "21.416944444444443 106.29083333333334" .
+
+dbr:Thái_Nguyên_station
+        dbo:abstract            "太原站是越南的鐵路車站，位於太原市的市中心。"@zh , "Thái Nguyên station is a railway station in Vietnam. It serves the area center of Thái Nguyên City, in Thái Nguyên Province."@en ;
+        dbo:address             "Thái Nguyên,Thái Nguyên Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Quán_Triều_railway> ;
+        dbo:wikiPageWikiLink    dbr:Thái_Nguyên , dbr:Thái_Nguyên_province , dbr:Vietnam , <http://dbpedia.org/resource/Hanoi–Quán_Triều_railway> , dbr:Category:Buildings_and_structures_in_Thái_Nguyên_province , dbr:Category:Railway_stations_in_Vietnam , dbr:Train_station ;
+        dbp:name                "Thai Nguyen"@en , "Ga Thái Nguyên"@en ;
+        georss:point            "21.586778 105.823653" .
+
+dbr:Nha_Trang_station
+        dbo:abstract            "ニャチャン駅（ニャチャンえき、ベトナム語：Nha Trang / Ga 芽莊）とは、ベトナム社会主義共和国のカインホア省ニャチャンに位置するベトナム鉄道の駅。"@ja , "Nha Trang Station is one of the main station on the North–South railway (Reunification railways). This station is located at 17 Thai Nguyen, Phuoc Tan ward, Nha Trang, Khánh Hòa province. It serves the city of Nha Trang."@en , "냐짱 역(베트남어: Ga Nha Trang / 驛芽莊)은 베트남 남중부 카인호아성의 냐짱 프억떤 방에 위치한 베트남 철도 남북선의 주요 역이다. 1945년 10월 23일 새벽 프랑스의 발포에 저항한 역사적 유적지이기도 하다."@ko , "芽庄站（越南语：Ga Nha Trang／Ga芽莊*/?）是越南慶和省芽莊市的一个铁路车站，也是南北鐵路上的重要车站之一，位于芽莊市福新坊太原街17号。芽庄站前名为“武文记公园”的纪念花园内树立着一座石像雕塑，以纪念1945年10月23日在芽庄站抵抗法军的战斗中牺牲的越盟司令员武文记和庆和省人民。"@zh , "La gare de Nha Trang (vietnamien: Ga Nha Trang) est une gare ferroviaire vietnamienne située dans la ville de Nha Trang. Elle a été construite du temps de l'Indochine française."@fr ;
+        dbo:address             "17 Thái Nguyên st., Phước Tân ward,Nha Trang,Khánh Hòa"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/North–South_railway_(Vietnam)> ;
+        dbo:wikiPageWikiLink    <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , <http://dbpedia.org/resource/File:NHA_TRANG_GA_VIETNAM_JAN_2012_(6973574619).jpg> , dbr:French_Indochina , dbr:Concrete , dbr:Nha_Trang , dbr:File:Nha_Trang_Bahnhof.jpg , dbr:Vietnamese , dbr:Vietnam , dbr:Category:Buildings_and_structures_in_Khánh_Hòa_province , dbr:Category:Nha_Trang , dbr:Park , dbr:Mainland_Southeast_Asia , <http://dbpedia.org/resource/Phước_Tân,_Bà_Rịa–Vũng_Tàu> , dbr:Architecture , dbr:Category:Railway_stations_in_Vietnam , <http://dbpedia.org/resource/Vĩnh_Trung,_Khánh_Hòa> , dbr:1936 , dbr:France , dbr:Khánh_Hòa_province , dbr:Train_station , dbr:Đà_Lạt_station , dbr:Garden , dbr:Vietnam_Railways , dbr:September , dbr:Vo_Van_Ky_park ;
+        dbp:name                "Nha Trang railway station"@en ;
+        georss:point            "12.248333333333333 109.18416666666667" .
+
+dbr:Cát_Đằng_station  dbo:abstract  "Cát Đằng station is a railway station on North–South railway at Km 108 in Vietnam. It's located in Ý Yên, Nam Định between Núi Gôi station and Ninh Bình station."@en ;
+        dbo:wikiPageWikiLink  <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Railway_stations_in_Vietnam , dbr:Nam_Định_province , dbr:Ý_Yên_district , dbr:Núi_Gôi_station , dbr:Ninh_Bình_station , dbr:Vietnam .
+
+dbr:Quy_Nhơn_station  dbo:abstract  "Quy Nhơn station is a railway station on the North–South railway in Vietnam. It serves the city of Qui Nhơn, in Bình Định Province. The city is not very important so the unification express does not stop, it does stop at Diêu Trì railway station nearby. But from Hồ Chí Minh City the SE 35 stops at Qui Nhơn. \n* v \n* t \n* e"@en ;
+        dbo:wikiPageWikiLink  dbr:Quy_Nhon , dbr:Diêu_Trì_station , dbr:Category:Railway_stations_in_Vietnam , dbr:Bình_Định_province , dbr:Train_station , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Buildings_and_structures_in_Bình_Định_province , dbr:Vietnam ;
+        dbp:name              "Quy Nhơn"@en ;
+        georss:point          "13.7775 109.22527777777778" .
+
+dbr:Quán_Hành_station
+        dbo:abstract          "Quán Hành station is a railway station on North–South railway at Km 309 in Vietnam. It's located in Nghi Lộc, Nghệ An between Mỹ Lý station and Vinh station."@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Railway_stations_in_Vietnam , dbr:Vinh_station , dbr:Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Nghệ_An_province , dbr:Nghi_Lộc_district , dbr:Mỹ_Lý_station .
+
+dbr:Vinh_station  dbo:abstract  "荣市站（越南语：Ga Vinh）是越南乂安省荣市的一个铁路车站，是南北鐵路上的重要车站之一，位于荣市馆宝坊丽宁街1号，向北距离河内站319公里，向南距离顺化站369公里、距离芽庄站996公里、距离西贡站1,407公里，每天约有15趟旅客列车经停荣市站。"@zh , "Vinh station is one of the main railway stations on the North–South railway (Reunification Express) in Vietnam. It serves the city of Vinh. \n* v \n* t \n* e"@en ;
+        dbo:wikiPageWikiLink  dbr:Train_station , dbr:Vinh , dbr:Category:Vinh , dbr:Category:Railway_stations_in_Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Vietnam , dbr:Category:Buildings_and_structures_in_Nghệ_An_province ;
+        dbp:name              "Vinh"@en ;
+        georss:point          "18.688333333333333 105.66444444444444" .
+
+dbr:Đông_Hà_station  dbo:abstract  "Đông Hà station is one of the main railway stations on the North–South railway (Reunification Express) in Vietnam. It serves the city of Đông Hà."@en , "東河站（越南语：Ga Đông Hà／Ga東河*/?）是位於越南廣治省東河市的一個鐵路車站，有南北鐵路經過，修建於法屬印度支那時期。1927年，鐵路由本站延伸至洞海站段鐵路通車，東河站成為週邊各省之交通樞紐，1927-1928年間東河站旅客發送量高達3.36萬人次。目前東河站由越南鐵路總公司直屬之承天順化鐵路開發分公司管理。"@zh ;
+        dbo:wikiPageWikiLink  dbr:Category:Dong_Ha , dbr:Đông_Hà , dbr:Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Buildings_and_structures_in_Quảng_Trị_province , dbr:Category:Railway_stations_in_Vietnam , dbr:Train_station ;
+        dbp:name              "Đông Hà"@en ;
+        georss:point          "16.8112 107.1119" .
+
+dbr:Ninh_Bình_station
+        dbo:abstract            "Ninh Bình station is a railway station in the center of Ninh Bình, Vietnam. It lies on the North–South railway. In 2015, VTC commented that Ninh Bình station was the most beautiful and modern railway station in Vietnam."@en , "宁平站（越南语：Ga Ninh Bình／Ga寜平*/?）是越南宁平省宁平市的一个铁路车站。有南北铁路经过。向北距离河内站115公里，向南距离顺化站573公里、距离西贡站1,611公里。 原宁平站位于底江宁平桥的右岸，客货共用。车站后方为鸢翅山，亦称玉美人山。车站前方为云河，旧称云床河，名称源于纪念黎桓反击相遇杨云娥坐在河中的龙船迎接他。抗法战争期间，车站关闭，法军驻扎于宁平教堂附近的嫩水山。抗美战争期间曾受到猛烈的炸弹袭击。 2015年6月12日，宁平新铁路桥和位于旧站以南1.35公里的宁平站新站址竣工。"@zh ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/North–South_railway_(Vietnam)> ;
+        dbo:wikiPageWikiLink    dbr:French_Indochina , dbr:Đáy_River , dbr:Passenger_train , dbr:Category:Railway_stations_in_Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Vietnam , dbr:Train_station , dbr:First_Indochina_War , dbr:Ninh_Bình , dbr:Category:Buildings_and_structures_in_Ninh_Bình_province , dbr:File:Gare_de_Ninh_Bình.JPG , dbr:VTC_Digital_Television , dbr:Rail_freight_transport ;
+        dbp:name                "Ninh Bình"@en ;
+        georss:point            "20.241944444444446 105.975" .
+
+dbr:Quán_Triều_station
+        dbo:abstract            "Quan Trieu station is a railway station in Vietnam. It serves the area northern of Thái Nguyên City, in Thái Nguyên Province. \n* v \n* t \n* e"@en , "观朝站（越南语：Ga Quán Triều／Ga觀朝*/?）是越南河太铁路和观红铁路的一座火车站，位于太原省太原市，距河内站75公里。铺设有标准轨及米轨共行的混合轨。"@zh ;
+        dbo:address             "Thái Nguyên,Thái Nguyên Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Quán_Triều_railway> ;
+        dbo:wikiPageWikiLink    dbr:Category:Railway_stations_in_Vietnam , <http://dbpedia.org/resource/Hanoi–Quán_Triều_railway> , dbr:Train_station , dbr:Thái_Nguyên , dbr:Vietnam , dbr:Thái_Nguyên_province , dbr:Category:Buildings_and_structures_in_Thái_Nguyên_province ;
+        dbp:name                "Quan Trieu"@en , "Ga Quán Triều"@en ;
+        georss:point            "21.6037 105.8031" .
+
+dbr:List_of_railway_stations_in_Vietnam
+        dbo:abstract          "La liste de gares au Viêt Nam est une liste de gares ferroviaires située sur le territoire du Viet Nam."@fr , "Railway stations in Vietnam include"@en , "ベトナムの鉄道駅一覧は、ベトナムの鉄道駅の一覧である。 なるべく読みを付け、同名・同表記の駅には会社名・路線名も付けた。"@ja ;
+        dbo:wikiPageWikiLink  dbr:Thanh_Hóa_station , dbr:Cầu_Bây_station , dbr:Cổ_Loa_station , dbr:Sông_Dinh_station , dbr:Bình_Định_station , dbr:Cầu_Giát_station , dbr:Thái_Văn_station , dbr:Lai_Khê_station , <http://dbpedia.org/resource/Phan_Rang–Tháp_Chàm> , dbr:Lệ_Trạch_station , dbr:Hai_Phong_station , dbr:Cây_Cầy_station , dbr:Ấm_Thượng_station , dbr:Quảng_Ngãi_station , dbr:Văn_Trai_station , dbr:File:Vinh_Station.jpg , dbr:Ngọc_Lâm_station , dbr:Tam_Quan_station , dbr:Nông_Cống , dbr:Hòa_Huỳnh_station , dbr:Mậu_A_station , dbr:Bình_Sơn_district , dbr:Phò_Trạch_station , dbr:Phủ_Lý_station , dbr:Hương_Canh_station , dbr:Category:Railway_stations_in_Vietnam , dbr:Ngã_Ba_station , dbr:Lệ_Kỳ_station , dbr:Phù_Cát_station , dbr:Nha_Trang_station , dbr:Bảo_Hà_station , dbr:Cát_Đằng_station , dbr:Category:Lists_of_buildings_and_structures_in_Vietnam , dbr:Hải_Vân_Nam_station , dbr:Khánh_Phước_station , dbr:Đức_Phổ_station , dbr:Khánh_Hòa_province , dbr:Diêu_Trì_station , dbr:Mộ_Đức_station , dbr:Biên_Hòa , dbr:An_Mỹ_station , dbr:La_Hai_station , dbr:Gia_Ray_station , dbr:Tuy_Hòa , dbr:Suối_Cát_station , dbr:Bỉm_Sơn_station , dbr:Hàm_Thuận_Nam_district , dbr:Hiền_Sỹ_station , dbr:Bình_Dương_province , dbr:Hoài_Nhơn , dbr:Văn_Lâm_district , dbr:Đoan_Thượng_station , dbr:Đại_Lộc_station , dbr:Mỹ_Lộc_district , dbr:Tam_Kỳ , dbr:Minh_Lệ_station , dbr:Yên_Bái_station , dbr:Sông_Phan_station , dbr:Tam_Điệp , dbr:Trảng_Táo_station , dbr:Phú_Bài , dbr:Phù_Mỹ_station , dbr:Núi_Thành_station , dbr:Tiên_Kiên_station , dbr:Hanoi , dbr:Hương_Khê_district , dbr:Phú_Thụy_station , dbr:Tân_Vinh_station , dbr:Hòa_Tân_station , dbr:Biên_Hòa_station , dbr:Yên_Lý_station , dbr:Nghệ_An_province , dbr:Thượng_Lâm_station , dbr:Kim_Thành_district , dbr:Đặng_Xá_station , dbr:Ninh_Bình , dbr:Mỹ_Chánh_station , dbr:Vạn_Ninh_district , dbr:Sóng_Thần_station , <http://dbpedia.org/resource/Hanoi–Lào_Cai_railway> , dbr:Kim_Liên_station , dbr:File:VietnamCowtownExpress1.jpg , dbr:Đông_Anh_station , dbr:Liên_Chiểu_district , dbr:Quảng_Ninh_district , dbr:Hải_Dương , dbr:Phú_Xuyên_station , dbr:Phúc_Yên_station , dbr:Ngô_Quyền_district , dbr:Hoàn_Lão_station , dbr:File:Quảng_Ngãi_Railway_Station.JPG , dbr:Gia_Lâm_station , dbr:Hà_Đông_station , dbr:File:Ga_Thanh_Hoa.jpg , dbr:Bố_Trạch_district , dbr:Thường_Tín_district , dbr:Thừa_Thiên_Huế_province , dbr:Phủ_Lý , dbr:Hương_Khê , dbr:Chợ_Sy_station , dbr:File:Nhà_Ga_-_panoramio.jpg , dbr:Thạch_Trụ_station , dbr:Yên_Duệ_station , dbr:Đồng_Chuối_station , dbr:Hướng_Lại_station , dbr:Chợ_Tía_station , dbr:Lạc_Đạo_station , dbr:Sông_Mao_station , dbr:Từ_Sơn_station , dbr:Suối_Kiết_station , dbr:Sông_Hòa_station , dbr:Tân_Ấp_station , dbr:Yên_Thái_station , dbr:Kim_Lũ_station , dbr:Sen_Hồ_station , dbr:Quảng_Bình_province , dbr:Huế_station , dbr:Tu_Bông_station , dbr:Giã_station , dbr:Trảng_Bom_station , dbr:Hương_Phố_station , dbr:Đại_Lãnh_station , dbr:Cầu_Họ_station , dbr:Thủy_Trạch_station , dbr:Chi_Lăng_station , dbr:Lào_Cai_station , dbr:Điện_Bàn , dbr:Hoa_Lư , dbr:Tuy_Phong_district , dbr:Vạn_Điểm_station , dbr:Ninh_Phước_district , dbr:Phù_Mỹ_district , dbr:Phúc_Trạch_station , dbr:Thanh_Khê_district , dbr:Phong_Thạnh_station , dbr:Ngòi_Hóp_station , dbr:Tuy_Hòa_station , dbr:Phan_Thiết , <http://dbpedia.org/resource/Phú_Lộc,_Thừa_Thiên_Huế> , dbr:Yên_Trạch_station , dbr:Quảng_Nam_province , dbr:File:Ga_Phú_Xuyên.jpg , dbr:File:Ga_Nha_Trang_front.jpg , dbr:Hưng_Yên_province , dbr:Bỉm_Sơn , dbr:Đức_Thọ_district , dbr:File:Da_Nang_Railway_Station_20130721.jpg , dbr:Lạng_Sơn_station , dbr:Hảo_Sơn_station , dbr:Hương_Trà , dbr:Đò_Lèn_station , dbr:Gia_Lâm_district , dbr:Vũ_Ẻn_station , dbr:An_Dương_district , dbr:Thường_Tín_station , dbr:Long_Khánh_station , <http://dbpedia.org/resource/File:Ga_Diêu_Trì,_Tuy_Phước,_Bình_Định.JPG> , dbr:Tam_Kỳ_station , dbr:Hòa_Đa_station , dbr:Cầu_Yên_station , dbr:Bảo_Chánh_station , dbr:Suối_Vận_station , dbr:Hoàn_Kiếm_district , dbr:Lăng_Cô_station , <http://dbpedia.org/resource/Phong_Điền_district,_Thừa_Thiên_Huế> , dbr:Nông_Sơn_station , dbr:Nam_Định_station , dbr:Bình_Lục_station , dbr:Lim_station , dbr:File:Ga_Tuy_Hoa.JPG , dbr:Núi_Gôi_station , dbr:File:Dsvn_004_024.jpg , dbr:Dĩ_An , dbr:Đồng_Hới_station , dbr:Vụ_Bản_district , dbr:Phố_Lu_station , dbr:Quán_Hành_station , <http://dbpedia.org/resource/File:PA180346_(12089358753).jpg> , dbr:Nha_Trang , dbr:Hải_Dương_station , dbr:File:Ga_Phù_Cát_-_Bình_Định_-_Đường_sắt_Bắc_Nam.jpg , dbr:Thanh_Hóa , dbr:Thị_Long_station , <http://dbpedia.org/resource/District_3,_Ho_Chi_Minh_City> , dbr:Gò_Vấp_district , dbr:Lệ_Sơn_station , dbr:Sa_Lung_station , dbr:Ma_Lâm_station , dbr:Hòa_Trinh_station , dbr:Thạch_Lỗi_station , dbr:Bình_Lục_district , dbr:Tiền_Trung_station , dbr:Vân_Canh_station , dbr:Bắc_Giang_station , dbr:Bắc_Thủy_station , dbr:Trường_Lâm_station , dbr:Cao_Xá_station , dbr:Mỹ_Lý_station , dbr:Phạm_Xá_station , dbr:Lang_Khay_station , dbr:Lâm_Giang_station , dbr:Hòa_Duyệt_station , dbr:Thừa_Lưu_station , dbr:Vĩnh_Hảo_station , dbr:Quảng_Ngãi , dbr:Nghĩa_Trang_station , dbr:Văn_Phú_station , dbr:Dầu_Giây_station , dbr:Hà_Tĩnh_province , dbr:Vĩnh_Linh_district , dbr:Thanh_Khê_station , dbr:File:Hue_Vietnam_Hue-Railway-Station-01.jpg , dbr:Sa_Huỳnh_station , dbr:Đông_Hà , dbr:Đồng_Xuân_district , dbr:Ninh_Thuận_province , dbr:Tiên_An_station , dbr:Cổ_Phúc_station , dbr:Đông_Tác_station , dbr:Minh_Khôi_station , dbr:Gia_Huynh_station , dbr:Haiphong , dbr:Bắc_Bình_district , dbr:Phú_Thái_station , dbr:Đồng_Nai_province , <http://dbpedia.org/resource/File:Tam_Ky_railway_station_of_Vietnam_railway_(Feb_21,_2018).jpg> , dbr:Mỹ_Đức_station , dbr:Ninh_Hòa_station , dbr:Quảng_Ngãi_province , dbr:Hải_Lăng_district , dbr:Hà_Trung_district , dbr:Kép_station , dbr:Bình_Thuận_province , dbr:Ho_Chi_Minh_City , dbr:Tuy_An_district , dbr:Hanoi_railway_station , dbr:Yên_Xuân_station , dbr:Category:Lists_of_railway_stations_in_Asia , dbr:Phố_Vị_station , dbr:Đồng_Đăng_station , dbr:File:Ga_Nam_Định_thời_Pháp_thuộc.jpg , dbr:Cầu_Nhô_station , <http://dbpedia.org/resource/File:Passing_thru_Quang_Tri_(12060087113).jpg> , dbr:Bồng_Sơn_station , dbr:Thọ_Lộc_station , dbr:Long_Thạnh_station , dbr:Huế , dbr:Tháp_Chàm_station , dbr:Giáp_Bát_station , dbr:Ý_Yên_district , dbr:Truồi_station , dbr:Vĩnh_Yên_station , dbr:Xuân_Lộc_district , dbr:Vật_Cách_station , dbr:Ghềnh_station , <http://dbpedia.org/resource/File:Ga_Tân_Vinh_-_Vân_Canh,Bình_Định_-_panoramio.jpg> , dbr:Bình_Sơn_station , dbr:Hàm_Thuận_Bắc_district , dbr:Long_Biên_station , dbr:Hải_Vân_Bắc_station , dbr:Đồng_Lê_station , dbr:Saigon_station , <http://dbpedia.org/resource/Hanoi–Haiphong_railway> , dbr:Hòa_Vang_district , dbr:Núi_Thành_district , dbr:Thanh_Luyện_station , dbr:Bắc_Lệ_station , dbr:Hải_Vân_station , dbr:Chu_Lễ_station , dbr:Vạn_Phú_station , dbr:Hương_Canh_town , dbr:Kà_Rôm_station , dbr:Phước_Nhơn_station , dbr:Gò_Vấp_station , dbr:Yên_Trung_station , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Cẩm_Giàng_station , dbr:File:Nui_Thanh_Station.png , dbr:File:Ga_Ninh_Binh.jpg , dbr:Phố_Tráng_station , dbr:Lệ_Thủy_district , dbr:Bắc_Hồng_-_Văn_Điển_Railway , dbr:Đà_Nẵng_station , dbr:Duy_Sơn , dbr:Lạc_Sơn_station , dbr:Hồng_Bàng_district , dbr:Sông_Lòng_Sông_station , dbr:Sơn_Tịnh_district , dbr:Mậu_Đông_station , dbr:Phú_Thọ_station , dbr:Phú_Diễn_station , dbr:Lạng_station , dbr:Văn_Xá_station , dbr:Phú_Hiệp_station , dbr:Quỳnh_Lưu_district , dbr:Trái_Hút_station , dbr:Việt_Trì_station , dbr:Thanh_Trì_district , dbr:Ninh_Hòa , dbr:La_Khê_railway_station , dbr:Thượng_Lý_station , dbr:Phú_Hòa_station , dbr:Mỹ_Trạch_station , dbr:Ninh_Bình_province , dbr:Hố_Nai_station , dbr:Voi_Xô_station , dbr:Đông_Hòa , dbr:File:Ga_Dong_Ha.jpg , dbr:Thanh_Hóa_province , dbr:Phú_Xuyên_district , dbr:Vũ_Quang_district , dbr:Cà_Ná_station , dbr:Đức_Lạc_station , dbr:Lang_Thíp_station , dbr:Tuy_Phước_district , dbr:Vinh_station , dbr:An_Nhơn , dbr:File:Hanoi_Railway_Station_20130725.jpg , dbr:Trị_Bình_station , dbr:Hà_Nam_province , dbr:Vân_Canh_district , dbr:File:Ga_Chợ_Tía.jpg , dbr:Hoằng_Hóa_district , dbr:Vinh , dbr:Thống_Nhất_district , dbr:Đồng_Giao_station , dbr:Tuấn_Lương_station , dbr:File:Ga_Dong_Hoi.jpg , dbr:Cẩm_Giàng_district , dbr:Khoa_Trường_station , dbr:Quảng_Trị_station , dbr:Thái_Niên_station , dbr:Dĩ_An_station , dbr:Văn_Điển_station , dbr:Hoàng_Mai_station , dbr:Bạch_Hạc_station , dbr:Quảng_Trị_province , dbr:Trình_Xuyên_station , dbr:Tuyên_Hóa_district , dbr:Phú_Cang_station , dbr:Hải_Dương_province , dbr:Chí_Thạnh_station , dbr:Hương_Thủy_station , dbr:Quảng_Trạch_district , dbr:Phủ_Đức_station , dbr:Category:Vietnam_transport-related_lists , dbr:Đông_Hà_station , dbr:Gio_Châu , dbr:Thăng_Bình_district , dbr:Đức_Phổ , dbr:Cam_Ranh , dbr:Diên_Sanh_station , dbr:Bình_Định_province , dbr:Phù_Cát_district , dbr:Phước_Lãnh_station , dbr:Chí_Chủ_station , dbr:Đồng_Hới , dbr:Kim_Nỗ_station , dbr:Phúc_Tự_station , dbr:Hòa_Vinh_Tây_station , dbr:Lương_Sơn_station , dbr:Long_Biên_district , dbr:Diên_Khánh_district , <http://dbpedia.org/resource/File:Giap_Bat_Railway_Station_(Jun_20,_2018).jpg> , dbr:Dụ_Nghĩa_station , <http://dbpedia.org/resource/File:Ga_Phủ_Lý,_Hà_Nam.JPG> , dbr:Bình_Triệu_station , dbr:Bình_Thuận_station , dbr:Bắc_Hồng_station , dbr:Phú_Yên_province , dbr:Diêm_Phổ_station , dbr:File:Bong_Son_Railway_Stn.JPG , dbr:Đồng_Văn_station , dbr:Sông_Lũy_station , dbr:Làng_Giàng_station , dbr:Bản_Thí_station , dbr:Cầu_Hai_station , dbr:Da_Nang , dbr:File:Thuong_Tin_station.jpg , dbr:Long_Đại_station , dbr:Phan_Thiết_station , dbr:Ninh_Bình_station , <http://dbpedia.org/resource/Hanoi–Đồng_Đăng_railway> , dbr:Châu_Hanh_station , dbr:Yên_Viên_station , dbr:Quảng_Trị , dbr:Ngân_Sơn_station , dbr:Trà_Kiệu_station , dbr:Thị_Cầu_station , dbr:Tánh_Linh_district , <http://dbpedia.org/resource/Thủ_Đức_(urban_district)> , dbr:Nam_Định_province , <http://dbpedia.org/resource/Hoàng_Mai_district,_Hanoi> , dbr:Đồng_Mỏ_station , dbr:Hà_Thanh_station , dbr:Bắc_Ninh_station .
+
+dbr:Núi_Gôi_station  dbo:abstract  "Núi Gôi station is a railway station on North–South railway at Km 101 in Vietnam. The station is located in Vụ Bản, Nam Định between Trình Xuyên station and Cát Đằng station."@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Railway_stations_in_Vietnam , dbr:Vietnam , dbr:Trình_Xuyên_station , dbr:Vụ_Bản_district , dbr:Nam_Định_province , dbr:Cát_Đằng_station , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> .
+
+dbr:Bình_Lục_station  dbo:abstract  "Bình Lục station is a railway station in Bình Mỹ, Bình Lục, Hà Nam at Km 67 on North–South railway. It serve the district of Bình Lục, Hà Nam."@en ;
+        dbo:address           "Bình Mỹ, Hà Nam"@en ;
+        dbo:wikiPageWikiLink  dbr:Vietnam , dbr:Category:Hà_Nam_province , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Railway_stations_in_Vietnam , dbr:Bình_Lục_district , dbr:Hà_Nam_province ;
+        dbp:name              "Bình Lục station"@en .
+
+dbr:Saigon_station  dbo:abstract  "사이공 역(베트남어: Ga Sài Gòn / Ga 柴棍)은 베트남 호찌민 시 3군(郡, Quận 3)에 있는 베트남 최대 규모의 기차역이다. 1930년대 프랑스 식민지 시대에 남북선의 역으로서 건설되었다. 도시 계획에 의하면 시 정부는 교외로 역을 이설하는 것을 고려 중이다. 베트남 전쟁 이후에 도시 이름이 사이공에서 호찌민 시로 변경되었으나, 역명은 그대로 남아 있다. 사이공 역은 인구 22만명이 거주하는 호찌민 시 3구에 있다. 남북선의 기점역인 하노이 역에서 1,726km 떨어진 지점에 위치한 종착역이다. 본 역의 원래 위치는 1군(郡)의 벤탄 시장 건너편이었고 현재 위치는 원래 화물 보관 및 하역장이었다. 1930년대 초에 프랑스의 식민 정부가 남북선의 일부로서 건설한 것이다. 본 역은 시내 중심부에서 1km 떨어진 곳에 있다. 도시 계획에 의하면 시 정부는 이 역을 시 외곽의 빈찌에우(Bình Triệu / 平趙)로 옮길 것을 고려 중이다. 당일 기차표는 1층에서, 예약 표는 2층에서 취급한다."@ko , "Железнодорожный вокзал Сайгон (вьетн. Ga Sài Gòn) − вокзал города Хошимин, Вьетнам. Расположен на территории 3-го района, по адресу 1 Nguyễn Thông. Вокзал является конечным для линии Север-Юг. Каждый год перед вьетнамским Новым Годом железнодорожный вокзал Хошимина принимает тысячи пассажиров из-за чего возникают очереди за билетами. С начала 2007 года билеты можно купить онлайн, что облегчает покупку билетов домой."@ru , "サイゴン駅（サイゴンえき、ベトナム語：Ga Sài Gòn / Ga柴棍）とは、ベトナム社会主義共和国のホーチミン市3区に位置するベトナム鉄道の駅であり、同国最大の規模である。1930年代フランス植民地時代に南北線の駅として建設された。都市計画によると、市は郊外に駅を移設する考えを持っている。 ベトナム戦争後、市名がサイゴンからホーチミン市に変更されたが、駅名はサイゴンのまま残された。"@ja , "Saigon station is a railway station in District 3, Ho Chi Minh City, Vietnam. This station is a major hub in the national railway network. Locating about 1 km from the city center, Saigon railway station is the last station on the North–South railway, the last point of the railway in Vietnam."@en , "Sajgon – stacja kolejowa w Ho Chi Minh, w Wietnamie. Stacja posiada 3 perony."@pl , "西貢站（越南语：Ga Sài Gòn／Ga柴棍*/?）是越南胡志明市的一个铁路车站，位于胡志明市第三郡第九坊阮通路1号。西贡站是河內至西貢的南北鐵路的终点，车站占地面积约40,000平方米，车站内设有六条到发线、两个岛式月台和一个側式月台。"@zh , "La gare de Saïgon (vietnamien : Ga Sài Gòn) est une gare ferroviaire vietnamienne située à Hô Chi Minh-Ville (autrefois Saïgon). Elle est à un kilomètre du centre-ville."@fr , "Station Sài Gòn is een station in District 3 van Ho Chi Minhstad. Het is het grootste en belangrijkste station van Ho Chi Minhstad. Het station is gelegen aan de Noord-zuid spoorweg. Het station werd in de begin jaren 1930 gebouwd door de Franse kolonisten aan de Noord-zuid spoorweg. Het ligt ongeveer een kilometer van het centrum van Ho Chi Minhstad. Het gemeentebestuur van Ho Chi Minhstad is aan het onderzoeken of het station naar een andere locatie kan gaan. Elk jaar rond het Vietnamees nieuwjaar reizen duizenden mensen met de trein in Ho Chi Minhstad. Ook komen er in de maand december veel buitenlandse Vietnamesen terug naar Vietnam om de laatste dagen van het kalenderjaar bij familie te vieren. Het gebied rondom het station wordt dan nog meer een belast met het verkeer, dan dat het al is. Hoewel de naam van de stad Saigon in juli 1976 veranderde in Ho Chi Minhstad, heeft het station wel de oude naam gehouden."@nl ;
+        dbo:address             "1 Nguyen Thong Street, Ward 9"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/North–South_railway_(Vietnam)> ;
+        dbo:wikiPageWikiLink    dbr:Vietnam_Railways , dbr:Train_station , dbr:File:Bureau.jpg , <http://dbpedia.org/resource/District_3,_Ho_Chi_Minh_City> , dbr:France , dbr:Tết , dbr:Category:Buildings_and_structures_in_Ho_Chi_Minh_City , dbr:Ho_Chi_Minh_City , dbr:Category:Transport_in_Ho_Chi_Minh_City , dbr:Bến_Thành_Market , dbr:Category:Railway_stations_in_Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Vietnam_War , dbr:Bình_Triệu_station , dbr:Vietnam ;
+        dbp:name                "Saigon station"@en ;
+        georss:point            "10.7822 106.677" .
+
+dbr:Phan_Thiết_station
+        dbo:abstract          "Phan Thiết station is a subsidiary station of Saigon station at the fishing town of Phan Thiết. It is where the North–South railway begins to follow the beachfront northbound, all the way up to Huế Railway Station."@en ;
+        dbo:wikiPageWikiLink  dbr:Biên_Hòa , dbr:Bình_Triệu_station , dbr:Saigon_station , dbr:Phan_Thiết , dbr:French_Foreign_Legion , dbr:Ninh_Hòa , <http://dbpedia.org/resource/Phan_Rang–Tháp_Chàm> , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Railway_stations_in_Vietnam , dbr:Huế_station , dbr:Category:Buildings_and_structures_in_Bình_Thuận_province , dbr:Da_Lat , <http://dbpedia.org/resource/Central_Highlands_(Vietnam)> , dbr:Nha_Trang , <http://dbpedia.org/resource/National_Route_1A_(Vietnam)> ;
+        dbp:name              "Phan Thiết"@en ;
+        georss:point          "10.9418 108.0824" .
+
+dbr:Bình_Triệu_station
+        dbo:abstract          "Bình Triệu station is a subsidiary station of Saigon station. A high speed line is scheduled for completion to take traffic congestion away from Saigon."@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Railway_stations_in_Vietnam , dbr:Saigon_station , dbr:Phan_Thiết_station ;
+        dbp:name              "Bình Triệu"@en ;
+        georss:point          "10.827222222222222 106.71583333333334" .
+
+dbr:Tân_Ấp_station  dbo:abstract  "Tân Ấp station is a railway station on the North–South railway (Reunification Express) line in Vietnam. It serves the town of in Quảng Bình Province. From 1933, the station also served as a terminus of the Tân Ấp–Xóm Cục railway, the only stretch of railway opened as part of the aborted Thakhek–Tân Ấp railway. It is uncertain when this stretch of railway was closed, but part, if not all of the railway was reopened by North Vietnam in the 1960s as part of their efforts to aid Vietcong guerillas travelling southwards along the Hồ Chí Minh trail, which begins just south of Xóm Cục in the Mụ Giạ Pass."@en , "新邑站（越南语：Ga Tân Ấp／Ga新邑*/?）是位於越南廣平省宣化縣的一个铁路车站，有南北铁路经过，計劃連接淎盎－姥夏鐵路。向北距离河内站409公里，向南距离顺化站279公里、距离西贡站1,317公里。"@zh ;
+        dbo:address           "Tân Ấp"@en ;
+        dbo:wikiPageWikiLink  dbr:Vietnam , dbr:Ho_Chi_Minh_trail , dbr:Mụ_Giạ_Pass , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Viet_Cong , dbr:North_Vietnam , dbr:Vietnam_Railways , dbr:Category:Buildings_and_structures_in_Quảng_Bình_province , dbr:Tân_Ấp , dbr:Category:Railway_stations_in_Vietnam , dbr:Train_station , dbr:Quảng_Bình_province ;
+        dbp:name              "Tân Ấp"@en ;
+        georss:point          "18.03361111111111 105.85416666666667" .
+
+dbr:Hai_Phong_station
+        dbo:abstract          "海防站（越南语：Ga Hải Phòng／Ga海防*/?）是越南的一座火车站，位于海防市吴权郡，河海铁路的终点，距河内站102公里。海防站始建于越南被法国殖民统治的法属印度支那时期，于1902年随河海铁路建成通车而落成启用。"@zh , "하이퐁 역(Ga Hải Phòng / Ga 海防)은 베트남 하이퐁에 있는 베트남 철도 하노이-하이퐁 선의 마지막 여객 역이며, 의 역이기도 하다. 프랑스 식민지 시대인 1910년 프랑스의 기술에 의해 협궤형 노선으로 개통했다. 하이퐁 철도는 항구에서 육로 내륙 지역으로 화물을 운반하는 하이퐁 항까지의 철도 노선도 보유하고 있다."@ko , "Hải Phòng station is one of the main railway stations on the Hanoi–Hai Phong railway in Vietnam. It serves the city of Hai Phong and opened in 1902. It is a terminus of the Sino-Vietnamese Railway, a French engineered narrow gauge railway completed in 1910, which was the first railway line to the Chinese city of Kunming."@en , "La stazione di Haiphong (Ga Hải Phòng in vietnamita) è una stazione ferroviaria del Vietnam, capolinea della linea che collega la città portuale di Haiphong con la capitale Hanoi nel nord del paese. Inaugurata nel 1902 quando il Vietnam faceva parte dell'Indocina francese, la stazione serve anche da capolinea per la ferrovia sino-vietnamita, costruita dai francesi ed aperta nel 1910; questa fu la prima linea a collegare il Vietnam alla Cina, e più in particolare alla città di Kunming."@it , "ハイフォン駅(ベトナム語：Ga Hải Phòng / Ga 海防?)はベトナムのハイフォンにあるベトナム鉄道ハノイ・ハイフォン線の駅である。フランス植民地時代の1902年に、フランスの技術による狭軌型の路線として開通した。"@ja , "La gare de Haïphong (vietnamien : Ga Hải Phòng) est une gare ferroviaire vietnamienne située à Haïphong. Elle est à un kilomètre du centre ville."@fr ;
+        dbo:address           "Ngô Quyền District,Hải Phòng"@en ;
+        dbo:wikiPageWikiLink  dbr:Haiphong , dbr:Vietnam , dbr:Ngô_Quyền_district , dbr:Kunming , <http://dbpedia.org/resource/Kunming–Haiphong_railway> , dbr:Category:Buildings_and_structures_in_Haiphong , dbr:Vietnam_Railways , dbr:Category:French_Colonial_architecture_in_Vietnam , dbr:Train_station , dbr:Category:Railway_stations_in_Vietnam ;
+        dbp:name              "Hai Phong"@en .
+
+dbr:Biên_Hòa_station  dbo:abstract  "ビエンホア駅（ビエンホアえき、ベトナム語：Biên Hòa / Ga邊和）とは、ベトナム社会主義共和国のドンナイ省ビエンホアに位置するベトナム鉄道の駅。"@ja , "Station Biên Hòa is een spoorwegstation in Biên Hòa, de hoofdstad van de Vietnamese provincie Đồng Nai. Station Biên Hòa ligt aan de Noord-zuid spoorweg, die Station Sài Gòn met Station Hanoi verbindt. Voor het station ligt een emplacement."@nl , "Biên Hòa station is a railway station on the North–South railway (Reunification Express) in Vietnam. It serves the town of Biên Hòa, in Đồng Nai Province. \n* v \n* t \n* e"@en ;
+        dbo:address             "Biên Hòa,Đồng Nai Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/North–South_railway_(Vietnam)> ;
+        dbo:wikiPageWikiLink    dbr:Đồng_Nai_province , dbr:Vietnam , dbr:Biên_Hòa , dbr:Train_station , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Buildings_and_structures_in_Đồng_Nai_province , <http://dbpedia.org/resource/File:Departure_at_Bein_Hoa_station,_Vietnam.jpg> , dbr:Category:Railway_stations_in_Vietnam ;
+        dbp:name                "Ga Biên Hòa"@en , "Bien Hoa"@en ;
+        georss:point            "10.950833333333334 106.82638888888889" .
+
+dbr:Hạ_Long_station  dbo:abstract  "Hạ Long station is a railway station in Vietnam. It serves the town of Hạ Long, in Quảng Ninh Province. It's located in , Hạ Long. \n* v \n* t \n* e"@en , "ハロン駅（ベトナム語：Ga Hạ Long / Ga 下龍?）はベトナムのクアンニン省に位置するベトナム鉄道の駅である。2019年現在ケプ・カイラン線を走る唯一の旅客列車の終着/始発駅となっており、旅客営業ではケプ・カイラン線の事実上の終点駅として機能している。駅脇に小規模な市場があり、ケプ・カイラン線の乗客の大半である行商人の商品が売り買いされている。 \n* 駅脇の市場 \n* ハロン駅に停車中の列車"@ja , "下龍站（越南语：Ga Hạ Long／Ga下龍*/?）是越南廣寧省下龍市的一个鐵路車站。从河內市安園站到此站有51501/2次列车旅客列车。 下龍站使用标准轨铁路，无米轨（故向南最远只能到达嘉林站）。 由于位于郊区，该车站在当地知名度不大。"@zh ;
+        dbo:address             "Hạ Long,Quảng Ninh Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Kép–Hạ_Long_railway> ;
+        dbo:wikiPageWikiLink    dbr:Category:Railway_stations_in_Vietnam , <http://dbpedia.org/resource/Kép–Hạ_Long_railway> , dbr:Hạ_Long , dbr:Train_station , dbr:Category:Buildings_and_structures_in_Quảng_Ninh_province , dbr:Quảng_Ninh_province , dbr:Giếng_Đáy_Ward , dbr:Vietnam ;
+        dbp:name                "Ha Long"@en , "Ga Hạ Long"@en ;
+        georss:point            "20.974444444444444 107.01083333333334" .
+
+dbr:Lào_Cai_station  dbo:abstract  "Lào Cai station is a railway station in Vietnam.It serves the border town of Lào Cai, in Lào Cai Province. Several passenger trains a day run between Hanoi and Lao Cai. Lao Cai Station is the last station of the Hanoi–Lao Cai railway, the Vietnamese section of the meter-gauge Kunming–Hai Phong Railway. North of Lao Cai Station, the railway continues, crossing the Nanxi River into China, but it carries only freight trains, and no passenger service."@en , "라오까이 역(베트남어: Ga Lào Cai / Ga 老街 노가, 老街驛, 노가역)은 베트남 라오까이 성 라오까이 시에 위치한 철도역이다. 하노이-라오까이 선의 시·종착역이다. 하노이 기점 294km에 위치한다. 중국과의 국경 지대에 있으며, 국경 너머에 허커우(河口) 역(河口站)이 인접해 있다. 하노이 역과 왕래하는 기차가 하루 4회 있으며 약 8시간이 소요된다."@ko , "ラオカイ駅(ベトナム語：Ga Lào Cai / Ga 老街?)はベトナムラオカイ省にあるベトナム鉄道の駅である。隣の河口駅との間に中国国境を有する。"@ja , "La gare de Lào Cai (vietnamien : Ga Lào Cai) est à une gare ferroviaire vietnamienne située dans la ville de Lào Cai, province de Lào Cai."@fr , "老街站（越南语：Ga Lào Cai／Ga 老街*/?）是越南老街省老街市的一個鐵路車站，有河老鐵路經過，為越南鐵路對接中國鐵路的國境車站，與之相鄰的河口站之間是中越國界。"@zh ;
+        dbo:address             "Lào Cai,Lào Cai Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Lào_Cai_railway> ;
+        dbo:wikiPageWikiLink    <http://dbpedia.org/resource/Nanxi_River_(Yunnan)> , dbr:Category:Railway_stations_in_Vietnam , <http://dbpedia.org/resource/Kunming–Haiphong_railway> , dbr:Lào_Cai_province , <http://dbpedia.org/resource/Hanoi–Lào_Cai_railway> , dbr:Category:Buildings_and_structures_in_Lào_Cai_province , dbr:Lào_Cai , dbr:Vietnam , dbr:Train_station ;
+        dbp:name                "Ga Lào Cai"@en , "Lao Cai"@en ;
+        georss:point            "22.4925 103.97833333333334" .
+
+dbr:Tuy_Hòa_station  dbo:abstract  "Tuy Hòa station is one of the main railway stations on the North–South railway (Reunification Express) in Vietnam. It serves the city of Tuy Hòa, the capital city of Phú Yên Province in south-central Vietnam. \n* v \n* t \n* e"@en ;
+        dbo:wikiPageWikiLink  dbr:Tuy_Hòa , dbr:Vietnam , dbr:Phú_Yên_province , dbr:Train_station , dbr:Category:Railway_stations_in_Vietnam , dbr:Category:Tuy_Hoa , dbr:Category:Buildings_and_structures_in_Phú_Yên_province , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> ;
+        dbp:name              "Tuy Hòa"@en ;
+        georss:point          "13.0881 109.2973" .
+
+dbr:Tháp_Chàm_station
+        dbo:abstract          "Station Tháp Chàm is een spoorwegstation aan de Spoorlijn Hanoi - Ho Chi Minhstad. Het station staat in , een phường van de Vietnamese stad Phan Rang-Tháp Chàm, waar ook de militaire zich bevindt. Voor het station ligt een groot emplacement."@nl , "Tháp Chàm station is a railway station on the North–South railway (Reunification Express) line in Vietnam. It serves the city of Phan Rang–Tháp Chàm in Ninh Thuận Province. A branch line to Da Lat once started here."@en , "塔占站（越南语：Ga Tháp Chàm／Ga 塔占*/?）是越南寧順省潘郎-塔占市的一个铁路车站，也是南北鐵路和大塔鐵路上的重要车站之一。"@zh ;
+        dbo:address           "Phan Rang–Tháp Chàm,Ninh Thuận Province"@en ;
+        dbo:wikiPageWikiLink  dbr:Ninh_Thuận_province , <http://dbpedia.org/resource/Da_Lat–Thap_Cham_railway> , dbr:Vietnam , dbr:Train_station , dbr:Category:Buildings_and_structures_in_Ninh_Thuận_province , dbr:Vietnam_Railways , dbr:Da_Lat , dbr:Category:Railway_stations_in_Vietnam , <http://dbpedia.org/resource/Phan_Rang–Tháp_Chàm> , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> ;
+        dbp:name              "Tháp Chàm"@en ;
+        georss:point          "11.597222222222221 108.95" .
+
+dbr:Việt_Trì_station  dbo:abstract  "Việt Trì station is a railway station in Vietnam. It serves the city of Việt Trì, in Phú Thọ Province."@en , "越池站（越南语：Ga Việt Trì／Ga越池*/?）是越南河老铁路的一座火车站，位于富寿省越池市，距河内站73公里。越池站始建于越南被法国殖民统治的法属印度支那时期，于1906年随河老铁路建成通车而落成启用。"@zh ;
+        dbo:address             "Việt Trì,Phú Thọ Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Lào_Cai_railway> ;
+        dbo:wikiPageWikiLink    dbr:Việt_Trì , <http://dbpedia.org/resource/Hanoi–Lào_Cai_railway> , dbr:Phú_Thọ_province , dbr:Vietnam , dbr:Category:Railway_stations_in_Vietnam , dbr:Train_station , dbr:Category:Buildings_and_structures_in_Phú_Thọ_province ;
+        dbp:name                "Viet Tri"@en , "Vu Hong son Ding man huong"@en ;
+        georss:point            "21.3004 105.4322" .
+
+dbr:Sóng_Thần_station
+        dbo:abstract          "Sóng Thần station is a railway station on the North–South railway (Reunification Express) in Vietnam. It serves Thủ Đức city in Hồ Chí Minh City. \n* v \n* t \n* e"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Buildings_and_structures_in_Ho_Chi_Minh_City , dbr:Train_station , dbr:Category:Railway_stations_in_Vietnam , dbr:Category:Transport_in_Ho_Chi_Minh_City , dbr:Vietnam , dbr:Ho_Chi_Minh_City , dbr:Thủ_Đức , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> ;
+        dbp:name              "Sóng Thần"@en ;
+        georss:point          "10.87888888888889 106.75194444444445" .
+
+dbr:Mạo_Khê_station  dbo:abstract  "Mạo Khê station is a railway station in Vietnam. It serves the town of Mạo Khê, in Quảng Ninh Province. \n* v \n* t \n* e"@en ;
+        dbo:address             "Đông Triều,Quảng Ninh Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Kép–Hạ_Long_railway> ;
+        dbo:wikiPageWikiLink    dbr:Category:Railway_stations_in_Vietnam , <http://dbpedia.org/resource/Kép–Hạ_Long_railway> , dbr:Vietnam , dbr:Category:Buildings_and_structures_in_Quảng_Ninh_province , dbr:Quảng_Ninh_province , dbr:Mạo_Khê , dbr:Train_station , dbr:Đông_Triều ;
+        dbp:name                "Ga Mạo Khê"@en , "Mao Khe"@en ;
+        georss:point            "21.0625 106.60472222222222" .
+
+dbr:Đặng_Xá_station  dbo:abstract  "Đặng Xá station is a railway station on North–South railway at Km 81 in Vietnam. It's located in Mỹ Lộc, Nam Định between and Nam Định station."@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Railway_stations_in_Vietnam , dbr:Mỹ_Lộc_district , dbr:Nam_Định_province , dbr:Vietnam , dbr:Nam_Định_station , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Cầu_Họ_station .
+
+dbr:Phú_Thọ_station  dbo:abstract  "富寿站（越南语：Ga Phú Thọ／Ga富壽*/?）是越南河老铁路的一座火车站，位于富寿省富寿市社，距河内站99公里。富寿站始建于越南被法国殖民统治的法属印度支那时期，于1906年随河老铁路建成通车而落成启用。"@zh , "Phú Thọ station is a railway station in Vietnam. It serves the town of Phú Thọ, in Phú Thọ Province."@en ;
+        dbo:address             "Phú Thọ,Phú Thọ Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Lào_Cai_railway> ;
+        dbo:wikiPageWikiLink    dbr:Vietnam , dbr:Category:Buildings_and_structures_in_Phú_Thọ_province , <http://dbpedia.org/resource/Hanoi–Lào_Cai_railway> , dbr:Phú_Thọ_province , dbr:Category:Railway_stations_in_Vietnam , dbr:Phú_Thọ , dbr:Train_station ;
+        dbp:name                "Ga Phú Thọ"@en , "Phu Tho"@en ;
+        georss:point            "21.4024 105.2241" .
+
+dbr:Huế_station  dbo:abstract  "フエ駅（フエえき、ベトナム語：Ga Huế / Ga化）はベトナムのフエにあるベトナム鉄道の駅である。フランス植民地時代に南北線の駅として建設された。フランス建築の影響を受け、ベトナムで最も美しい駅の一つとされている。"@ja , "Huế station is a railway station in the city of Huế, Vietnam on the main North–South railway. The street address is 2 Bui Thi Xuan Street, Huế, Thừa Thiên–Huế Province, Vietnam. The station was built by the French colonial authorities during the French Indochina period. The station is influenced by French architecture and is today considered one of the most beautiful railway stations in Vietnam. Built by the French Public Works Department, it was considered a \"rectangular horror\" according to a source from 1913. During the Vietnam War in the Battle of Hue the station housed snipers but U.S. troops drove them out."@en , "후에 역 (베트남어: Ga Huế / Ga 化)은 베트남 트어티엔후에성 후에 시에 위치한 철도역이다. 하노이와 호찌민 시를 잇는 남북선 상에 위치한 역이다. 남북선의 기점역 하노이 역에서 688km 지점에 위치하고 있다. 프랑스 건축의 영향을 받아 베트남에서 가장 아름다운 기차역 중 하나가되고있다."@ko , "La stazione di Huế (Ga Huế in vietnamita) è la stazione ferroviaria della città di Huế, nella provincia di Thừa Thiên–Huế, in Vietnam. Si trova lungo la principale linea ferroviaria del paese, la ferrovia nord-sud. Si trova subito a sud del ponte ferroviario sul fiume dei profumi al numero due di Bui Thi Xuan, all'estremità sudovest del viale Lê Lợi, una delle strade più importanti della città. La stazione è stata costruita in stile coloniale durante la dominazione francese. Durante la battaglia di Huế del 1968 l'edificio venne occupato da cecchini nordvietnamiti che vennero successivamente costretti a ritirarsi dalle truppe statunitensi."@it , "La gare de Hué (vietnamien: Ga Huế) est une gare ferroviaire vietnamienne située dans la ville de Hué."@fr , "顺化站（越南语：Ga Huế／Ga化*/?）是越南承天順化省顺化市坊德坊的一个铁路车站，有南北铁路經過。北距河內站688公里，南距西貢站1040公里。 顺化站修建于法属印度支那时期，建筑风格深受法国影响，于1906年12月15日正式启用，时名铳场站（越南语：Ga Trường Súng／Ga場銃*/?），是阮朝成泰年间继国学场（今顺化市国学高中）、顺化中央医院、钱场桥、东波市场后，在香江附近区域修建的最后一个大型建筑设施。1907年初，顺化至岘港段全长115公里的铁路建成通车，次年又开通了顺化至东河段铁路。"@zh ;
+        dbo:address           "2 Bui Thi Xuan Street, Huế, Thừa Thiên–Huế Province"@en ;
+        dbo:wikiPageWikiLink  dbr:Vietnam_Railways , dbr:Vietnam , dbr:Vietnam_War , dbr:Battle_of_Huế , dbr:Huế , dbr:Train_station , dbr:Category:Railway_stations_in_Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:File:Hue_Vietnam_Hue-Railway-Station-01.jpg , dbr:French_Indochina , dbr:French_architecture , dbr:Category:Buildings_and_structures_in_Huế , dbr:French_colonial_architecture ;
+        dbp:name              "Huế"@en ;
+        georss:point          "16.81111111111111 107.11166666666666" .
+
+dbr:Đồng_Văn_station  dbo:abstract  "Đồng Văn station (Vietnamese: Ga Đồng Văn) is a railway station on the North–South railway in Duy Tiên, Hà Nam, Vietnam."@en ;
+        dbo:address           "Duy Tiên,Hà Nam"@en ;
+        dbo:wikiPageWikiLink  dbr:Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Railway_stations_in_Vietnam , dbr:Duy_Tiên , dbr:Vietnamese_language , dbr:Hà_Nam_province ;
+        dbp:name              "Đồng Văn station"@en ;
+        georss:point          "20.6389 105.9189" .
+
+dbr:Mỹ_Lý_station  dbo:abstract  "Mỹ Lý station is a railway station on North–South railway at Km 292 in Vietnam. It's located in Diễn Châu, Nghệ An between Chợ Sy station and Quán Hành station."@en ;
+        dbo:wikiPageWikiLink  dbr:Chợ_Sy_station , dbr:Nghệ_An_province , dbr:Diễn_Châu , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Railway_stations_in_Vietnam , dbr:Quán_Hành_station , dbr:Vietnam .
+
+dbr:Uông_Bí_station  dbo:abstract  "Uông Bí station is a railway station in Vietnam. It serves the town of Uông Bí, in Quảng Ninh Province.The trains that run there connect Uông Bí to the city of Haiphong. \n* v \n* t \n* e"@en ;
+        dbo:address             "Uông Bí,Quảng Ninh Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Kép–Hạ_Long_railway> ;
+        dbo:wikiPageWikiLink    <http://dbpedia.org/resource/Kép–Hạ_Long_railway> , dbr:Uông_Bí , dbr:Haiphong , dbr:Category:Railway_stations_in_Vietnam , dbr:Quảng_Ninh_province , dbr:Category:Buildings_and_structures_in_Quảng_Ninh_province , dbr:Vietnam , dbr:Train_station ;
+        dbp:name                "Uong Bi"@en , "Ga Uông Bí"@en ;
+        georss:point            "21.03472222222222 106.75555555555556" .
+
+dbr:Phủ_Lý_station  dbo:abstract  "Phủ Lý station is one of the main railway stations on the North–South railway (Reunification Express) in Vietnam. It serves the city of Phủ Lý. \n* v \n* t \n* e"@en , "풀리역(Phủ Lý, 府里, 부리)은 베트남 하남성의 성도(省都) 풀리에 있는 철도 역이다. 남북선에 있다."@ko , "府里站（越南语：Ga Phủ Lý／Ga府里*/?）是越南河南省府里市的一个鐵路車站，有南北鐵路經過，並有專用線連接筆山水泥廠。向北距离河內站56公里，向南距離順化站632公里、距離西貢站1,670公里。府里站始建於法屬印度支那時期，現由越南鐵路總公司直屬之河清鐵路開發分公司管理。"@zh ;
+        dbo:wikiPageWikiLink  dbr:Phủ_Lý , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Buildings_and_structures_in_Hà_Nam_province , dbr:Category:Railway_stations_in_Vietnam , dbr:Vietnam , dbr:Train_station ;
+        dbp:name              "Phủ Lý"@en ;
+        georss:point          "20.540555555555557 105.91305555555556" .
+
+dbr:Bắc_Giang_station
+        dbo:abstract            "박장역(베트남어: Ga Bắc Giang / Ga 北江)은 박장성 박장시에 위치한 하노이-동당선의 철도역이다. 과 미터 궤간이 있는 혼합 레일이 놓여있다. 중국 난닝까지 국제 복합 열차 T8701/8702가 운행하고 있다."@ko , "Bắc Giang station is a railway station in Vietnam. It serves the town of Bắc Giang, in Bắc Giang Province."@en , "バクザン駅(ベトナム語：Ga Bắc Giang / Ga 北江?)はベトナムバクザン省のバクザンに位置するベトナム鉄道の駅である。標準軌（1,435mm）およびメーターゲージ（1,000mm）の両方の列車が乗り入れ、南寧駅から乗り入れるT8701/8702次列車の停車駅にもなっている。"@ja , "北江站（越南语：Ga Bắc Giang／Ga北江*/?）是越南河同铁路的一座火车站，位于北江省北江市，距河内站49公里。铺设有标准轨及米轨共行的混合轨。每天设有国际联运列车T8701/8702次通往中国南宁。每天设有DD5/DD6次列车通往河内及同登。"@zh ;
+        dbo:address             "Bắc Giang,Bắc Giang Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Đồng_Đăng_railway> ;
+        dbo:wikiPageWikiLink    dbr:Vietnam , dbr:Bắc_Giang , dbr:Train_station , dbr:Category:Railway_stations_in_Vietnam , dbr:Bắc_Giang_province , dbr:Category:Buildings_and_structures_in_Bắc_Giang_province , <http://dbpedia.org/resource/Hanoi–Đồng_Đăng_railway> ;
+        dbp:name                "Ga Bắc Giang"@en , "Bac Giang"@en ;
+        georss:point            "21.27888888888889 106.1913888888889" .
+
+dbr:Thanh_Khê_station
+        dbo:abstract          "Thanh Khê station is a railway station on the North–South railway (Reunification Express) in Vietnam. It serves the district of Thanh Khê, on the outskirts of Đà Nẵng. \n* v \n* t \n* e"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Buildings_and_structures_in_Da_Nang , dbr:Train_station , dbr:Category:Railway_stations_in_Vietnam , dbr:Thanh_Khê_district , dbr:Da_Nang , dbr:Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> ;
+        dbp:name              "Thanh Khê"@en ;
+        georss:point          "16.066388888888888 108.1825" .
+
+dbr:Lan_Mẫu_station  dbo:abstract  "Lan Mẫu station is a railway station in Vietnam. It serves the town of Lan Mẫu, in Bắc Giang Province."@en ;
+        dbo:address             "Lan Mẫu,Lục Nam,Bắc Giang Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Kép–Hạ_Long_railway> ;
+        dbo:wikiPageWikiLink    dbr:Category:Railway_stations_in_Vietnam , dbr:Category:Buildings_and_structures_in_Bắc_Giang_province , dbr:Train_station , dbr:Bắc_Giang_province , dbr:Vietnam , dbr:Lục_Nam_district , <http://dbpedia.org/resource/Kép–Hạ_Long_railway> , dbr:Lan_Mẫu ;
+        dbp:name                "Ga Lan Mẫu"@en , "Lan Mau"@en ;
+        georss:point            "21.290277777777778 106.3375" .
+
+dbr:Dĩ_An_station  dbo:abstract  "Dĩ An station is a railway station on the North–South railway (Reunification Express) line in Vietnam. It serves the town of Dĩ An in Bình Dương Province. The Dĩ An railyards were notable as a centre of Union activity in the 1930s, during French Indochina."@en ;
+        dbo:wikiPageWikiLink  dbr:Bình_Dương_province , dbr:French_Indochina , dbr:Train_station , dbr:Dĩ_An , dbr:Category:Railway_stations_in_Vietnam , dbr:Category:Buildings_and_structures_in_Bình_Dương_province , dbr:Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> ;
+        dbp:name              "Dĩ An"@en ;
+        georss:point          "10.907777777777778 106.76916666666666" .
+
+dbr:Yên_Bái_station  dbo:abstract  "Yên Bái station is a railway station in Vietnam. It serves the town of Yên Bái, in Yên Bái Province."@en , "安沛站（越南语：Ga Yên Bái／Ga安沛*/?）是越南河老铁路的一座火车站，位于安沛省安沛市，距河内站155公里。安沛站始建于越南被法国殖民统治的法属印度支那时期，于1902年随河老铁路建成通车而落成启用。"@zh ;
+        dbo:address             "Yên Bái,Yên Bái Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Lào_Cai_railway> ;
+        dbo:wikiPageWikiLink    dbr:Category:Buildings_and_structures_in_Yên_Bái_province , <http://dbpedia.org/resource/Hanoi–Lào_Cai_railway> , dbr:Train_station , dbr:Yên_Bái_province , dbr:Vietnam , dbr:Yên_Bái , dbr:Category:Railway_stations_in_Vietnam ;
+        dbp:name                "Ga Yên Bái"@en , "Yen Bai"@en ;
+        georss:point            "21.7023 104.8808" .
+
+dbr:Đà_Nẵng_station  dbo:abstract  "La gare de Đà Nẵng (vietnamien : Ga Đà Nẵng) est une gare ferroviaire vietnamienne située dans la ville de Đà Nẵng."@fr , "ダナン駅（ダナンえき、ベトナム語：Ga Đà Nẵng / Ga沱㶞）とは、ベトナム中部のダナン市にある、ベトナム鉄道・南北線の駅である。"@ja , "다낭 역 (베트남어: Ga Đà Nẵng / Ga沱㶞)은 베트남 다낭 시(인구 89만명 거주)에 위치한 철도역이다. 하노이와 호찌민 시를 잇는 남북선 상에 위치한 역이다. 남북선의 기점역 하노이 역에서 791km 지점에 위치하고 있다. 이 역은 시내 중심부에 위치하고 있어서 편리성이 양호하다."@ko , "岘港站（越南语：Ga Đà Nẵng／Ga沱㶞*/?）是越南岘港市的一个铁路车站，也是南北鐵路上的重要车站之一，每周都有超过30趟来自河内和胡志明市的旅客列车经停此站。岘港站是一个尽头式车站，所有在岘港站到发的旅客列车都需要换向。"@zh , "Đà Nẵng (wietnamski: Ga Đà Nẵng) – stacja kolejowa w Đà Nẵng, w Regionie Wybrzeża Południowo-Środkowego, w Wietnamie. Znajduje się na . Została otwarta w 1902."@pl , "Đà Nẵng station is one of the main railway stations on the North–South Railway (Reunification Express) in Vietnam and one of the five largest stations in Vietnam. It serves the city of Đà Nẵng. Đà Nẵng station is one of the three largest train stations of Vietnam serving daily trains from the north to the south and vice versa that stop for long enough for a relatively large number of passengers to get on or off. The facilities of Đà Nẵng station are relatively modern, secure and hygienic. Besides North–South routes, the station serves provincial routes such as to Huế, Quảng Bình, Vinh, Quy Nhơn, and Ho Chi Minh City. Passengers have diverse options with different classes to any of these stations: odd numbers (E1, S1, S3, S5, S7 and SD1) go from the north to the south coded, even numbers (E2, S2, S4, S6 and S8) go from the south to the north."@en ;
+        dbo:address           "Đà Nẵng,Hải Châu District"@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Railway_stations_in_Vietnam , dbr:Vietnam , dbr:Da_Nang , dbr:South_Central_Coast , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Train_station , dbr:Vietnam_Railways , dbr:Hải_Châu_district , dbr:Category:Buildings_and_structures_in_Da_Nang ;
+        dbp:name              "Đà Nẵng"@en ;
+        georss:point          "16.0716 108.2092" .
+
+dbr:Trại_Mát_station  dbo:abstract  "Trại Mát station is a railway station in Vietnam on Đà Lạt–Tháp Chàm railway in Đà Lạt, Lâm Đồng."@en ;
+        dbo:address             "Da Lat,Lâm Đồng province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Da_Lat–Thap_Cham_railway> ;
+        dbo:wikiPageWikiLink    dbr:Da_Lat , <http://dbpedia.org/resource/Da_Lat–Thap_Cham_railway> , dbr:Lâm_Đồng_province , dbr:Train_station , dbr:Category:Railway_stations_in_Vietnam ;
+        dbp:name                "Ga Trại Mát"@en ;
+        georss:point            "11.946111111111112 108.50138888888888" .
+
+dbr:Chợ_Sy_station  dbo:abstract  "Chợ Sy station is a railway station on North–South railway at Km 279 in Vietnam. It's located in Diễn Châu, Nghệ An between and Mỹ Lý station."@en ;
+        dbo:wikiPageWikiLink  dbr:Mỹ_Lý_station , dbr:Vietnam , dbr:Nghệ_An_province , dbr:Diễn_Châu , dbr:Yên_Lý_station , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Railway_stations_in_Vietnam .
+
+dbr:Lưu_Xá_station  dbo:abstract  "Luu Xa station (Vietnamese: ga Lưu Xá) is a railway station in Vietnam. It serves the area southern of Thái Nguyên city, in Thái Nguyên Province. \n* v \n* t \n* e"@en , "刘舍站（越南语：Ga Lưu Xá／Ga劉舍*/?）是越南河太铁路和克太铁路的一座火车站，位于太原省太原市，距河内站68公里。铺设有标准轨及米轨共行的混合轨。"@zh ;
+        dbo:address             "Thái Nguyên,Thái Nguyên Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Quán_Triều_railway> ;
+        dbo:wikiPageWikiLink    dbr:Vietnam , dbr:Thái_Nguyên_province , dbr:Thái_Nguyên , <http://dbpedia.org/resource/Hanoi–Quán_Triều_railway> , dbr:Category:Railway_stations_in_Vietnam , dbr:Train_station , dbr:Category:Buildings_and_structures_in_Thái_Nguyên_province ;
+        dbp:name                "Luu Xa"@en , "Ga Lưu Xá"@en ;
+        georss:point            "21.56222222222222 105.84666666666666" .
+
+dbr:Đồng_Hới_station  dbo:abstract  "ドンホイ駅（ドンホイえき、ベトナム語：Ga Đồng Hới / Ga洞海）はベトナムのクアンビン省ドンホイにある、ベトナム鉄道・南北線の駅である。"@ja , "La gare de Đồng Hới (vietnamien : Ga Đồng Hới) est à une gare ferroviaire vietnamienne située dans la ville de Đồng Hới, province de Quảng Bình. Elle est à 4 km du centre-ville, et 6 km au sud de l'aéroport de Đồng Hới, ainsi qu'à 50 km au sud du parc national de Phong Nha-Kẻ Bàng."@fr , "Đồng Hới station is one of the main railway stations on the North–South railway (Reunification Express) in Vietnam. It serves the city of Đồng Hới, the provincial capital of Quảng Bình Province. The station is 450 km south of Hanoi, 160 km north of Huế, 1280 km north of Saigon station. The station is located 3 km West, inland, from the coast and downtown."@en , "洞海站（越南语：Ga Đồng Hới／Ga洞海*/?）是越南廣平省洞海市的一个铁路车站，位于南北鐵路上，向北距离河内站522公里、距离荣市站192公里，向南距离东河站100公里、距离顺化站166公里，每天约有16趟旅客列车经停洞海站。"@zh ;
+        dbo:address           "Hoang Dieu Street,Đồng Hới"@en ;
+        dbo:wikiPageWikiLink  <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Saigon_station , dbr:Hanoi , dbr:Category:Buildings_and_structures_in_Quảng_Bình_province , dbr:Vietnam , dbr:Quảng_Bình_province , dbr:Đồng_Hới , dbr:Train_station , dbr:Category:Railway_stations_in_Vietnam , dbr:Huế , dbr:Vietnam_Railways , dbr:Category:Đồng_Hới ;
+        dbp:name              "Đồng Hới"@en ;
+        georss:point          "17.47 106.6" .
+
+dbr:Hải_Dương_station
+        dbo:abstract            "海阳站（越南语：Ga Hải Dương／Ga海陽*/?）是越南河海铁路的一座火车站，位于海阳省海阳市，距河内站57公里。海阳站始建于越南被法国殖民统治的法属印度支那时期，于1902年随河海铁路建成通车而落成启用。"@zh , "Hải Dương station is a railway station in Vietnam. It serves the town of Hải Dương, in Hải Dương Province."@en , "Station Hải Dương is een spoorwegstation in Hải Dương, de hoofdstad van de Vietanmese provincie Hải Dương. Het station ligt aan de Spoorlijn Hanoi - Hải Phòng. Deze spoorlijn is aangelegd in 1903 en verbindt Hanoi met Hải Phòng."@nl ;
+        dbo:address             "Hải Dương,Hải Dương Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Haiphong_railway> ;
+        dbo:wikiPageWikiLink    dbr:Category:Buildings_and_structures_in_Hải_Dương_province , dbr:Category:Railway_stations_in_Vietnam , dbr:Train_station , <http://dbpedia.org/resource/Hanoi–Haiphong_railway> , dbr:Hải_Dương , dbr:Hải_Dương_province , dbr:Vietnam ;
+        dbp:name                "Ga Hải Dương"@en , "Hai Duong"@en ;
+        georss:point            "20.9473 106.33" .
+
+dbr:Nam_Định_station  dbo:abstract  "南定站（越南语：Ga Nam Định／Ga南定*/?）是越南南定省南定市的一个铁路车站。有南北铁路经过。北距河内站87公里、府里站31公里，南距宁平站28公里、西贡站1,639公里。南定站始建于越南被法国殖民统治的法属印度支那时期，于1902年随南北铁路建成通车而落成启用。"@zh , "La gare de Nam Dinh (vietnamien: Ga Nam Định) est une gare ferroviaire vietnamienne située dans la ville de ."@fr , "Nam Định station is one of the main railway stations on the North–South railway (Reunification Express) in Vietnam. It serves the city of Nam Định. \n* v \n* t \n* e"@en , "남딘역(베트남어: Nam Định / 南定, 남정)은 베트남 남딘 성의 성도(省都) 남딘에 있는 철도 역이다. 남북선에 있다."@ko ;
+        dbo:wikiPageWikiLink  dbr:Vietnam , dbr:Nam_Định , dbr:Category:Railway_stations_in_Vietnam , dbr:Category:Buildings_and_structures_in_Nam_Định_province , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Nam_Dinh , dbr:Train_station ;
+        dbp:name              "Nam Định"@en ;
+        georss:point          "20.42 106.16444444444444" .
+
+dbr:Lạng_Sơn_station  dbo:abstract  "Lạng Sơn station is a railway station in Vietnam. It serves the town of Lạng Sơn, in Lạng Sơn Province."@en , "谅山站（越南语：Ga Lạng Sơn／Ga諒山*/?）是越南河同铁路的一座火车站，位于谅山省谅山市，距河内站149公里。铺设有标准轨及米轨共行的混合轨。每天设有DD5/DD6次列车通往河内及同登。"@zh ;
+        dbo:address             "Lạng Sơn,Lạng Sơn Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Đồng_Đăng_railway> ;
+        dbo:wikiPageWikiLink    dbr:Train_station , dbr:Category:Buildings_and_structures_in_Lạng_Sơn_province , dbr:Category:Railway_stations_in_Vietnam , dbr:Lạng_Sơn , dbr:Vietnam , <http://dbpedia.org/resource/Hanoi–Đồng_Đăng_railway> , dbr:Lạng_Sơn_province ;
+        dbp:name                "Ga Lạng Sơn"@en , "Lang Son"@en ;
+        georss:point            "21.8557 106.7688" .
+
+dbr:Quảng_Ngãi_station
+        dbo:abstract          "Quảng Ngãi station is one of the main railway stations on the North–South railway (Reunification Express) in Vietnam. It serves the city of Quảng Ngãi, lying 1.5 kilometres west of the main centre."@en ;
+        dbo:wikiPageWikiLink  dbr:Category:Railway_stations_in_Vietnam , dbr:Vietnam , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Train_station , dbr:Quảng_Ngãi , dbr:Category:Buildings_and_structures_in_Quảng_Ngãi_province ;
+        dbp:name              "Quảng Ngãi"@en ;
+        georss:point          "15.1209 108.7813" .
+
+dbr:Bắc_Ninh_station  dbo:abstract  "Bắc Ninh station is a mainline station of the North–South railway, an important centre of the railways of Vietnam. It serves the city of Bắc Ninh, in Bắc Ninh Province. The Bắc Ninh railway station, first encountered at the age of seven, is a recurring scene in the autobiography of Marcel Van."@en , "北宁站（越南语：Ga Bắc Ninh／Ga北寧*/?）是越南河同铁路的一座火车站，位于北宁省北宁市宁舍坊，距河内站29公里。铺设有标准轨及米轨共行的混合轨。每天设有ĐĐ5/ĐĐ6次列车通往河內及同登。"@zh ;
+        dbo:address             "Bắc Ninh,Bắc Ninh Province"@en ;
+        dbo:servingRailwayLine  <http://dbpedia.org/resource/Hanoi–Đồng_Đăng_railway> ;
+        dbo:wikiPageWikiLink    <http://dbpedia.org/resource/Hanoi–Đồng_Đăng_railway> , dbr:Bắc_Ninh_province , <http://dbpedia.org/resource/North–South_railway_(Vietnam)> , dbr:Category:Railway_stations_in_Vietnam , dbr:Category:Buildings_and_structures_in_Bắc_Ninh_province , dbr:Rail_transport_in_Vietnam , dbr:Marcel_Nguyễn_Tân_Văn , dbr:Bắc_Ninh ;
+        dbp:name                "Ga Bắc Ninh"@en , "Bac Ninh"@en ;
+        georss:point            "21.1784 106.0562" .

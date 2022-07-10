@@ -1,28 +1,14 @@
 package hust.soict.globalict.core.tourism.attraction.manMadeAttraction.building;
 
-
-
-import java.util.Map;
-import java.util.TreeMap;
-
 public class Pagoda extends Building {
-    private String pagoda = """
+    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/attraction/manMadeAttraction/building/Pagoda.ttl";
+    private final String pagoda = """
                     ?data dct:subject dbc:Pagodas_in_Vietnam.
                 """;
 
     public Pagoda() {
         super();
+        super.path = this.path;
         super.whereQueryPart += pagoda;
-    }
-
-    @Override
-    public String getExportedFileName() {
-        return "Pagoda";
-    }
-
-    @Override
-    public Map<String, String> getStructuredDatMap() {
-        Map<String, String> structuredDataMap = new TreeMap<String, String>();
-        return structuredDataMap;
     }
 }
