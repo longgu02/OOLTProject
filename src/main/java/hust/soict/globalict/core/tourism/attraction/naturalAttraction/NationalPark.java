@@ -7,10 +7,10 @@ import java.util.TreeMap;
 
 public class NationalPark extends NaturalAttraction{
 
-    private String governingBody = "?data dbp:governingBody";
-    private String nearestCity = "?data dbp:nearestCity ?city";
-    private String areaTotal = "?data dbo:areaTotal ?area";
-    private String established = "?data dbp:established ?established";
+    private String governingBody = "?data dbp:governingBody.";
+    private String nearestCity = "?data dbp:nearestCity ?city.";
+    private String areaTotal = "?data dbo:areaTotal ?area.";
+    private String established = "?data dbp:established ?established.";
     private String whereQuery = """
                 ?data dct:subject dbc:National_parks_of_Vietnam.
             """;

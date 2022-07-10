@@ -6,13 +6,13 @@ import java.util.Map;
 import java.util.TreeMap;
 
 public class Cave extends NaturalAttraction{
-    private String length = "?data dbo:length ?length";
-    private String depth = "?data dbp:depth ?depth";
-    private String discovery = "?data dbp:discovery ?discovery";
-    private String survey = "?data dbp:survey ?survey";
-    private String date = "?data dbp:date ?date";
+    private String length = "?data dbo:length ?length.";
+    private String depth = "?data dbp:depth ?depth.";
+    private String discovery = "?data dbp:discovery ?discovery.";
+    private String survey = "?data dbp:survey ?survey.";
+    private String date = "?data dbp:date ?date.";
     private String query = """
-                ?data dct:subject dbc:Caves_of_Vietnam
+                ?data dct:subject dbc:Caves_of_Vietnam.
             """;
 
 

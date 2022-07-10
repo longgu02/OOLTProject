@@ -10,7 +10,7 @@ public class Bridge extends ManMadeAttraction{
 //    private String infrastructure = "?data dbo:\"infrastructure/length\" ?in.";
     private String bridgeCarries = "?data dbo:bridgeCarries ?bc.";
     private String crosses = "?data dbo:crosses ?cr.";
-    private String length = "?data dbo:length ?len.";
+//    private String length = "?data dbo:length ?len.";
     private String whereQuery = """
             ?data dct:subject dbc:Road_bridges_in_Vietnam.
             """;
