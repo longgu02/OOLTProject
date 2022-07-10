@@ -18,7 +18,7 @@ public class testDemo extends Application {
         fxmlLoader.setController(demoController);
         Parent root = fxmlLoader.load();
 
-        primaryStage.setTitle("Demo");
+        primaryStage.setTitle("Demo Tourism");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
     }

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.geometry.*?>
 <?import javafx.scene.text.*?>
 <?import javafx.scene.*?>
 <?import javafx.scene.control.*?>
@@ -17,22 +18,35 @@
         </VBox>
     </left>
     <center>
-        <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+        <VBox prefHeight="200.0" prefWidth="100.0" style="-fx-border-color: lightgray;" BorderPane.alignment="CENTER">
             <children>
-                <HBox prefHeight="100.0" prefWidth="200.0">
+                <HBox prefHeight="78.0" prefWidth="700.0" style="-fx-background-color: lightgray; -fx-border-color: white;">
                     <children>
-                        <Label fx:id="objectLabel" prefHeight="108.0" prefWidth="116.0" text="Name">
+                        <Label fx:id="objectLabel" prefHeight="100.0" prefWidth="341.0" text="Name">
                             <font>
-                                <Font size="20.0" />
+                                <Font name="System Bold" size="26.0" />
                             </font>
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                     <padding>
+                        <Insets left="10.0" />
+                     </padding>
                         </Label>
                     </children>
                 </HBox>
-                <Label fx:id="informationLabel" text="Information">
-                    <font>
-                        <Font size="18.0" />
-                    </font>
-                </Label>
+            <ScrollPane prefHeight="200.0" prefWidth="200.0" VBox.vgrow="ALWAYS">
+               <content>
+                      <Label fx:id="informationLabel" text="Information">
+                          <font>
+                              <Font size="18.0" />
+                          </font>
+                     <padding>
+                        <Insets left="10.0" />
+                     </padding>
+                      </Label>
+               </content>
+            </ScrollPane>
             </children>
         </VBox>
     </center>

@@ -40,7 +40,7 @@ public class DemoController {
     void selectItem() {
         TreeItem<String> item = selectionFIleNameTree.getSelectionModel().getSelectedItem();
         String content = "";
-        if(item.getValue() != null && Category.containsKey(item.getValue())) {
+        if(item != null && Category.containsKey(item.getValue())) {
         	System.out.println("Querying " + item.getValue());
         	String currentSubject = "";
         	Map<String, Pair<String, String>> itemData = Category.get(item.getValue()); 
@@ -53,8 +53,9 @@ public class DemoController {
         		  currentSubject = entry.getKey();
         	  }
           }
+          objectLabel.setText(item.getValue());
+          informationLabel.setText(content);
         }
-        informationLabel.setText(content);
     }
 
     public void mapInitial() {
@@ -80,25 +81,29 @@ public class DemoController {
 
     public void initialize() {
     	mapInitial();
-        String [] mainTopic = {"Attraction",
+        String [] mainTopic = {
+        		"Attraction",
                 "Festival",
                 "Culture",
                 "Accomodation",
                 "Travel"
         };
-        String [][] subTopic = {{"NaturalAttraction", "ManMadeAttraction"},
+        String [][] subTopic = {
+        		{"NaturalAttraction", "ManMadeAttraction"},
                 {"Festival", null},
                 {"Culture", null},
                 {"Accomodation", null},
                 {"Travel", null},
         };
-        String [][][] objectTopic = { {{"Beach", "National Park", "Lake", "Cave"}, {"Bridge", "Skyscraper","Temple","Museum"}},
+        String [][][] objectTopic = { 
+        		{{"Beach", "National Park", "Lake", "Cave"}, {"Bridge", "Skyscraper","Temple","Museum"}},
                 {{"Festival", null, null, null}, {null, null, null,null}},
                 {{"Culture", null, null, null}, {null, null, null,null}},
                 {{"Resort", null, null, null}, {"Hotel", null, null,null}},
                 {{"Railway Station", null, null, null}, {"Airport", null, null,null}},
 
         };
+        //tao tree
         TreeItem<String> rootItem = new TreeItem<String>("Tourism");
         TreeItem<String> item = new TreeItem<String>();
         TreeItem<String> subItem = new TreeItem<String>();
