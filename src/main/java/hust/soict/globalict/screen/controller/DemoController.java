@@ -90,17 +90,17 @@ public class DemoController {
         };
         String [][] subTopic = {
         		{"NaturalAttraction", "ManMadeAttraction"},
-                {"Festival", null},
-                {"Culture", null},
-                {"Accomodation", null},
-                {"Travel", null},
+                {null, null},
+                {null, null},
+                {"Resort", "Hotel"},
+                {"Railway Station", "Airport"},
         };
         String [][][] objectTopic = { 
         		{{"Beach", "National Park", "Lake", "Cave"}, {"Bridge", "Skyscraper","Temple","Museum"}},
-                {{"Festival", null, null, null}, {null, null, null,null}},
-                {{"Culture", null, null, null}, {null, null, null,null}},
-                {{"Resort", null, null, null}, {"Hotel", null, null,null}},
-                {{"Railway Station", null, null, null}, {"Airport", null, null,null}},
+                {{null, null, null, null}, {null, null, null,null}},
+                {{null, null, null, null}, {null, null, null,null}},
+                {{null, null, null, null}, {null, null, null,null}},
+                {{null, null, null, null}, {null, null, null,null}},
 
         };
         //tao tree

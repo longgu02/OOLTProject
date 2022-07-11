@@ -31,6 +31,7 @@ public abstract class Tourism {
                     PREFIX foaf: <http://xmlns.com/foaf/0.1/>
                     PREFIX georss: <http://www.georss.org/georss/>
                     PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+                    PREFIX vntourism: <http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#>
                     """;
     protected String constructQueryPart = """
                     CONSTRUCT{

@@ -8,6 +8,7 @@ public class Culture extends Tourism{
 	private final String label = "?data rdfs:label ?label." ;
 	private final String comment = "?data rdfs:comment ?comment.";
 	private final String wasDerivedFrom = "?data prov:wasDerivedFrom ?wasDerivedFrom.";
+	private final String additionalPrefix = "PREFIX prov: <http://www.w3.org/ns/prov#>";
 	private final String query = """
             ?data dct:subject dbc:Archaeological_cultures_in_Vietnam.
         """;
@@ -15,7 +16,7 @@ public class Culture extends Tourism{
 	public Culture() {
 		 super();
 		 super.path = this.path;
-		 super.prefixesQueryPart += "PREFIX prov: <http://www.w3.org/ns/prov#>\n";
+		 super.prefixesQueryPart += additionalPrefix + "\n";
 		 super.constructQueryPart += label + "\n"
 		 							+ comment + "\n"
 		 							+ wasDerivedFrom + "\n";

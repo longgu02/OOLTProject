@@ -15,6 +15,7 @@ import hust.soict.globalict.core.tourism.Tourism;
 import hust.soict.globalict.core.tourism.accomodation.Accommodation;
 import hust.soict.globalict.core.tourism.accomodation.Hotel;
 import hust.soict.globalict.core.tourism.accomodation.Resort;
+
 import hust.soict.globalict.core.tourism.attraction.naturalAttraction.Beach;
 import hust.soict.globalict.core.tourism.attraction.naturalAttraction.Cave;
 import hust.soict.globalict.core.tourism.attraction.naturalAttraction.Lake;
@@ -29,6 +30,7 @@ import org.apache.jena.rdf.model.Model;
 
 import hust.soict.globalict.core.tourism.attraction.Attraction;
 import hust.soict.globalict.core.tourism.attraction.manMadeAttraction.Bridge;
+import hust.soict.globalict.core.tourism.attraction.manMadeAttraction.building.Museum;
 import hust.soict.globalict.core.tourism.attraction.manMadeAttraction.building.Pagoda;
 import hust.soict.globalict.core.tourism.attraction.manMadeAttraction.building.Skyscraper;
 import hust.soict.globalict.core.tourism.attraction.manMadeAttraction.building.Temple;
@@ -58,6 +60,7 @@ public class Test {
         Accommodation accommodationTest = new Accommodation();
         Culture cultureTest = new Culture();
         Festival festivalTest = new Festival();
+        Museum museumTest = new Museum();
         Map<String, Pair<String, String>> testMap = pagodaTest.getStructuredDataMap();
 //        test.getStructuredDatMap();
 //        for(Map.Entry<String, Pair<String, String>> entry : testMap.entrySet()){
@@ -70,7 +73,7 @@ public class Test {
 //            System.err.println(e.getMessage());
 //        }
         try {
-			hotelTest.executeQuery();
+			museumTest.executeQuery();
 		} catch (QueryException e) {
 			// TODO Auto-generated catch block
 			System.err.println(e.getMessage());
