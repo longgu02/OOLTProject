@@ -12,7 +12,6 @@
     <left>
         <VBox prefHeight="600.0" prefWidth="161.0" style="-fx-background-color: white;" BorderPane.alignment="CENTER">
             <children>
-                <TextField fx:id="tfFilter" alignment="TOP_LEFT" promptText="type filter here" style="-fx-background-color: lightgray;" />
                 <TreeView fx:id="selectionFIleNameTree" onContextMenuRequested="#selectItem" onMouseClicked="#selectItem" prefHeight="200.0" prefWidth="200.0" showRoot="false" VBox.vgrow="ALWAYS" />
             </children>
         </VBox>
@@ -33,9 +32,10 @@
                         <Insets left="10.0" />
                      </padding>
                         </Label>
+                  <Region prefHeight="200.0" prefWidth="200.0" />
                     </children>
                 </HBox>
-            <ScrollPane prefHeight="200.0" prefWidth="200.0" VBox.vgrow="ALWAYS">
+            <ScrollPane prefHeight="487.0" prefWidth="700.0" VBox.vgrow="ALWAYS">
                <content>
                       <Label fx:id="informationLabel" text="Information">
                           <font>
@@ -50,4 +50,53 @@
             </children>
         </VBox>
     </center>
+   <bottom>
+      <HBox prefHeight="50.0" prefWidth="863.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label text="Query">
+               <HBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="8.0" />
+               </HBox.margin>
+            </Label>
+            <TextField fx:id="queryForm" prefHeight="31.0" prefWidth="155.0">
+               <HBox.margin>
+                  <Insets top="5.0" />
+               </HBox.margin>
+            </TextField>
+            <RadioButton fx:id="radioBtnSubjectQuery" mnemonicParsing="false" text="subject">
+               <HBox.margin>
+                  <Insets top="10.0" />
+               </HBox.margin>
+               <toggleGroup>
+                  <ToggleGroup fx:id="queryBtn" />
+               </toggleGroup>
+            </RadioButton>
+            <RadioButton fx:id="radioBtnPredicateQuery" mnemonicParsing="false" text="predicate" toggleGroup="$queryBtn">
+               <HBox.margin>
+                  <Insets top="10.0" />
+               </HBox.margin>
+            </RadioButton>
+            <RadioButton fx:id="radioBtnObjectQuery" mnemonicParsing="false" prefHeight="21.0" prefWidth="79.0" text="object" toggleGroup="$queryBtn">
+               <HBox.margin>
+                  <Insets top="10.0" />
+               </HBox.margin>
+            </RadioButton>
+            <Button fx:id="openBoxBtn" mnemonicParsing="false" onAction="#openBoxBtnPressed" prefHeight="31.0" prefWidth="111.0" text="inputSPAQRL">
+               <HBox.margin>
+                  <Insets top="8.0" />
+               </HBox.margin>
+            </Button>
+            <Region prefHeight="50.0" prefWidth="6.0" HBox.hgrow="ALWAYS" />
+            <Label text="Choose Type of File">
+               <HBox.margin>
+                  <Insets top="10.0" />
+               </HBox.margin>
+            </Label>
+            <ChoiceBox fx:id="typeOfFileChooseBox" prefHeight="31.0" prefWidth="143.0" />
+         </children>
+         <BorderPane.margin>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </BorderPane.margin>
+      </HBox>
+   </bottom>
 </BorderPane>
