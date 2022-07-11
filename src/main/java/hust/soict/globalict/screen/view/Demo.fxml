@@ -26,27 +26,27 @@
                             <font>
                                 <Font name="System Bold" size="26.0" />
                             </font>
-                     <HBox.margin>
-                        <Insets />
-                     </HBox.margin>
-                     <padding>
-                        <Insets left="10.0" />
-                     </padding>
+                            <HBox.margin>
+                                <Insets />
+                            </HBox.margin>
+                            <padding>
+                                <Insets left="10.0" />
+                            </padding>
                         </Label>
                     </children>
                 </HBox>
-            <ScrollPane prefHeight="200.0" prefWidth="200.0" VBox.vgrow="ALWAYS">
-               <content>
-                      <Label fx:id="informationLabel" text="Information">
-                          <font>
-                              <Font size="18.0" />
-                          </font>
-                     <padding>
-                        <Insets left="10.0" />
-                     </padding>
-                      </Label>
-               </content>
-            </ScrollPane>
+                <ScrollPane prefHeight="200.0" prefWidth="200.0" VBox.vgrow="ALWAYS">
+                    <content>
+                        <Label fx:id="informationLabel" text="Information">
+                            <font>
+                                <Font size="18.0" />
+                            </font>
+                            <padding>
+                                <Insets left="10.0" />
+                            </padding>
+                        </Label>
+                    </content>
+                </ScrollPane>
             </children>
         </VBox>
     </center>

@@ -4,7 +4,7 @@ import hust.soict.globalict.core.utils.SparqlUtils;
 
 
 public class NationalPark extends NaturalAttraction{
-    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/attraction/naturalAttraction/NationalPark.ttl";
+    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/attraction/naturalAttraction/NationalPark";
     private final String governingBody = "?data dbp:governingBody ?gov.";
     private final String nearestCity = "?data dbp:nearestCity ?city.";
     private final String areaTotal = "?data dbo:areaTotal ?area.";

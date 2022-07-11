@@ -1,5 +1,6 @@
 package hust.soict.globalict.screen.controller;
 
+import java.util.ArrayList;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -24,7 +25,7 @@ import javafx.scene.control.TreeItem;
 import javafx.scene.control.TreeView;
 
 public class DemoController {
-    Map<String, Map<String, Pair<String, String>>> Category = new TreeMap<String, Map<String, Pair<String, String>>>();
+    Map<String, Map<String, ArrayList<Pair<String, String>>>> Category = new TreeMap<>();
 
 
     @FXML
@@ -41,20 +42,23 @@ public class DemoController {
         TreeItem<String> item = selectionFIleNameTree.getSelectionModel().getSelectedItem();
         String content = "";
         if(item != null && Category.containsKey(item.getValue())) {
-        	System.out.println("Querying " + item.getValue());
-        	String currentSubject = "";
-        	Map<String, Pair<String, String>> itemData = Category.get(item.getValue()); 
-          for(Map.Entry<String, Pair<String, String>> entry : itemData.entrySet()){
-        	  String predicateObject = "	" + entry.getValue().getPredicate() + ": " + entry.getValue().getObject() + "\n";
-        	  if(currentSubject.equals(entry.getKey())) {
-        		  content += predicateObject;
-        	  }else {
-        		  content += entry.getKey() + ":\n" +  predicateObject;
-        		  currentSubject = entry.getKey();
-        	  }
-          }
-          objectLabel.setText(item.getValue());
-          informationLabel.setText(content);
+            System.out.println("Querying " + item.getValue());
+            String currentSubject = "";
+            String currentPredicate = "";
+            Map<String, ArrayList<Pair<String, String>>> itemData = Category.get(item.getValue());
+            for(Map.Entry<String, ArrayList<Pair<String, String>>> entry : itemData.entrySet()){
+                for(Pair<String, String> pair: entry.getValue()) {
+                    String predicateObject = "	" + pair.getPredicate() + ": " + pair.getObject() + "\n";
+                    if(currentSubject.equals(entry.getKey())) {
+                        content += predicateObject;
+                    }else {
+                        content += entry.getKey() + ":\n" +  predicateObject;
+                        currentSubject = entry.getKey();
+                    }
+                }
+            }
+            objectLabel.setText(item.getValue());
+            informationLabel.setText(content);
         }
     }
 
@@ -80,23 +84,23 @@ public class DemoController {
     }
 
     public void initialize() {
-    	mapInitial();
+        mapInitial();
         String [] mainTopic = {
-        		"Attraction",
+                "Attraction",
                 "Festival",
                 "Culture",
                 "Accomodation",
                 "Travel"
         };
         String [][] subTopic = {
-        		{"NaturalAttraction", "ManMadeAttraction"},
+                {"NaturalAttraction", "ManMadeAttraction"},
                 {null, null},
                 {null, null},
                 {"Resort", "Hotel"},
                 {"Railway Station", "Airport"},
         };
-        String [][][] objectTopic = { 
-        		{{"Beach", "National Park", "Lake", "Cave"}, {"Bridge", "Skyscraper","Temple","Museum"}},
+        String [][][] objectTopic = {
+                {{"Beach", "National Park", "Lake", "Cave"}, {"Bridge", "Skyscraper","Temple","Museum"}},
                 {{null, null, null, null}, {null, null, null,null}},
                 {{null, null, null, null}, {null, null, null,null}},
                 {{null, null, null, null}, {null, null, null,null}},

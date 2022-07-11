@@ -1,7 +1,7 @@
 package hust.soict.globalict.core.tourism.attraction.manMadeAttraction.building;
 
 public class Temple extends Building {
-    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/attraction/manMadeAttraction/building/Temple.ttl";
+    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/attraction/manMadeAttraction/building/Temple";
     private final String temple = """
                     ?data dct:subject dbc:Confucian_temples_in_Vietnam.
                 """;

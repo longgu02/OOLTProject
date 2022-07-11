@@ -5,7 +5,7 @@ import hust.soict.globalict.core.utils.SparqlUtils;
 
 
 public class Festival extends Tourism{
-    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/festival/Festival.ttl";
+    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/festival/Festival";
 	private final String meaning = "?data dbo:meaning ?meaning.";
     private final String similar = "?data dbo:similar ?similar.";
     private final String celebrations = "?data dbp:celebrations ?celebration.";

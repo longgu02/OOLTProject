@@ -4,7 +4,7 @@ import hust.soict.globalict.core.tourism.attraction.manMadeAttraction.ManMadeAtt
 import hust.soict.globalict.core.utils.SparqlUtils;
 
 public class Skyscraper extends ManMadeAttraction{
-    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/attraction/manMadeAttraction/building/Skyscraper.ttl";
+    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/attraction/manMadeAttraction/building/Skyscraper";
     private final String owner = "?data dbp:owner ?owner.";
     private final String address = "?data dbo:address ?address.";
     private final String height = "?data dbo:height ?height.";

@@ -3,7 +3,7 @@ package hust.soict.globalict.core.tourism.attraction.naturalAttraction;
 import hust.soict.globalict.core.utils.SparqlUtils;
 
 public class Cave extends NaturalAttraction{
-    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/attraction/naturalAttraction/Cave.ttl";
+    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/attraction/naturalAttraction/Cave";
     private final String length = "?data dbo:length ?length.";
     private final String depth = "?data dbp:depth ?depth.";
     private final String discovery = "?data dbp:discovery ?discovery.";

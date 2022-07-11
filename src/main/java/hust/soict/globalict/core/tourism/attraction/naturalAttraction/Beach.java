@@ -3,7 +3,7 @@ package hust.soict.globalict.core.tourism.attraction.naturalAttraction;
 import hust.soict.globalict.core.utils.SparqlUtils;
 
 public class Beach extends NaturalAttraction{
-    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/attraction/naturalAttraction/Beach.ttl";
+    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/attraction/naturalAttraction/Beach";
     private final String comment = "?data rdfs:comment ?comment.";
     private final String label = "?data rdfs:label ?label.";
 //    private String discovery = "?data dbp:discovery ?discovery";

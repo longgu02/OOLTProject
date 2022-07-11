@@ -2,7 +2,9 @@ package hust.soict.globalict.core.tourism;
 
 
 
+import hust.soict.globalict.core.exceptions.FileTypeNotValidException;
 import hust.soict.globalict.core.exceptions.QueryException;
+import hust.soict.globalict.core.utils.FileExportUtils;
 import hust.soict.globalict.core.utils.Pair;
 import org.apache.jena.query.Query;
 import org.apache.jena.query.QueryExecution;
@@ -13,7 +15,6 @@ import org.apache.jena.rdf.model.StmtIterator;
 import org.apache.jena.riot.RDFDataMgr;
 
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.util.*;
 
 public abstract class Tourism {
@@ -52,10 +53,9 @@ public abstract class Tourism {
                 + whereQueryPart + "}";
     }
 
-    public void executeQuery() throws QueryException {
+    public void executeQuery(String fileType) throws QueryException {
         String serviceQuery = "http://dbpedia.org/sparql";
         try{
-            FileOutputStream fileLocation = new FileOutputStream(path);
             String queryString = this.getSPARQLQuery();
             Query query = QueryFactory.create(queryString);
             try(QueryExecution qexec = QueryExecution.service(serviceQuery).query(query).build()) {
@@ -64,11 +64,13 @@ public abstract class Tourism {
                 Statement statement = it.next();
                 String subjectCheck = statement.getSubject().toString();
                 if(!subjectCheck.equals("https://dbpedia.org/sparql#service")){
-                    results.write(System.out, "TURTLE");
-                    results.write(fileLocation, "TURTLE");
+                    results.write(System.out, fileType);
+                    FileExportUtils.exportFile(results, path, fileType);
                 }else{
                     throw new QueryException("Your Query is too long, please reduce it");
                 }
+            } catch (FileTypeNotValidException e) {
+                throw new RuntimeException(e);
             }
             // SELECT QUERY
 //            ResultSet rs = qexec.execSelect();
@@ -79,16 +81,21 @@ public abstract class Tourism {
         }
     }
 
-    public Map<String, Pair<String, String>> getStructuredDataMap() {
-        Map<String, Pair<String, String>> structuredDataMap = new TreeMap<>();
-        Model model = RDFDataMgr.loadModel(path);
+    public Map<String, ArrayList<Pair<String, String>>> getStructuredDataMap() {
+        Map<String, ArrayList<Pair<String, String>>> structuredDataMap = new TreeMap<>();
+        Model model = RDFDataMgr.loadModel(path + ".ttl");
         StmtIterator it =  model.listStatements();
             while (it.hasNext()) {
                 Statement statement = it.next();
                 String subject = statement.getSubject().toString().split("/")[4].replace("_", " ");
                 String predicate = statement.getPredicate().toString().split("/")[4].replace("_", " ");
                 String object  = statement.getObject().toString();
-                structuredDataMap.put(subject, new Pair<>(predicate, object));
+                if(predicate.equals("01")) predicate = "label";
+                if(structuredDataMap.get(subject) == null){
+                    structuredDataMap.put(subject, new ArrayList<Pair<String, String>>());
+                }else{
+                    structuredDataMap.get(subject).add(new Pair<>(predicate, object));
+                }
             }
         return structuredDataMap;
     }

@@ -4,7 +4,7 @@ import hust.soict.globalict.core.utils.SparqlUtils;
 
 public class Resort extends Accommodation{
 
-    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/accommodation/Resort.ttl";
+    private final String path = "src/main/java/hust/soict/globalict/core/resources/data/accommodation/Resort";
     private final String numberOfBars = "?data dbo:numberOfBars ?nob.";
     private final String numberOfRestaurants = "?data dbo:numberOfRestaurants ?nor.";
     private final String query = """

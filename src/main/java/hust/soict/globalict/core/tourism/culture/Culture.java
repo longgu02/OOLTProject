@@ -4,7 +4,7 @@ import hust.soict.globalict.core.tourism.Tourism;
 import hust.soict.globalict.core.utils.SparqlUtils;
 
 public class Culture extends Tourism{
-	private final String path = "src/main/java/hust/soict/globalict/core/resources/data/culture/Culture.ttl";
+	private final String path = "src/main/java/hust/soict/globalict/core/resources/data/culture/Culture";
 	private final String label = "?data rdfs:label ?label." ;
 	private final String comment = "?data rdfs:comment ?comment.";
 	private final String wasDerivedFrom = "?data prov:wasDerivedFrom ?wasDerivedFrom.";
